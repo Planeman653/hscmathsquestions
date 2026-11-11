@@ -1,0 +1,20 @@
+{
+ "papers": [
+  {
+   "key": "extension2|Blacktown Boys 2026 w. sol",
+   "course": "extension2",
+   "title": "Blacktown Boys 2026 w. sol",
+   "status": "indexed",
+   "note": "ext2-2026-blacktown-boys",
+   "date": "2026-11-11"
+  },
+  {
+   "key": "extension2|Hornsby Girls 2026 w. sol",
+   "course": "extension2",
+   "title": "Hornsby Girls 2026 w. sol",
+   "status": "indexed",
+   "note": "ext2-2026-hornsby-girls",
+   "date": "2026-11-11"
+  }
+ ]
+}

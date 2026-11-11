@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HSC Mathematics Extension 1 — Question Bank</title>
+<meta name="description" content="HSC Mathematics Extension 1 past-paper questions sorted by syllabus topic and dot point.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<link rel="stylesheet" href="assets/style.css">
+<script defer src="assets/app.js"></script>
+</head>
+<body data-course="extension1">
+<header class="topbar"><div class="topbar-inner">
+  <a class="brand" href="index.html">HSC Maths <span>Question Bank</span></a>
+  <nav class="tabs"><a href="advanced.html" class="">Advanced</a><a href="extension1.html" class="on">Extension 1</a><a href="extension2.html" class="">Extension 2</a></nav>
+  <span class="spacer"></span>
+  <button class="filters-btn" id="filters-open">Filters</button>
+  <button class="basket-btn" id="basket-open">PDF builder<b id="basket-n">0</b></button>
+</div></header>
+
+<div class="layout">
+<aside class="sidebar" id="sidebar">
+  <div class="panel-title">Search</div>
+  <input class="search" id="search" type="search" placeholder="e.g. induction, Ascham, Q14">
+  <div class="panel-title">Difficulty</div>
+  <div class="chips">
+    <button class="chip on" data-diff="1">1 Easy</button><button class="chip on" data-diff="2">2 Moderate</button>
+    <button class="chip on" data-diff="3">3 Medium</button><button class="chip on" data-diff="4">4 Hard</button>
+    <button class="chip on" data-diff="5">5 Very hard</button>
+  </div>
+  <div class="panel-title">Question type</div>
+  <div class="chips"><button class="chip on" data-kind="mc">Multiple choice</button><button class="chip on" data-kind="written">Written</button></div>
+  <div class="panel-title">Answers</div>
+  <label class="switch"><input type="checkbox" id="answers"> Show all answers</label>
+  <div class="panel-title">Sort &amp; group</div>
+  <div class="row">
+    <select id="sort" aria-label="Sort">
+      <option value="syllabus">Syllabus order</option>
+      <option value="diff-asc">Difficulty: easy → hard</option>
+      <option value="diff-desc">Difficulty: hard → easy</option>
+      <option value="newest">Newest paper first</option>
+      <option value="marks">Marks: low → high</option>
+    </select>
+    <select id="group" aria-label="Group">
+      <option value="subtopic">Group by topic</option>
+      <option value="dotpoint">Group by dot point</option>
+      <option value="none">No grouping</option>
+    </select>
+  </div>
+  <div class="panel-title" style="display:flex;align-items:center;gap:8px">Topics &amp; dot points <span style="flex:1"></span><button class="linkish" id="clear-topics">clear</button></div>
+  <label class="switch" style="font-size:13px;margin-bottom:6px"><input type="checkbox" id="hide-empty" checked> Hide dot points with no questions</label>
+  <div class="tree" id="tree"></div>
+  <details style="margin-top:12px"><summary class="panel-title" style="cursor:pointer">Source papers</summary><div id="papers"></div></details>
+  <div style="margin-top:14px"><button class="btn" id="reset">Reset all filters</button></div>
+</aside>
+
+<main class="main">
+  <div class="doc">
+    <div class="doc-head">
+      <h1>HSC Mathematics Extension 1</h1>
+      <div class="sub">Question Bank by Topic</div>
+      <p id="sources"></p>
+      <p>Questions are grouped by syllabus topic, then by subtopic. The source paper and marks are shown under each question. <span id="generated"></span></p>
+    </div>
+    <div class="toolbar">
+      <span class="count" id="count"></span><span style="flex:1"></span>
+      <button class="btn" id="add-all">Add all shown to PDF</button>
+    </div>
+    <nav class="contents" id="contents"></nav>
+    <div id="questions"><div class="none">Loading…</div></div>
+  </div>
+</main>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-label="PDF builder">
+  <header><h3>PDF builder</h3><button class="btn" id="drawer-close">Close</button></header>
+  <div class="body">
+    <label for="pdf-title">Title</label>
+    <input type="text" id="pdf-title" placeholder="Mathematics Extension 1 — Practice Questions">
+    <label for="pdf-answers">Answers</label>
+    <select id="pdf-answers"><option value="end">Answer key at the end</option><option value="inline">Under each question</option><option value="none">No answers</option></select>
+    <label for="pdf-space">Working space (written questions)</label>
+    <select id="pdf-space"><option value="none">None</option><option value="s">Small</option><option value="l">Large</option></select>
+    <label for="pdf-order">Order</label>
+    <select id="pdf-order"><option value="added">Order added</option><option value="syllabus">Syllabus order</option><option value="diff">Easy → hard</option></select>
+    <label class="switch" style="margin-top:12px;color:var(--ink)"><input type="checkbox" id="pdf-src" checked> Show source of each question</label>
+    <label>Selected <span id="basket-marks"></span></label>
+    <ol id="basket-list"></ol>
+  </div>
+  <footer><button class="btn" id="basket-clear">Clear</button><button class="btn primary" id="make-pdf">Generate PDF</button></footer>
+</aside>
+<div id="toast" style="display:none;position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--accent);color:var(--accent-ink);padding:8px 16px;border-radius:999px;z-index:60;font-size:14px"></div>
+<div id="print-root"></div>
+</body>
+</html>

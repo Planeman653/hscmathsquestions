@@ -1,0 +1,611 @@
+{
+ "id": "ext2-2026-hornsby-girls",
+ "course": "extension2",
+ "school": "Hornsby Girls",
+ "year": 2026,
+ "type": "Trial",
+ "thsc": {
+  "viewno": "5348",
+  "title": "Hornsby Girls 2026 w. sol"
+ },
+ "indexed": "2026-11-11",
+ "answers": "short",
+ "note": "Imported from the 'HSC Ext 2 Question Bank by Topic' document (short answers).",
+ "dropped": [
+  {
+   "ref": "Q11(c)(i)",
+   "reason": "Asks for exponential (Euler) form, which is not in the 2024 Ext 2 syllabus"
+  }
+ ],
+ "questions": [
+  {
+   "ref": "Q1",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.5.5"
+   ],
+   "question": "Let $R$ be the region of the complex plane defined by $|z - 2 - 3i| \\leq 2$ and $\\frac{\\pi}{6} < Arg(z) \\leq \\frac{\\pi}{3}$.\n\nSketch the region $R$ on an Argand diagram. Show clearly which boundary points are included (solid line) and which are excluded (dashed line or open circle), including the points where the rays meet the circle.",
+   "answer": "The part of the disc with centre $(2,3)$ and radius $2$ lying between the two rays. The circle and the ray $Arg(z) = \\frac{\\pi}{3}$ are included; the ray $Arg(z) = \\frac{\\pi}{6}$ is excluded."
+  },
+  {
+   "ref": "Q2",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.1.2.2",
+    "12.1.1.1"
+   ],
+   "question": "Consider the proposition: 'If each term in a geometric series is smaller than the previous term, then $0 < r < 1$.'\n\nGiven the first term $T_{1}$ and common ratio $r$ of each geometric series below, which one disproves the proposition?",
+   "options": [
+    "$T_{1} = 2,\\ r = 2$",
+    "$T_{1} = 8,\\ r = 0.5$",
+    "$T_{1} = - 2,\\ r = 2$",
+    "$T_{1} = 8,\\ r = - 0.5$"
+   ],
+   "correct": "C",
+   "answer": "**C**"
+  },
+  {
+   "ref": "Q3",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.1.1.11"
+   ],
+   "question": "Consider the statement: 'If I have a scientific calculator in my bag and I study Extension 2 Mathematics, then I am a problem solver.'\n\nWhich of the following is the contrapositive of this statement?",
+   "options": [
+    "If I am a problem solver, then I have a scientific calculator in my bag and I study Extension 2 Mathematics.",
+    "If I am not a problem solver, then I do not have a scientific calculator in my bag or I do not study Extension 2 Mathematics.",
+    "If I am a problem solver, then I do not have a scientific calculator in my bag or I do not study Extension 2 Mathematics.",
+    "If I am not a problem solver, then I do not have a scientific calculator in my bag but I study Extension 2 Mathematics."
+   ],
+   "correct": "B",
+   "answer": "**B**"
+  },
+  {
+   "ref": "Q4",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.11"
+   ],
+   "question": "Which of the following expressions has an anti-derivative that includes $\\sin^{- 1}\\left( f(x) \\right)$?",
+   "options": [
+    "$\\frac{2x}{\\sqrt{x^{4} - 2x^{2} + 1}}$",
+    "$\\frac{2x}{\\sqrt{- x^{4} - 4x^{2} + 5}}$",
+    "$\\frac{2x}{x^{4} - 2x^{2} + 1}$",
+    "$\\frac{2x}{- x^{4} - 4x^{2} + 5}$"
+   ],
+   "correct": "B",
+   "answer": "**B**"
+  },
+  {
+   "ref": "Q5",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.1.1.8"
+   ],
+   "question": "Let $\\overrightarrow{OA} = \\mathbf{a}$, $\\overrightarrow{AB} = \\mathbf{b}$ and $\\overrightarrow{BO} = \\mathbf{c}$. Consider the statement: 'If $\\mathbf{a} + \\mathbf{b} + \\mathbf{c} = \\mathbf{0}$ then the points $O$, $A$ and $B$ form a triangle.'\n\nThe converse of the statement is:",
+   "options": [
+    "If the points $O$, $A$ and $B$ do not form a triangle then $\\mathbf{a} + \\mathbf{b} + \\mathbf{c} \\neq \\mathbf{0}$.",
+    "If $\\mathbf{a} + \\mathbf{b} + \\mathbf{c} \\neq \\mathbf{0}$ then $O$, $A$ and $B$ do not form a triangle.",
+    "If the points $O$, $A$ and $B$ form a triangle then $\\mathbf{a} + \\mathbf{b} + \\mathbf{c} \\neq \\mathbf{0}$.",
+    "If the points $O$, $A$ and $B$ form a triangle then $\\mathbf{a} + \\mathbf{b} + \\mathbf{c} = \\mathbf{0}$."
+   ],
+   "correct": "D",
+   "answer": "**D**"
+  },
+  {
+   "ref": "Q6",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.1.4"
+   ],
+   "question": "A particle of mass 100 kilograms is moving in three-dimensional space and is subject to a constant force. Its displacement in metres from a fixed point after $t$ seconds is\n\n$$\\mathbf{r} = \\begin{pmatrix}\n4t^{2} + 4t + 1 \\\\\n3t - 4 \\\\\n5 - 3t^{2}\n\\end{pmatrix}.$$\n\nWhat is the magnitude of the force acting on the particle?",
+   "options": [
+    "200 N",
+    "648 N",
+    "1000 N",
+    "1374 N"
+   ],
+   "correct": "C",
+   "answer": "**C** — The acceleration is $\\begin{pmatrix}\n8 \\\\\n0 \\\\\n - 6\n\\end{pmatrix}$ m/s², with magnitude $10$ m/s²."
+  },
+  {
+   "ref": "Q7",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.8"
+   ],
+   "question": "A particle moving in a straight line obeys $v^{2} = 9\\left( 5 + 4x - x^{2} \\right)$, where $x$ is the displacement from the origin in metres and $v$ is its velocity in m/s. Where is the centre of the motion?",
+   "options": [
+    "$x = - 1$",
+    "$x = 0$",
+    "$x = 2$",
+    "$x = 5$"
+   ],
+   "correct": "C",
+   "answer": "**C**"
+  },
+  {
+   "ref": "Q8",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.3.1"
+   ],
+   "question": "A stone is thrown horizontally with speed $V = \\sqrt{2gH}$ m/s from the top point $O$ of a vertical tower of height $H$ metres, standing on horizontal ground. It moves in a vertical plane under gravity, where the acceleration due to gravity is $g$ m/s². At time $t$ seconds the stone has position vector $Vt\\,\\mathbf{i} - \\frac{1}{2}gt^{2}\\,\\mathbf{j}$ relative to $O$. The stone hits the ground at time $T$ seconds at a distance $X$ metres from the foot of the tower. What is the value of $X$?",
+   "options": [
+    "$\\frac{1}{2}H$",
+    "$H$",
+    "$2H$",
+    "$4H$"
+   ],
+   "correct": "C",
+   "answer": "**C**"
+  },
+  {
+   "ref": "Q9",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.15"
+   ],
+   "question": "Let $g(x)$ be a function with first derivative given by $g\\prime(x) = \\int_{0}^{x}e^{- t^{2}}\\, dt$. Which of the following must be true on the interval $0 < x < 2$?",
+   "options": [
+    "$g(x)$ is increasing and the graph of $g(x)$ is concave up.",
+    "$g(x)$ is increasing and the graph of $g(x)$ is concave down.",
+    "$g(x)$ is decreasing and the graph of $g(x)$ is concave up.",
+    "$g(x)$ is decreasing and the graph of $g(x)$ is concave down."
+   ],
+   "correct": "A",
+   "answer": "**A**"
+  },
+  {
+   "ref": "Q10",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.5.5"
+   ],
+   "question": "The complex number $z = x + iy$ satisfies $|z| \\leq y + 1$ and $|z| \\leq x + 1$. What is the maximum possible value of $|z|$?",
+   "options": [
+    "$1 - \\sqrt{2}$",
+    "$1 + \\sqrt{2}$",
+    "$2 - \\sqrt{2}$",
+    "$2 + \\sqrt{2}$"
+   ],
+   "correct": "D",
+   "answer": "**D**"
+  },
+  {
+   "ref": "Q11(a)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.1.13"
+   ],
+   "question": "Express $\\frac{4 - 3i}{3 + 2i}$ in the form $x + iy$, where $x$ and $y$ are real numbers.",
+   "answer": "$\\frac{6}{13} - \\frac{17}{13}i$"
+  },
+  {
+   "ref": "Q11(b)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.6"
+   ],
+   "question": "Evaluate\n\n$$\\int\\cos^{3}x\\sin^{2}x\\, dx.$$",
+   "answer": "$\\frac{\\sin^{3}x}{3} - \\frac{\\sin^{5}x}{5} + C$"
+  },
+  {
+   "ref": "Q11(c)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.4.3"
+   ],
+   "question": "Find the exact value of $\\left( - 1 + \\sqrt{3}\\, i \\right)^{8}$, giving your answer in the form $x + iy$.",
+   "answer": "$- 128 - 128\\sqrt{3}\\, i$"
+  },
+  {
+   "ref": "Q11(d)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.2.5"
+   ],
+   "question": "A triangle $PQR$ is formed in three-dimensional space with vertices $P(3, - 2,4)$, $Q( - 2,1,5)$ and $R(5, - 1,2)$. Find the size of $\\angle QRP$, giving your answer to the nearest degree.",
+   "answer": "$40^{\\circ}$"
+  },
+  {
+   "ref": "Q11(e)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.5"
+   ],
+   "question": "Let $\\mathbf{r}_{1} = \\begin{pmatrix}\n5 \\\\\n - 2\n\\end{pmatrix} + \\lambda\\begin{pmatrix}\n2 \\\\\n3\n\\end{pmatrix},\\ \\lambda \\in \\mathbb{R}$, be the vector equation of the line $L_{1}$. A second line $L_{2}$ passes through the point $P( - 2,4)$ and is parallel to $L_{1}$. Find the equation of the line $L_{2}$ in the form $y = mx + c$.",
+   "answer": "$y = \\frac{3}{2}x + 7$"
+  },
+  {
+   "ref": "Q11(f)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.5"
+   ],
+   "question": "Using the substitution $t = \\tan\\frac{x}{2}$, find\n\n$$\\int\\frac{dx}{1 - \\sin x}.$$",
+   "answer": "$- \\frac{2}{\\tan\\frac{x}{2} - 1} + C$"
+  },
+  {
+   "ref": "Q12(a)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.1.3.5",
+    "12.1.3.2"
+   ],
+   "question": "For positive real numbers $a$ and $b$, prove that $\\frac{a + b}{2} \\geq \\sqrt{ab}$.",
+   "answer": "Proof (start from $\\left( \\sqrt{a} - \\sqrt{b} \\right)^{2} \\geq 0$)."
+  },
+  {
+   "ref": "Q12(a)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.1.3.3"
+   ],
+   "question": "Given $a \\geq b > 0$, prove that $\\frac{1}{a} \\leq \\frac{1}{b}$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q12(a)(iii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.1.3.6",
+    "12.1.3.5"
+   ],
+   "question": "Given positive real numbers $p$ and $q$, consider $f(x) = \\frac{x}{(x + p)(x + q)}$.\n\nBy using the results $\\frac{a + b}{2} \\geq \\sqrt{ab}$ (for positive $a$, $b$) and $\\frac{1}{a} \\leq \\frac{1}{b}$ (for $a \\geq b > 0$), or otherwise, prove that for $x > 0$\n\n$$f(x) \\leq \\frac{1}{\\left( \\sqrt{p} + \\sqrt{q} \\right)^{2}}.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q12(b)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.7"
+   ],
+   "question": "Find integers $A$, $B$ and $C$ such that\n\n$$\\frac{x^{2} + 3x + 18}{\\left( x^{2} + 4 \\right)(x - 5)} = \\frac{Ax + B}{x^{2} + 4} + \\frac{C}{x - 5}.$$",
+   "answer": "$A = - 1,\\ B = - 2,\\ C = 2$"
+  },
+  {
+   "ref": "Q12(b)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.8"
+   ],
+   "question": "Find\n\n$$\\int\\frac{x^{2} + 3x + 18}{\\left( x^{2} + 4 \\right)(x - 5)}\\, dx.$$",
+   "answer": "$- \\frac{1}{2}\\ln\\left( x^{2} + 4 \\right) - \\tan^{- 1}\\frac{x}{2} + 2\\ln|x - 5| + C$"
+  },
+  {
+   "ref": "Q12(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.1.2"
+   ],
+   "question": "A particle moves along the $x$ axis. At time $t$ seconds it has displacement $x$ metres from the origin $O$, velocity $v$ m/s and acceleration $a$ m/s² given by $a = - \\frac{1}{50}(10 - x)^{3}$. Initially the particle is at $O$ and moving to the right of $O$ with speed 10 m/s.\n\nUse integration to show that $v = \\frac{1}{10}(10 - x)^{2}$.",
+   "answer": "Proof (justify taking the positive root)."
+  },
+  {
+   "ref": "Q12(c)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.1.2"
+   ],
+   "question": "A particle moves along the $x$ axis with velocity $v = \\frac{1}{10}(10 - x)^{2}$ m/s, where $x$ is its displacement in metres from the origin $O$ at time $t$ seconds. Initially the particle is at $O$.\n\nUse integration to show that $x = \\frac{10t}{1 + t}$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q13(a)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.2.1"
+   ],
+   "question": "Prove by contradiction that $\\log_{4}7$ is irrational.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q13(b)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.4.5"
+   ],
+   "question": "A sequence is defined recursively as $u_{0} = 5$, $u_{n} = 2u_{n - 1} + 1$ for $n \\geq 1$.\n\nUse mathematical induction to prove that $u_{n} = 3\\left( 2^{n + 1} \\right) - 1$ for all positive integers $n$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q13(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.4.5"
+   ],
+   "question": "Solve the equation $z^{5} = 1$, giving the roots in modulus/argument form.",
+   "answer": "$1,\\ cis\\left( \\pm \\frac{2\\pi}{5} \\right),\\ cis\\left( \\pm \\frac{4\\pi}{5} \\right)$"
+  },
+  {
+   "ref": "Q13(c)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.4.12"
+   ],
+   "question": "Using the roots of $z^{5} = 1$, show that\n\n$$z^{4} + z^{3} + z^{2} + z + 1 = \\left( z^{2} - 2z\\cos\\frac{2\\pi}{5} + 1 \\right)\\left( z^{2} - 2z\\cos\\frac{4\\pi}{5} + 1 \\right).$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q13(c)(iii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.4.12"
+   ],
+   "question": "Using the factorisation $z^{4} + z^{3} + z^{2} + z + 1 = \\left( z^{2} - 2z\\cos\\frac{2\\pi}{5} + 1 \\right)\\left( z^{2} - 2z\\cos\\frac{4\\pi}{5} + 1 \\right)$, show that\n\n$$4\\left( 1 - \\cos\\frac{2\\pi}{5} \\right)\\left( 1 - \\cos\\frac{4\\pi}{5} \\right) = 5.$$",
+   "answer": "Proof (substitute $z = 1$)."
+  },
+  {
+   "ref": "Q13(c)(iv)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.4.12"
+   ],
+   "question": "Given that $4\\left( 1 - \\cos\\frac{2\\pi}{5} \\right)\\left( 1 - \\cos\\frac{4\\pi}{5} \\right) = 5$, show that $x = \\cos\\frac{2\\pi}{5}$ is a root of the equation $8x^{3} - 8x^{2} - 8x + 3 = 0$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q14(a)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.3",
+    "12.2.2.1"
+   ],
+   "question": "The line through $A(1, - 1,3)$ and $B(4,5,0)$ meets the line through $C(0,9,10)$ and $D(1,7,7)$ at the point $E$.\n\nProve that $\\overrightarrow{AB}$ is perpendicular to $\\overrightarrow{CD}$.",
+   "answer": "Proof ($\\overrightarrow{AB} \\cdot \\overrightarrow{CD} = 0$)."
+  },
+  {
+   "ref": "Q14(a)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.2.1.10"
+   ],
+   "question": "The line through $A(1, - 1,3)$ and $B(4,5,0)$ meets the line through $C(0,9,10)$ and $D(1,7,7)$ at the point $E$. Find the coordinates of $E$.",
+   "answer": "$E(3,3,1)$"
+  },
+  {
+   "ref": "Q14(b)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.1.14",
+    "12.3.4.7"
+   ],
+   "question": "Given that $z = 1 - \\sqrt{3}\\, i$, find the two square roots of $z$ in the form $a + ib$.",
+   "answer": "$\\pm \\frac{\\sqrt{6} - \\sqrt{2}\\, i}{2}$"
+  },
+  {
+   "ref": "Q14(c)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.4.12"
+   ],
+   "question": "Consider the complex number $\\omega$, which is the non-real solution to $z^{5} - 1 = 0$ with the smallest positive argument. Using the fact that $z = \\omega^{2} + \\frac{1}{\\omega^{2}}$ is a root of $z^{2} + z - 1 = 0$, show that\n\n$$\\cos\\frac{4\\pi}{5} = - \\frac{\\sqrt{5} + 1}{4}.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q14(d)(i)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.4.11",
+    "12.3.4.10"
+   ],
+   "question": "Let points $A$ and $B$ on the complex plane represent the complex numbers $z_{A} = 1 + i$ and $z_{B} = - 4$ respectively. The isosceles triangle $ABC$ is right-angled at $C$. Find the possible values of $z_{C}$, represented by the point $C$.",
+   "answer": "$z_{C} = - 2 + 3i$ or $z_{C} = - 1 - 2i$"
+  },
+  {
+   "ref": "Q14(d)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.4.11"
+   ],
+   "question": "Let points $A$ and $B$ on the complex plane represent $z_{A} = 1 + i$ and $z_{B} = - 4$ respectively. The line segment between, but not including, the points $A$ and $B$ has equation\n\n$$\\arg\\left( z + x_{1} + iy_{1} \\right) - \\arg\\left( z + x_{2} + iy_{2} \\right) = \\theta.$$\n\nFind the values of $x_{1}$, $y_{1}$, $x_{2}$, $y_{2}$ and $\\theta$.",
+   "answer": "$x_{1} = 4,\\ y_{1} = 0,\\ x_{2} = - 1,\\ y_{2} = - 1,\\ \\theta = \\pi$"
+  },
+  {
+   "ref": "Q15(a)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.9"
+   ],
+   "question": "A particle is undergoing simple harmonic motion on the $x$-axis about the origin. It is initially at its extreme positive position. The amplitude of the motion is 10 and the particle returns to its initial position every 7 seconds. Write an equation for the position of the particle at time $t$ seconds.",
+   "answer": "$x = 10\\cos\\frac{2\\pi}{7}t$"
+  },
+  {
+   "ref": "Q15(a)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.2.10"
+   ],
+   "question": "A particle undergoes simple harmonic motion on the $x$-axis about the origin with amplitude 10 and period 7 seconds. How long does the particle take to move from a rest position to the point halfway between the rest position and the equilibrium position?",
+   "answer": "$\\frac{7}{6}$ seconds"
+  },
+  {
+   "ref": "Q15(b)(i)",
+   "kind": "written",
+   "marks": 6,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.5.4.3",
+    "12.5.4.2",
+    "12.5.4.4"
+   ],
+   "question": "A particle of mass $m$ kg is set in motion with speed $u$ m/s and moves in a straight line before coming to rest. After time $t$ seconds the particle has displacement $x$ metres from its starting point $O$, velocity $v$ m/s and acceleration $a$ m/s². The resultant force acting on the particle directly opposes its motion and has magnitude $m(1 + v)$ newtons, so that $a = - (1 + v)$.\n\nFind expressions for $x$ in terms of $v$, $v$ in terms of $t$, and $x$ in terms of $t$.",
+   "answer": "$x = u - v + \\ln\\frac{1 + v}{1 + u}$; $\\ v = (1 + u)e^{- t} - 1$; $\\ x = u + 1 - t - (1 + u)e^{- t}$"
+  },
+  {
+   "ref": "Q15(b)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.5.4.5"
+   ],
+   "question": "A particle of mass $m$ kg is set in motion with speed $u$ m/s in a straight line, with acceleration $a = - (1 + v)$ m/s². After time $t$ seconds it has displacement $x$ metres from its starting point and velocity $v$ m/s. Show that $x + v + t = u$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(b)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.5.4.5"
+   ],
+   "question": "A particle is set in motion with speed $u$ m/s in a straight line, with acceleration $a = - (1 + v)$ m/s², where $v$ is its velocity. Find the distance travelled and the time taken by the particle in coming to rest.",
+   "answer": "Distance $u - \\ln(1 + u)$ metres; time $\\ln(1 + u)$ seconds."
+  },
+  {
+   "ref": "Q15(c)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.13"
+   ],
+   "question": "Use integration by parts to evaluate\n\n$$\\int_{0}^{1}\\sin^{- 1}x\\, dx.$$",
+   "answer": "$\\frac{\\pi}{2} - 1$"
+  },
+  {
+   "ref": "Q16(a)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.1.3.6"
+   ],
+   "question": "If $a > 1$, $b > 1$ and $c > 1$ such that $\\frac{a}{b} \\geq \\frac{c}{a}$, show that $\\frac{\\ln a}{\\ln b} \\geq \\frac{\\ln c}{\\ln a}$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q16(b)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.14"
+   ],
+   "question": "Let $I_{n} = \\int_{1}^{e}\\left( \\ln x \\right)^{n}\\, dx$ for $n = 0,1,2,\\ldots$\n\nProve that $I_{n + 1} = e - (n + 1)I_{n}$ for $n = 0,1,2,\\ldots$ and hence prove $I_{2} = e - 2$.",
+   "answer": "Proof; $I_{0} = e - 1$, $I_{1} = 1$, $I_{2} = e - 2$."
+  },
+  {
+   "ref": "Q16(b)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.1.4.3",
+    "12.4.1.14"
+   ],
+   "question": "Let $I_{n} = \\int_{1}^{e}\\left( \\ln x \\right)^{n}\\, dx$, where $I_{n + 1} = e - (n + 1)I_{n}$ and $I_{2} = e - 2$.\n\nUse mathematical induction to prove that\n\n$$I_{n} = ( - 1)^{n + 1}\\, n! + ( - 1)^{n}\\, e\\, n!\\sum_{r = 2}^{n}\\frac{( - 1)^{r}}{r!}$$\n\nfor all positive integers $n \\geq 2$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q16(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.2.2.5"
+   ],
+   "question": "Given three vectors $\\mathbf{a}$, $\\mathbf{b}$ and $\\mathbf{c}$ that form a triangle, the vectors $\\mathbf{u}$, $\\mathbf{v}$, $\\mathbf{w}$ are defined as\n\n$\\mathbf{u} = \\left( \\mathbf{b} \\cdot \\mathbf{c} \\right)\\,\\mathbf{a} - \\left( \\mathbf{c} \\cdot \\mathbf{a} \\right)\\,\\mathbf{b}$\n\n$\\mathbf{v} = \\left( \\mathbf{a} \\cdot \\mathbf{c} \\right)\\,\\mathbf{b} - \\left( \\mathbf{a} \\cdot \\mathbf{b} \\right)\\,\\mathbf{c}$\n\n$\\mathbf{w} = \\left( \\mathbf{b} \\cdot \\mathbf{a} \\right)\\,\\mathbf{c} - \\left( \\mathbf{c} \\cdot \\mathbf{b} \\right)\\,\\mathbf{a}$\n\nProve that $\\mathbf{u}$, $\\mathbf{v}$, $\\mathbf{w}$ also form a triangle.",
+   "answer": "Proof (show $\\mathbf{u} + \\mathbf{v} + \\mathbf{w} = \\mathbf{0}$)."
+  },
+  {
+   "ref": "Q16(c)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.2.2.1"
+   ],
+   "question": "Vectors $\\mathbf{a}$, $\\mathbf{b}$, $\\mathbf{c}$ form a triangle and $\\mathbf{u} = \\left( \\mathbf{b} \\cdot \\mathbf{c} \\right)\\,\\mathbf{a} - \\left( \\mathbf{c} \\cdot \\mathbf{a} \\right)\\,\\mathbf{b}$. Calculate $\\mathbf{u} \\cdot \\mathbf{c}$.",
+   "answer": "$0$"
+  },
+  {
+   "ref": "Q16(c)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.2.2.5"
+   ],
+   "question": "Vectors $\\mathbf{a}$, $\\mathbf{b}$, $\\mathbf{c}$ form a triangle, and $\\mathbf{u}$, $\\mathbf{v}$, $\\mathbf{w}$ are defined by\n\n$\\mathbf{u} = \\left( \\mathbf{b} \\cdot \\mathbf{c} \\right)\\,\\mathbf{a} - \\left( \\mathbf{c} \\cdot \\mathbf{a} \\right)\\,\\mathbf{b}$\n\n$\\mathbf{v} = \\left( \\mathbf{a} \\cdot \\mathbf{c} \\right)\\,\\mathbf{b} - \\left( \\mathbf{a} \\cdot \\mathbf{b} \\right)\\,\\mathbf{c}$\n\n$\\mathbf{w} = \\left( \\mathbf{b} \\cdot \\mathbf{a} \\right)\\,\\mathbf{c} - \\left( \\mathbf{c} \\cdot \\mathbf{b} \\right)\\,\\mathbf{a}$\n\nso that $\\mathbf{u}$, $\\mathbf{v}$, $\\mathbf{w}$ also form a triangle. Prove that the two triangles formed by $\\mathbf{a},\\mathbf{b},\\mathbf{c}$ and by $\\mathbf{u},\\mathbf{v},\\mathbf{w}$ are similar.",
+   "answer": "Proof (corresponding sides are perpendicular, so the triangles are equiangular)."
+  }
+ ]
+}

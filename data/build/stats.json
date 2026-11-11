@@ -1,0 +1,54 @@
+{
+ "generated": "2026-11-11",
+ "courses": {
+  "advanced": {
+   "name": "Mathematics Advanced",
+   "questions": 0,
+   "papers": 0
+  },
+  "extension1": {
+   "name": "Mathematics Extension 1",
+   "questions": 0,
+   "papers": 0
+  },
+  "extension2": {
+   "name": "Mathematics Extension 2",
+   "questions": 95,
+   "papers": 2
+  }
+ },
+ "papers": [
+  {
+   "id": "ext2-2026-blacktown-boys",
+   "course": "extension2",
+   "school": "Blacktown Boys",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Blacktown Boys 2026 Trial",
+   "answers": "short",
+   "thsc": {
+    "viewno": "5348",
+    "title": "Blacktown Boys 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 48,
+   "dropped": 1
+  },
+  {
+   "id": "ext2-2026-hornsby-girls",
+   "course": "extension2",
+   "school": "Hornsby Girls",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Hornsby Girls 2026 Trial",
+   "answers": "short",
+   "thsc": {
+    "viewno": "5348",
+    "title": "Hornsby Girls 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 47,
+   "dropped": 1
+  }
+ ]
+}

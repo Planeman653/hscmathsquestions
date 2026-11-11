@@ -1,0 +1,622 @@
+{
+ "id": "ext2-2026-blacktown-boys",
+ "course": "extension2",
+ "school": "Blacktown Boys",
+ "year": 2026,
+ "type": "Trial",
+ "thsc": {
+  "viewno": "5348",
+  "title": "Blacktown Boys 2026 w. sol"
+ },
+ "indexed": "2026-11-11",
+ "answers": "short",
+ "note": "Imported from the 'HSC Ext 2 Question Bank by Topic' document (short answers).",
+ "dropped": [
+  {
+   "ref": "Q2",
+   "reason": "Options are written in exponential (Euler) form, which is not in the 2024 Ext 2 syllabus"
+  }
+ ],
+ "questions": [
+  {
+   "ref": "Q1",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.1.1.7"
+   ],
+   "question": "What is the negation of the following statement?\n\n'If you have good vision, then you don't need glasses.'",
+   "options": [
+    "You don't have good vision and you need glasses.",
+    "You have good vision and you need glasses.",
+    "If you don't have good vision, then you need glasses.",
+    "If you have good vision, then you need glasses."
+   ],
+   "correct": "B",
+   "answer": "**B**"
+  },
+  {
+   "ref": "Q3",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.1.9",
+    "12.3.1.8"
+   ],
+   "question": "Let $z = 3 + ki$, where $k \\in \\mathbb{R}$. A value of $k$ that makes $z^{2} - 2iz + 6$ purely imaginary is",
+   "options": [
+    "$- 5$",
+    "$- 1$",
+    "$1$",
+    "$5$"
+   ],
+   "correct": "D",
+   "answer": "**D**"
+  },
+  {
+   "ref": "Q4",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.9"
+   ],
+   "question": "Which expression is equal to $\\int\\frac{1}{x^{2} + 10x + 27}\\, dx$?",
+   "options": [
+    "$\\frac{1}{2}\\ln\\left| \\frac{x + 3}{x + 9} \\right| + c$",
+    "$\\frac{1}{\\sqrt{2}}\\ln\\left| \\frac{x + 9}{x + 3} \\right| + c$",
+    "$\\frac{1}{2}\\tan^{- 1}\\left( \\frac{x + 5}{2} \\right) + c$",
+    "$\\frac{1}{\\sqrt{2}}\\tan^{- 1}\\left( \\frac{x + 5}{\\sqrt{2}} \\right) + c$"
+   ],
+   "correct": "D",
+   "answer": "**D**"
+  },
+  {
+   "ref": "Q5",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.8"
+   ],
+   "question": "A particle moving in a straight line obeys $v^{2} = 7\\left( 11 - 6x - x^{2} \\right)$, where $x$ is its displacement from the origin in metres and $v$ is its velocity in m/s. Where is the centre of the motion?",
+   "options": [
+    "$x = 3$",
+    "$x = 1$",
+    "$x = - 1$",
+    "$x = - 3$"
+   ],
+   "correct": "D",
+   "answer": "**D**"
+  },
+  {
+   "ref": "Q6",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.5.3"
+   ],
+   "question": "The relation $(z - 4i)\\left( \\bar{z} + 4i \\right) = 4$, when graphed on an Argand diagram, would be",
+   "options": [
+    "a circle with radius 2 with centre at $(0,4)$",
+    "a circle with radius 2 with centre at $(0, - 4)$",
+    "a circle with radius 4 with centre at $(0,4)$",
+    "a circle with radius 4 with centre at $(0, - 4)$"
+   ],
+   "correct": "A",
+   "answer": "**A**"
+  },
+  {
+   "ref": "Q7",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.10"
+   ],
+   "question": "Each pair of lines given below intersects at $\\begin{pmatrix}\n1 \\\\\n2 \\\\\n3\n\\end{pmatrix}$. Which pair of lines are perpendicular?",
+   "options": [
+    "$\\ell_{1}:\\ \\mathbf{r} = \\begin{pmatrix} 2 \\\\ 4 \\\\ 6 \\end{pmatrix} + \\lambda\\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$ and $\\ell_{2}:\\ \\mathbf{r} = \\begin{pmatrix} - 2 \\\\ 1 \\\\ 0 \\end{pmatrix} + \\lambda\\begin{pmatrix} 3 \\\\ 1 \\\\ 3 \\end{pmatrix}$",
+    "$\\ell_{1}:\\ \\mathbf{r} = \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix} + \\lambda\\begin{pmatrix} - 1 \\\\ - 2 \\\\ 1 \\end{pmatrix}$ and $\\ell_{2}:\\ \\mathbf{r} = \\begin{pmatrix} 3 \\\\ 1 \\\\ 3 \\end{pmatrix} + \\lambda\\begin{pmatrix} 2 \\\\ - 1 \\\\ 0 \\end{pmatrix}$",
+    "$\\ell_{1}:\\ \\mathbf{r} = \\begin{pmatrix} 0 \\\\ - 3 \\\\ 2 \\end{pmatrix} + \\lambda\\begin{pmatrix} - 1 \\\\ 2 \\\\ - 3 \\end{pmatrix}$ and $\\ell_{2}:\\ \\mathbf{r} = \\begin{pmatrix} - 1 \\\\ - 2 \\\\ - 3 \\end{pmatrix} + \\lambda\\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$",
+    "$\\ell_{1}:\\ \\mathbf{r} = \\begin{pmatrix} 3 \\\\ - 2 \\\\ 8 \\end{pmatrix} + \\lambda\\begin{pmatrix} - 2 \\\\ 4 \\\\ - 5 \\end{pmatrix}$ and $\\ell_{2}:\\ \\mathbf{r} = \\begin{pmatrix} 3 \\\\ 4 \\\\ 2 \\end{pmatrix} + \\lambda\\begin{pmatrix} 3 \\\\ 1 \\\\ 1 \\end{pmatrix}$"
+   ],
+   "correct": "B",
+   "answer": "**B**"
+  },
+  {
+   "ref": "Q8",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.2.1.14"
+   ],
+   "question": "A curve $C$ spirals around a cone whose apex is $(0,0,10\\pi)$ and whose base is a circle of radius $10\\pi$ in the $xy$-plane, centred at the origin. A particle moves along $C$, starting at the point $(0,0,10\\pi)$ and ending at the point $(10\\pi,0,0)$. Which of the following vector equations best describes the path of the particle for $0 \\leq t \\leq 10\\pi$?",
+   "options": [
+    "$\\mathbf{r}_{A} = t\\cos(t)\\,\\mathbf{i} + t\\sin(t)\\,\\mathbf{j} + (10\\pi - t)\\,\\mathbf{k}$",
+    "$\\mathbf{r}_{B} = t\\sin(t)\\,\\mathbf{i} + t\\cos(t)\\,\\mathbf{j} + (10\\pi - t)\\,\\mathbf{k}$",
+    "$\\mathbf{r}_{C} = t\\cos(t)\\,\\mathbf{i} + t\\sin(t)\\,\\mathbf{j} + t\\,\\mathbf{k}$",
+    "$\\mathbf{r}_{D} = t\\sin(t)\\,\\mathbf{i} + t\\cos(t)\\,\\mathbf{j} + t\\,\\mathbf{k}$"
+   ],
+   "correct": "A",
+   "answer": "**A**"
+  },
+  {
+   "ref": "Q9",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.4.12"
+   ],
+   "question": "A complex number $\\omega$ satisfies $\\omega^{2} + \\frac{1}{1 + \\omega^{2}} = \\omega$. Which is the correct statement about $\\omega^{2026}$?",
+   "options": [
+    "$\\omega^{2026} = \\omega$",
+    "$\\omega^{2026} = - \\omega$",
+    "$\\omega^{2026} = \\omega^{2}$",
+    "$\\omega^{2026} = - \\omega^{2}$"
+   ],
+   "correct": "B",
+   "answer": "**B**"
+  },
+  {
+   "ref": "Q10",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.3.9",
+    "12.4.1.15"
+   ],
+   "question": "Which integral has the smallest value?",
+   "options": [
+    "$\\int_{0}^{\\pi/4}\\cos^{2}x\\, dx$",
+    "$\\int_{0}^{\\pi/4}\\sin^{2}x\\, dx$",
+    "$\\int_{0}^{\\pi/4}\\cos x\\sin x\\, dx$",
+    "$\\int_{0}^{\\pi/4}\\tan x\\sin x\\, dx$"
+   ],
+   "correct": "B",
+   "answer": "**B**"
+  },
+  {
+   "ref": "Q11(a)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.2.5"
+   ],
+   "question": "The complex numbers $w$ and $z$ are given by $w = 2\\left(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6}\\right)$ and $z = 10\\left(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3}\\right)$. Find the modulus and argument of $wz$.",
+   "answer": "$|wz| = 20$, $\\ Arg(wz) = \\frac{\\pi}{2}$"
+  },
+  {
+   "ref": "Q11(a)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.4.3",
+    "12.3.2.6"
+   ],
+   "question": "The complex numbers $w$ and $z$ are given by $w = 2\\left(\\cos\\frac{\\pi}{6} + i\\sin\\frac{\\pi}{6}\\right)$ and $z = 10\\left(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3}\\right)$. Find, in Cartesian form, $\\frac{z}{w^{5}}$.",
+   "answer": "$- \\frac{5}{16}i$"
+  },
+  {
+   "ref": "Q11(b)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.1.1.12"
+   ],
+   "question": "Consider the statement: 'If $a^{2} - 6a$ is even, then $a$ is even.'\n\nProve by contrapositive that the statement is true.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q11(c)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.5.5"
+   ],
+   "question": "Determine the locus and shade the region of $z\\bar{z} - 7\\left( z + \\bar{z} \\right) \\leq 0$.",
+   "answer": "The disc $(x - 7)^{2} + y^{2} \\leq 49$, boundary included (centre $(7,0)$, radius $7$)."
+  },
+  {
+   "ref": "Q11(d)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.6"
+   ],
+   "question": "Find\n\n$$\\int\\frac{x^{4}}{9 + x^{10}}\\, dx.$$",
+   "answer": "$\\frac{1}{15}\\tan^{- 1}\\left( \\frac{x^{5}}{3} \\right) + C$"
+  },
+  {
+   "ref": "Q11(e)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.11"
+   ],
+   "question": "Show that $\\sqrt{\\frac{12 - x}{x}} = \\frac{6 - x}{\\sqrt{12x - x^{2}}} + \\frac{6}{\\sqrt{12x - x^{2}}}$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q11(e)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.6",
+    "12.4.1.15"
+   ],
+   "question": "Using $\\sqrt{\\frac{12 - x}{x}} = \\frac{6 - x}{\\sqrt{12x - x^{2}}} + \\frac{6}{\\sqrt{12x - x^{2}}}$, evaluate\n\n$$\\int_{0}^{3}\\sqrt{\\frac{12 - x}{x}}\\, dx.$$",
+   "answer": "$3\\sqrt{3} + 2\\pi$"
+  },
+  {
+   "ref": "Q12(a)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.1.14"
+   ],
+   "question": "Determine all real values of $x$ and $y$ such that $(x + iy)^{2} = 5 - 12i$.",
+   "answer": "$x = 3,\\ y = - 2$ or $x = - 3,\\ y = 2$"
+  },
+  {
+   "ref": "Q12(a)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.3.1"
+   ],
+   "question": "Solve $z^{2} + 4z - 1 + 12i = 0$.",
+   "answer": "$z = 1 - 2i$ or $z = - 5 + 2i$"
+  },
+  {
+   "ref": "Q12(b)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.10"
+   ],
+   "question": "The two lines $l_{1}$ and $l_{2}$ are represented respectively by the vector equations\n\n$$\\mathbf{r}_{1} = \\begin{pmatrix}\np \\\\\n - 5 \\\\\n2\n\\end{pmatrix} + \\lambda_{1}\\begin{pmatrix}\n3 \\\\\n2 \\\\\n - 5\n\\end{pmatrix},\\quad\\quad\\mathbf{r}_{2} = \\begin{pmatrix}\n - 5 \\\\\n - 9 \\\\\n - 6\n\\end{pmatrix} + \\lambda_{2}\\begin{pmatrix}\n1 \\\\\n - 3 \\\\\n3\n\\end{pmatrix},$$\n\nwhere $\\lambda_{1}$ and $\\lambda_{2}$ are real. The two lines intersect at the point $A(3r, - r,6r)$.\n\nFind the values of $r$ and $\\lambda_{2}$. Hence write down the coordinates of $A$.",
+   "answer": "$r = - 3,\\ \\lambda_{2} = - 4,\\ A( - 9,3, - 18)$"
+  },
+  {
+   "ref": "Q12(b)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.2.1.10"
+   ],
+   "question": "The lines $\\mathbf{r}_{1} = \\begin{pmatrix}\np \\\\\n - 5 \\\\\n2\n\\end{pmatrix} + \\lambda_{1}\\begin{pmatrix}\n3 \\\\\n2 \\\\\n - 5\n\\end{pmatrix}$ and $\\mathbf{r}_{2} = \\begin{pmatrix}\n - 5 \\\\\n - 9 \\\\\n - 6\n\\end{pmatrix} + \\lambda_{2}\\begin{pmatrix}\n1 \\\\\n - 3 \\\\\n3\n\\end{pmatrix}$ intersect at the point $A( - 9,3, - 18)$. Find the value of $p$.",
+   "answer": "$p = - 21$"
+  },
+  {
+   "ref": "Q12(b)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.3"
+   ],
+   "question": "Calculate the acute angle between the lines $\\mathbf{r}_{1} = \\begin{pmatrix}\np \\\\\n - 5 \\\\\n2\n\\end{pmatrix} + \\lambda_{1}\\begin{pmatrix}\n3 \\\\\n2 \\\\\n - 5\n\\end{pmatrix}$ and $\\mathbf{r}_{2} = \\begin{pmatrix}\n - 5 \\\\\n - 9 \\\\\n - 6\n\\end{pmatrix} + \\lambda_{2}\\begin{pmatrix}\n1 \\\\\n - 3 \\\\\n3\n\\end{pmatrix}$, rounded to the nearest minute.",
+   "answer": "$47^{\\circ}56\\prime$"
+  },
+  {
+   "ref": "Q12(c)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.3.4"
+   ],
+   "question": "Assume that $|x| + |y| \\geq |x + y|$. Prove that if $a,b \\in \\mathbb{R}$, then $|a - b| \\geq ||a| - |b||$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q12(d)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.8"
+   ],
+   "question": "Find\n\n$$\\int\\frac{x^{2} - 4x + 53}{(5 - x)\\left( x^{2} + 4 \\right)}\\, dx.$$",
+   "answer": "$- 2\\ln|5 - x| + \\frac{1}{2}\\ln\\left( x^{2} + 4 \\right) + \\frac{9}{2}\\tan^{- 1}\\frac{x}{2} + C$"
+  },
+  {
+   "ref": "Q13(a)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.13"
+   ],
+   "question": "Find\n\n$$\\int x\\tan^{- 1}x\\, dx.$$",
+   "answer": "$\\frac{1}{2}x^{2}\\tan^{- 1}x - \\frac{1}{2}x + \\frac{1}{2}\\tan^{- 1}x + C$"
+  },
+  {
+   "ref": "Q13(b)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.2.10"
+   ],
+   "question": "A particle moving in simple harmonic motion starts from rest at a distance 15 metres to the right of its centre of oscillation $O$. The period of the motion is 6 seconds. Find the exact speed of the particle when it is 10 metres from its starting point.",
+   "answer": "$\\frac{10\\sqrt{2}\\,\\pi}{3}$ m/s"
+  },
+  {
+   "ref": "Q13(b)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.2.10"
+   ],
+   "question": "A particle moving in simple harmonic motion starts from rest at a distance 15 metres to the right of its centre of oscillation $O$. The period of the motion is 6 seconds. Find the time taken by the particle to first reach the point 10 metres from its starting point, in seconds, correct to 2 decimal places.",
+   "answer": "$1.18$ seconds"
+  },
+  {
+   "ref": "Q13(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.1.2"
+   ],
+   "question": "A particle moves in a straight line with acceleration $\\ddot{x} = (4x - 2)$ m/s², where $x$ is the displacement in metres. Initially the particle is at the origin with velocity 1 m/s.\n\nIf the velocity at time $t$ seconds is $v$ m/s, show that $v^{2} = (1 - 2x)^{2}$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q13(c)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.5.1.2"
+   ],
+   "question": "A particle moves in a straight line with acceleration $\\ddot{x} = (4x - 2)$ m/s², where $x$ is the displacement in metres. Initially the particle is at the origin with velocity 1 m/s. Given that $v = 1 - 2x$ throughout the motion, find expressions for $x$ and $v$ in terms of $t$.",
+   "answer": "$x = \\frac{1 - e^{- 2t}}{2}$, $\\ v = e^{- 2t}$"
+  },
+  {
+   "ref": "Q13(d)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.11"
+   ],
+   "question": "Find\n\n$$\\int_{\\pi/4}^{\\pi/2}\\cos^{2}x\\sin^{2}x\\cot^{2}x\\, dx.$$",
+   "answer": "$\\frac{3\\pi}{32} - \\frac{1}{4}$"
+  },
+  {
+   "ref": "Q14(a)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.2.2.5",
+    "12.2.2.1"
+   ],
+   "question": "Let $\\mathbf{c} = x\\mathbf{i} + y\\mathbf{j} + z\\mathbf{k}$ be a unit vector that is perpendicular to both $\\mathbf{a} = 3\\mathbf{i} - \\mathbf{j} + \\mathbf{k}$ and $\\mathbf{b} = - 2\\mathbf{i} + \\mathbf{j} - 4\\mathbf{k}$. Find all possible vectors $\\mathbf{c}$.",
+   "answer": "$\\mathbf{c} = \\pm \\frac{1}{\\sqrt{110}}\\left( 3\\mathbf{i} + 10\\mathbf{j} + \\mathbf{k} \\right)$"
+  },
+  {
+   "ref": "Q14(b)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.5"
+   ],
+   "question": "Use the substitution $t = \\tan\\frac{x}{2}$ to show that\n\n$$\\int_{0}^{\\pi/2}\\frac{dx}{7 + 5\\sin x + 5\\cos x} = \\ln\\frac{9}{8}.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q14(c)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.1.3.2"
+   ],
+   "question": "Suppose that $x > 0$, $y > 0$, $z > 0$. Prove that $xy^{- 1} + yx^{- 1} \\geq 2$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q14(c)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.3.6"
+   ],
+   "question": "Suppose that $x > 0$, $y > 0$, $z > 0$. Prove that $x^{3} + y^{3} \\geq xyz\\left( xz^{- 1} + yz^{- 1} \\right)$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q14(c)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.3.6"
+   ],
+   "question": "Suppose that $x > 0$, $y > 0$, $z > 0$. Using the result $x^{3} + y^{3} \\geq xyz\\left( xz^{- 1} + yz^{- 1} \\right)$ and its equivalents for the other pairs of variables, show that $x^{3} + y^{3} + z^{3} \\geq 3xyz$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q14(c)(iv)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.1.3.6"
+   ],
+   "question": "Using $x^{3} + y^{3} + z^{3} \\geq 3xyz$ for $x,y,z > 0$, show that for $a > 0$, $b > 0$, $c > 0$, $d > 0$,\n\n$$(a + b + c)(a + b + d)(a + c + d)(b + c + d) \\geq 81abcd.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(a)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.3.1",
+    "12.1.3.2"
+   ],
+   "question": "Show that $2n + 3 > 2\\sqrt{(n + 1)(n + 2)}$, for $n > 0$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(a)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.1.4.2"
+   ],
+   "question": "Using the result $2n + 3 > 2\\sqrt{(n + 1)(n + 2)}$ for $n > 0$, use mathematical induction to prove that for $n \\geq 1$,\n\n$$1 + \\frac{1}{\\sqrt{2}} + \\frac{1}{\\sqrt{3}} + \\cdots + \\frac{1}{\\sqrt{n}} \\geq 2\\left( \\sqrt{n + 1} - 1 \\right).$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(b)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.4.4"
+   ],
+   "question": "If $z = \\cos\\theta + i\\sin\\theta$, show that for positive integers $n$,\n\n$$z^{n} + \\frac{1}{z^{n}} = 2\\cos(n\\theta).$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(b)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.4.4"
+   ],
+   "question": "Given that $z^{n} + \\frac{1}{z^{n}} = 2\\cos(n\\theta)$ where $z = \\cos\\theta + i\\sin\\theta$, expand $\\left( z + \\frac{1}{z} \\right)^{4} + \\left( z - \\frac{1}{z} \\right)^{4}$ to show that\n\n$$\\cos^{4}\\theta + \\sin^{4}\\theta = \\frac{1}{4}\\left( \\cos 4\\theta + 3 \\right).$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(b)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.4.4"
+   ],
+   "question": "Given that $\\cos^{4}\\theta + \\sin^{4}\\theta = \\frac{1}{4}\\left( \\cos 4\\theta + 3 \\right)$, let $x = \\cos\\theta$ and solve the equation $8x^{4} + 8\\left( 1 - x^{2} \\right)^{2} = 7$ to show that the roots are $\\pm \\cos\\frac{\\pi}{12}$ and $\\pm \\cos\\frac{5\\pi}{12}$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(b)(iv)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.3.4.4",
+    "12.3.4.12"
+   ],
+   "question": "The roots of the equation $8x^{4} + 8\\left( 1 - x^{2} \\right)^{2} = 7$ are $\\pm \\cos\\frac{\\pi}{12}$ and $\\pm \\cos\\frac{5\\pi}{12}$. Hence show that\n\n$$\\cos\\frac{\\pi}{12} + \\cos\\frac{5\\pi}{12} = \\frac{\\sqrt{6}}{2}.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q15(b)(v)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.4.4"
+   ],
+   "question": "Given that $\\cos\\frac{\\pi}{12}$ and $\\cos\\frac{5\\pi}{12}$ are roots of $16x^{4} - 16x^{2} + 1 = 0$ and that $\\cos\\frac{\\pi}{12} + \\cos\\frac{5\\pi}{12} = \\frac{\\sqrt{6}}{2}$, determine the exact value of $\\cos\\frac{5\\pi}{12}$.",
+   "answer": "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$"
+  },
+  {
+   "ref": "Q16(a)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.14"
+   ],
+   "question": "Given that $I_{n} = \\int_{1}^{e}\\left( 1 - \\ln x \\right)^{n}\\, dx$, for some integer $n$, where $n \\geq 0$, show that $I_{n} = - 1 + nI_{n - 1}$ for all positive integers $n$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q16(a)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.14"
+   ],
+   "question": "Given that $I_{n} = \\int_{1}^{e}\\left( 1 - \\ln x \\right)^{n}\\, dx$ and $I_{n} = - 1 + nI_{n - 1}$, evaluate\n\n$$\\int_{1}^{e}\\left( 1 - \\ln x \\right)^{3}\\, dx.$$",
+   "answer": "$6e - 16$"
+  },
+  {
+   "ref": "Q16(a)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.4.1.14"
+   ],
+   "question": "Given that $I_{n} = \\int_{1}^{e}\\left( 1 - \\ln x \\right)^{n}\\, dx$ and $I_{n} = - 1 + nI_{n - 1}$, show that\n\n$$\\frac{I_{n}}{n!} = e - \\sum_{r = 0}^{n}\\frac{1}{r!},\\quad\\text{for positive integer }n.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q16(a)(iv)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.1.3.9",
+    "12.4.1.14"
+   ],
+   "question": "Given that $I_{n} = \\int_{1}^{e}\\left( 1 - \\ln x \\right)^{n}\\, dx$, show that $0 \\leq I_{n} \\leq e - 1$.",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q16(b)(i)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.2.2.5"
+   ],
+   "question": "$OABC$ is a parallelogram where $\\angle AOC = \\alpha$, $\\overrightarrow{OA} = \\mathbf{a}$, $\\overrightarrow{OC} = \\mathbf{c}$ and $\\left| \\overrightarrow{OC} \\right| = 2\\left| \\overrightarrow{OA} \\right|$. $M$ is a point on $AB$ such that $\\overrightarrow{AM} = k\\overrightarrow{AB}$, where $0 \\leq k \\leq 1$ and $\\angle OMC = 90^{\\circ}$.\n\nUse a vector method to show that\n\n$$\\left| \\mathbf{a} \\right|^{2}(1 - 2k)\\left( 2\\cos\\alpha + 2k - 1 \\right) = 0.$$",
+   "answer": "Proof."
+  },
+  {
+   "ref": "Q16(b)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.2.2.5",
+    "12.2.2.3"
+   ],
+   "question": "$OABC$ is a parallelogram where $\\angle AOC = \\alpha$, $\\overrightarrow{OA} = \\mathbf{a}$, $\\overrightarrow{OC} = \\mathbf{c}$ and $\\left| \\overrightarrow{OC} \\right| = 2\\left| \\overrightarrow{OA} \\right|$. $M$ is a point on $AB$ such that $\\overrightarrow{AM} = k\\overrightarrow{AB}$, where $0 \\leq k \\leq 1$ and $\\angle OMC = 90^{\\circ}$. It can be shown that $\\left| \\mathbf{a} \\right|^{2}(1 - 2k)\\left( 2\\cos\\alpha + 2k - 1 \\right) = 0$.\n\nDetermine the values of $\\alpha$ such that there are two possible positions for $M$, satisfying all the given conditions.",
+   "answer": "$\\frac{\\pi}{3} \\leq \\alpha < \\frac{\\pi}{2}$ or $\\frac{\\pi}{2} < \\alpha \\leq \\frac{2\\pi}{3}$"
+  }
+ ]
+}
