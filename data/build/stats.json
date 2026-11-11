@@ -8,13 +8,13 @@
   },
   "extension1": {
    "name": "Mathematics Extension 1",
-   "questions": 62,
-   "papers": 5
+   "questions": 65,
+   "papers": 6
   },
   "extension2": {
    "name": "Mathematics Extension 2",
-   "questions": 149,
-   "papers": 5
+   "questions": 196,
+   "papers": 6
   }
  },
  "papers": [
@@ -113,6 +113,22 @@
    "indexed": "2026-11-11",
    "count": 48,
    "dropped": 1
+  },
+  {
+   "id": "ext2-2026-caringbah",
+   "course": "extension2",
+   "school": "Caringbah",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Caringbah 2026 Trial",
+   "answers": "worked",
+   "thsc": {
+    "viewno": "5348",
+    "title": "Caringbah 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 50,
+   "dropped": 0
   },
   {
    "id": "ext2-2026-hornsby-girls",

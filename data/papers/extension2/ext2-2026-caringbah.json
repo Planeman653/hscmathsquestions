@@ -1,0 +1,679 @@
+{
+ "id": "ext2-2026-caringbah",
+ "course": "extension2",
+ "school": "Caringbah",
+ "year": 2026,
+ "type": "Trial",
+ "thsc": {
+  "viewno": "5348",
+  "title": "Caringbah 2026 w. sol"
+ },
+ "indexed": "2026-11-11",
+ "answers": "worked",
+ "dropped": [],
+ "questions": [
+  {
+   "ref": "Q1",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.1.1"
+   ],
+   "question": "What is the value of $i^{767}$?",
+   "answer": "$767 = 4\\times 191 + 3$, so $i^{767} = (i^4)^{191}\\,i^3 = -i$.",
+   "options": [
+    "$-i$",
+    "$-1$",
+    "$1$",
+    "$i$"
+   ],
+   "correct": "A"
+  },
+  {
+   "ref": "Q2",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.1.1.7",
+    "12.1.1.6"
+   ],
+   "question": "Which of the following is the negation of the statement: \"All solutions to the equation lie below the real axis on the complex plane.\"?",
+   "answer": "The negation of \"for all, $P$\" is \"there exists one for which not $P$\". Not lying below the real axis means lying on or above it: \"At least one solution to the equation lies on or above the real axis\".",
+   "options": [
+    "All solutions to the equation lie above the real axis",
+    "At least one solution to the equation lies above the real axis",
+    "All solutions to the equation lie on or above the real axis",
+    "At least one solution to the equation lies on or above the real axis"
+   ],
+   "correct": "D"
+  },
+  {
+   "ref": "Q3",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.4.3"
+   ],
+   "question": "Let $z = 1 + i\\sqrt{3}$. Which of the following is equal to $z^4$?",
+   "answer": "$z = 2\\left(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3}\\right)$, so by de Moivre's theorem\n$$z^4 = 16\\left(\\cos\\frac{4\\pi}{3} + i\\sin\\frac{4\\pi}{3}\\right) = 16\\left(-\\frac{1}{2} - \\frac{\\sqrt{3}}{2}i\\right) = -8 - 8\\sqrt{3}\\,i.$$",
+   "options": [
+    "$8 + 8\\sqrt{3}\\,i$",
+    "$8 - 8\\sqrt{3}\\,i$",
+    "$-8 + 8\\sqrt{3}\\,i$",
+    "$-8 - 8\\sqrt{3}\\,i$"
+   ],
+   "correct": "D"
+  },
+  {
+   "ref": "Q4",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.1.11",
+    "12.3.1.10"
+   ],
+   "question": "A complex number $z$ lies on the unit circle in the second quadrant of the complex plane, as shown. Which of the points marked $A$, $B$, $C$ and $D$ best shows the position of $z\\overline{z}$?",
+   "answer": "$z\\overline{z} = |z|^2 = 1$, which is the point $1$ on the real axis: $B$.",
+   "options": [
+    "$A$",
+    "$B$",
+    "$C$",
+    "$D$"
+   ],
+   "correct": "B",
+   "images": [
+    "assets/img/ext2-2026-caringbah/q4.png"
+   ]
+  },
+  {
+   "ref": "Q5",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.18",
+    "12.2.2.1"
+   ],
+   "question": "The line $\\mathbf{r} = \\begin{pmatrix} 1 \\\\ -1 \\\\ \\sqrt{7} \\end{pmatrix} + \\lambda\\begin{pmatrix} \\sqrt{7} \\\\ -2\\sqrt{7} \\\\ c \\end{pmatrix}$ is a tangent to a sphere centred at $\\begin{pmatrix} 0 \\\\ 0 \\\\ 0 \\end{pmatrix}$. The point of contact between the tangent and the sphere is $\\begin{pmatrix} 1 \\\\ -1 \\\\ \\sqrt{7} \\end{pmatrix}$. What is the value of $c$?",
+   "answer": "A tangent is perpendicular to the radius at the point of contact, so the direction vector is perpendicular to $\\begin{pmatrix} 1 \\\\ -1 \\\\ \\sqrt{7} \\end{pmatrix}$:\n$$\\sqrt{7} + 2\\sqrt{7} + c\\sqrt{7} = 0 \\Rightarrow c = -3.$$",
+   "options": [
+    "$c = -3$",
+    "$c = -1$",
+    "$c = 1$",
+    "$c = 3$"
+   ],
+   "correct": "A"
+  },
+  {
+   "ref": "Q6",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.9",
+    "12.4.1.11"
+   ],
+   "question": "Which of the following expressions would have an anti-derivative which includes $\\sin^{-1}\\left(f(x)\\right)$?",
+   "answer": "We need the form $\\dfrac{f'(x)}{\\sqrt{a^2 - [f(x)]^2}}$. For B, $-x^4 - 4x^2 + 5 = 9 - (x^2 + 2)^2$, so\n$$\\frac{2x}{\\sqrt{-x^4 - 4x^2 + 5}} = \\frac{2x}{\\sqrt{9 - (x^2 + 2)^2}},$$\nwhose primitive is $\\sin^{-1}\\dfrac{x^2 + 2}{3} + C$. (A has $\\sqrt{(x^2 - 1)^2}$; C and D have no square root.)",
+   "options": [
+    "$\\dfrac{2x}{\\sqrt{x^4 - 2x^2 + 1}}$",
+    "$\\dfrac{2x}{\\sqrt{-x^4 - 4x^2 + 5}}$",
+    "$\\dfrac{2x}{x^4 - 2x^2 + 1}$",
+    "$\\dfrac{2x}{-x^4 - 4x^2 + 5}$"
+   ],
+   "correct": "B"
+  },
+  {
+   "ref": "Q7",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.1.1",
+    "12.5.1.2"
+   ],
+   "question": "A particle moves along the $x$-axis. At time $t$ seconds it has displacement $x$ metres from the origin, velocity $v$ m/s given by $v^2 = 10x - x^2$, and acceleration $a$ m/s². What is the value of $|a|$ when $|v| = 3$?",
+   "answer": "$a = \\dfrac{d}{dx}\\left(\\tfrac{1}{2}v^2\\right) = \\tfrac{1}{2}(10 - 2x) = 5 - x$.\nWhen $v^2 = 9$: $x^2 - 10x + 9 = 0 \\Rightarrow x = 1$ or $9$, giving $a = 4$ or $-4$. So $|a| = 4$.",
+   "options": [
+    "$1$",
+    "$2$",
+    "$3$",
+    "$4$"
+   ],
+   "correct": "D"
+  },
+  {
+   "ref": "Q8",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.15",
+    "12.4.1.6"
+   ],
+   "question": "Let $f(x)$ be a continuous function for all real $x$, with $\\displaystyle\\int_0^\\pi f(\\sin x)\\,dx = k$. What is the value of $\\displaystyle\\int_0^\\pi x f(\\sin x)\\,dx$ in terms of $k$? You may use the fact that $\\displaystyle\\int_0^a g(x)\\,dx = \\int_0^a g(a - x)\\,dx$.",
+   "answer": "Let $I = \\displaystyle\\int_0^\\pi x f(\\sin x)\\,dx$. Using the given fact and $\\sin(\\pi - x) = \\sin x$:\n$$I = \\int_0^\\pi (\\pi - x)f(\\sin x)\\,dx = \\pi k - I \\Rightarrow I = \\frac{\\pi k}{2}.$$",
+   "options": [
+    "$0$",
+    "$\\dfrac{k}{2}$",
+    "$\\dfrac{\\pi k}{2}$",
+    "$\\pi k$"
+   ],
+   "correct": "C"
+  },
+  {
+   "ref": "Q9",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.1.2",
+    "12.5.1.4"
+   ],
+   "question": "A particle of unit mass is released from rest at $x = 1$ and moves in a straight line under the force $F = \\dfrac{5 - 7x}{x^3}$. Which of the following equations represents the particle's velocity?",
+   "answer": "With $m = 1$, $\\dfrac{d}{dx}\\left(\\tfrac{1}{2}v^2\\right) = 5x^{-3} - 7x^{-2}$, so\n$$\\tfrac{1}{2}v^2 = -\\frac{5}{2x^2} + \\frac{7}{x} + C \\Rightarrow v^2 = -\\frac{5}{x^2} + \\frac{14}{x} + C'.$$\nAt $x = 1$, $v = 0$: $C' = -9$. So $v^2 = \\dfrac{-9x^2 + 14x - 5}{x^2}$ and $v = \\pm\\dfrac{1}{x}\\sqrt{-9x^2 + 14x - 5}$.",
+   "options": [
+    "$v = \\pm\\dfrac{3}{x}\\sqrt{x^2 - 7x + 5}$",
+    "$v = \\pm\\dfrac{1}{x}\\sqrt{-9x^2 + 14x - 5}$",
+    "$v = \\pm 3x\\sqrt{x^2 - 7x + 5}$",
+    "$v = \\pm x\\sqrt{-9x^2 + 14x - 5}$"
+   ],
+   "correct": "B"
+  },
+  {
+   "ref": "Q10",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.3.5.5",
+    "12.1.3.6"
+   ],
+   "question": "The complex number $z = x + iy$ satisfies $|z| \\le y + 1$ and $|z| \\le x + 1$. What is the maximum possible value of $|z|$?",
+   "answer": "From the inequalities, $x \\ge |z| - 1$ and $y \\ge |z| - 1$. If $|z| > 1$, both are positive, so\n$$|z|^2 = x^2 + y^2 \\ge 2(|z| - 1)^2 \\Rightarrow |z|^2 - 4|z| + 2 \\le 0 \\Rightarrow 2 - \\sqrt{2} \\le |z| \\le 2 + \\sqrt{2}.$$\nEquality holds at $x = y = 1 + \\sqrt{2}$ (where $|z| = \\sqrt{2}(1 + \\sqrt{2}) = 2 + \\sqrt{2}$), so the maximum is $2 + \\sqrt{2}$.",
+   "options": [
+    "$3 + \\sqrt{2}$",
+    "$1 + \\sqrt{2}$",
+    "$2 - \\sqrt{2}$",
+    "$2 + \\sqrt{2}$"
+   ],
+   "correct": "D"
+  },
+  {
+   "ref": "Q11(a)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.2.6",
+    "12.3.2.4"
+   ],
+   "question": "Write $1 - i\\sqrt{3}$ in modulus–argument form.",
+   "answer": "$|1 - i\\sqrt{3}| = \\sqrt{1 + 3} = 2$ and the point is in the fourth quadrant with $\\tan\\theta = -\\sqrt{3}$, so $\\arg = -\\dfrac{\\pi}{3}$.\n$$1 - i\\sqrt{3} = 2\\left(\\cos\\left(-\\frac{\\pi}{3}\\right) + i\\sin\\left(-\\frac{\\pi}{3}\\right)\\right).$$"
+  },
+  {
+   "ref": "Q11(b)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.1.9"
+   ],
+   "question": "Consider the complex numbers $w = 4 - 3i$ and $z = 1 - 2i$. Evaluate $w + z$.",
+   "answer": "$w + z = 5 - 5i$."
+  },
+  {
+   "ref": "Q11(b)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.1.13"
+   ],
+   "question": "Consider the complex numbers $w = 4 - 3i$ and $z = 1 - 2i$. Evaluate $\\dfrac{w}{z}$ in the form $a + ib$.",
+   "answer": "$$\\frac{w}{z} = \\frac{(4 - 3i)(1 + 2i)}{(1 - 2i)(1 + 2i)} = \\frac{4 + 8i - 3i + 6}{5} = \\frac{10 + 5i}{5} = 2 + i.$$"
+  },
+  {
+   "ref": "Q11(c)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.2.4.6"
+   ],
+   "question": "From an origin $O$, $\\overrightarrow{OA} = \\begin{pmatrix} 1 \\\\ -3 \\\\ 1 \\end{pmatrix}$ and $\\overrightarrow{OB} = \\begin{pmatrix} -1 \\\\ 2 \\\\ 3 \\end{pmatrix}$. Find the angle between the two vectors, correct to the nearest minute.",
+   "answer": "$$\\cos\\theta = \\frac{\\overrightarrow{OA}\\cdot\\overrightarrow{OB}}{|\\overrightarrow{OA}||\\overrightarrow{OB}|} = \\frac{-1 - 6 + 3}{\\sqrt{11}\\sqrt{14}} = \\frac{-4}{\\sqrt{154}} \\Rightarrow \\theta \\approx 108^\\circ 48'.$$",
+   "course": "extension1"
+  },
+  {
+   "ref": "Q11(d)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.13"
+   ],
+   "question": "Find $\\displaystyle\\int xe^{5x}\\,dx$.",
+   "answer": "By parts with $u = x$, $dv = e^{5x}dx$ ($du = dx$, $v = \\tfrac{1}{5}e^{5x}$):\n$$\\int xe^{5x}\\,dx = \\frac{x}{5}e^{5x} - \\frac{1}{5}\\int e^{5x}\\,dx = \\frac{x}{5}e^{5x} - \\frac{1}{25}e^{5x} + C.$$"
+  },
+  {
+   "ref": "Q11(e)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.2.1"
+   ],
+   "question": "Prove by contradiction that $\\sqrt{3} - \\sqrt{2}$ is irrational.",
+   "answer": "Suppose $\\sqrt{3} - \\sqrt{2} = \\dfrac{m}{n}$ for positive integers $m$, $n$. Then $\\sqrt{3} = \\dfrac{m}{n} + \\sqrt{2}$, and squaring:\n$$3 = \\frac{m^2}{n^2} + \\frac{2\\sqrt{2}\\,m}{n} + 2 \\Rightarrow \\sqrt{2} = \\frac{n^2 - m^2}{2mn}.$$\nThe right-hand side is rational, but $\\sqrt{2}$ is irrational — a contradiction. Hence $\\sqrt{3} - \\sqrt{2}$ is irrational."
+  },
+  {
+   "ref": "Q11(f)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.2.3.7"
+   ],
+   "question": "The vectors $\\mathbf{u} = 2\\mathbf{i} - 2\\mathbf{j} + \\mathbf{k}$ and $\\mathbf{v} = a\\mathbf{i} + b\\mathbf{j} + c\\mathbf{k}$ are parallel. Find $|\\mathbf{u}|$.",
+   "answer": "$|\\mathbf{u}| = \\sqrt{4 + 4 + 1} = 3$.",
+   "course": "extension1"
+  },
+  {
+   "ref": "Q11(f)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.3.4",
+    "12.2.3.8"
+   ],
+   "question": "The vectors $\\mathbf{u} = 2\\mathbf{i} - 2\\mathbf{j} + \\mathbf{k}$ and $\\mathbf{v} = a\\mathbf{i} + b\\mathbf{j} + c\\mathbf{k}$ are parallel. Given that $|\\mathbf{v}| = 6$, find the values of $a$, $b$ and $c$.",
+   "answer": "Since $\\mathbf{v} \\parallel \\mathbf{u}$ and $|\\mathbf{v}| = 6 = 2|\\mathbf{u}|$, $\\mathbf{v} = \\pm 2\\mathbf{u}$:\n$$a = 4,\\ b = -4,\\ c = 2 \\quad\\text{or}\\quad a = -4,\\ b = 4,\\ c = -2.$$",
+   "course": "extension1"
+  },
+  {
+   "ref": "Q12(a)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.9",
+    "12.4.1.11"
+   ],
+   "question": "Find $\\displaystyle\\int \\frac{2x - 1}{x^2 + 2x + 3}\\,dx$.",
+   "answer": "$$\\int \\frac{2x - 1}{x^2 + 2x + 3}\\,dx = \\int \\frac{2x + 2}{x^2 + 2x + 3}\\,dx - 3\\int \\frac{dx}{(x + 1)^2 + 2}$$\n$$= \\ln(x^2 + 2x + 3) - \\frac{3}{\\sqrt{2}}\\tan^{-1}\\frac{x + 1}{\\sqrt{2}} + C.$$"
+  },
+  {
+   "ref": "Q12(b)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.9"
+   ],
+   "question": "A particle moves in simple harmonic motion along the $x$-axis about the origin. It starts at its right-hand extremity, 3 metres to the right of the origin, and takes 0.5 seconds to first reach the origin. Find an equation for the displacement $x$ in terms of $t$.",
+   "answer": "Reaching the centre from an extremity takes a quarter period, so $T = 2$ s and $n = \\dfrac{2\\pi}{T} = \\pi$. Starting at the right extremity with amplitude 3:\n$$x = 3\\cos(\\pi t).$$"
+  },
+  {
+   "ref": "Q12(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.7"
+   ],
+   "question": "Consider $f(x) = \\dfrac{3kx - 18}{(x + 4)(x - 2)}$, where $k$ is a positive constant. Express $f(x)$ as partial fractions in terms of $k$.",
+   "answer": "Let $\\dfrac{3kx - 18}{(x + 4)(x - 2)} = \\dfrac{a}{x + 4} + \\dfrac{b}{x - 2}$, so $3kx - 18 = a(x - 2) + b(x + 4)$.\n$x = 2$: $6k - 18 = 6b \\Rightarrow b = k - 3$. $x = -4$: $-12k - 18 = -6a \\Rightarrow a = 2k + 3$.\n$$f(x) = \\frac{2k + 3}{x + 4} + \\frac{k - 3}{x - 2}.$$"
+  },
+  {
+   "ref": "Q12(c)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.8"
+   ],
+   "question": "Consider $f(x) = \\dfrac{3kx - 18}{(x + 4)(x - 2)}$, where $k$ is a positive constant. It can be written $f(x) = \\dfrac{2k + 3}{x + 4} + \\dfrac{k - 3}{x - 2}$.\n\nFind the exact value of $k$ such that $\\displaystyle\\int_{-3}^{1} f(x)\\,dx = 21$.",
+   "answer": "$$\\int_{-3}^{1} f(x)\\,dx = \\Big[(2k + 3)\\ln|x + 4| + (k - 3)\\ln|x - 2|\\Big]_{-3}^{1} = (2k + 3)\\ln 5 - (k - 3)\\ln 5 = (k + 6)\\ln 5.$$\n$(k + 6)\\ln 5 = 21 \\Rightarrow k = \\dfrac{21}{\\ln 5} - 6$."
+  },
+  {
+   "ref": "Q12(d)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.8"
+   ],
+   "question": "A particle moves in simple harmonic motion with $\\ddot{x} = -2\\pi^2(x + 1)$. Initially it is at the centre of motion with velocity $3\\pi\\sqrt{2}$ m/s. Find $v^2$ as a function of $x$.",
+   "answer": "$\\dfrac{d}{dx}\\left(\\tfrac{1}{2}v^2\\right) = -2\\pi^2(x + 1) \\Rightarrow v^2 = -2\\pi^2x^2 - 4\\pi^2x + C$.\nAt the centre $x = -1$, $v^2 = 18\\pi^2$: $18\\pi^2 = -2\\pi^2 + 4\\pi^2 + C \\Rightarrow C = 16\\pi^2$.\n$$v^2 = -2\\pi^2x^2 - 4\\pi^2x + 16\\pi^2 = 2\\pi^2\\left(8 - 2x - x^2\\right).$$"
+  },
+  {
+   "ref": "Q12(d)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.4",
+    "12.5.2.8"
+   ],
+   "question": "A particle moves in simple harmonic motion with $\\ddot{x} = -2\\pi^2(x + 1)$. Initially it is at the centre of motion with velocity $3\\pi\\sqrt{2}$ m/s. Its velocity satisfies $v^2 = -2\\pi^2(x^2 + 2x - 8)$.\n\nFind the exact period and the values of $x$ at the endpoints of the motion.",
+   "answer": "$n^2 = 2\\pi^2 \\Rightarrow n = \\sqrt{2}\\pi$, so the period is $\\dfrac{2\\pi}{\\sqrt{2}\\pi} = \\sqrt{2}$ s.\nEndpoints where $v = 0$: $x^2 + 2x - 8 = (x + 4)(x - 2) = 0$, so $x = -4$ and $x = 2$."
+  },
+  {
+   "ref": "Q12(e)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.1.3.3"
+   ],
+   "question": "For a fixed $n > 0$, let $a$, $b$, $c$ be distinct constants in the interval $(n, 2n)$. Show that $a + b - c > 0$.",
+   "answer": "$a > n$, $b > n$ and $c < 2n$ (so $-c > -2n$). Adding: $a + b - c > n + n - 2n = 0$."
+  },
+  {
+   "ref": "Q12(e)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.1.3.6",
+    "12.1.3.5"
+   ],
+   "question": "For a fixed $n > 0$, let $a$, $b$, $c$ be distinct constants in the interval $(n, 2n)$. It is known that $a + b - c > 0$, and similarly $a + c - b > 0$.\n\nShow that $a > \\sqrt{a^2 + 2bc - b^2 - c^2}$.",
+   "answer": "By AM–GM on the positive numbers $a + b - c$ and $a + c - b$ (which are unequal since $b \\ne c$):\n$$\\frac{(a + b - c) + (a + c - b)}{2} > \\sqrt{(a + b - c)(a - b + c)}.$$\nThe left side is $a$, and $(a + (b - c))(a - (b - c)) = a^2 - (b - c)^2 = a^2 + 2bc - b^2 - c^2$. Hence $a > \\sqrt{a^2 + 2bc - b^2 - c^2}$."
+  },
+  {
+   "ref": "Q13(a)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.1.1.12",
+    "12.1.2.3"
+   ],
+   "question": "For all $k \\in \\mathbb{Z}$, let $P$ be the proposition: \"If $5k^2 + 3k + 4$ is odd, then $k$ is even.\" Prove by contrapositive that $P$ is true.",
+   "answer": "Contrapositive: if $k$ is odd, then $5k^2 + 3k + 4$ is even. Let $k = 2m + 1$, $m \\in \\mathbb{Z}$:\n$$5(2m + 1)^2 + 3(2m + 1) + 4 = 20m^2 + 26m + 12 = 2(10m^2 + 13m + 6),$$\nwhich is even. Since the contrapositive is true, $P$ is true."
+  },
+  {
+   "ref": "Q13(b)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.1.2",
+    "12.5.4.3"
+   ],
+   "question": "A particle starts at the origin at rest with acceleration $a = -v^2 + 2v$, where $v$ is its velocity. Find an expression for $v$ in terms of $x$, the displacement of the particle.",
+   "answer": "$v\\dfrac{dv}{dx} = v(2 - v)$, so for $v \\ne 0$, $\\dfrac{dv}{dx} = 2 - v$ and\n$$x = \\int_0^v \\frac{dv}{2 - v} = \\Big[-\\ln|2 - v|\\Big]_0^v = \\ln 2 - \\ln(2 - v).$$\nSo $2 - v = 2e^{-x}$ and $v = 2\\left(1 - e^{-x}\\right)$.\n\n(Strictly, a particle starting at rest with $a = 0$ when $v = 0$ never moves; the intended answer treats the particle as moving off with $v$ given by this expression.)"
+  },
+  {
+   "ref": "Q13(c)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.3.3.4"
+   ],
+   "question": "A cubic polynomial $P(z) = z^3 + bz^2 + cz + d$, where $b$, $c$ and $d$ are real, has three distinct roots. Two of the roots, $-1 + i$ and $1$, are shown on the complex plane. What is the third root of $P(z)$?",
+   "answer": "The coefficients are real, so the conjugate $-1 - i$ is the third root.",
+   "images": [
+    "assets/img/ext2-2026-caringbah/q13c.png"
+   ]
+  },
+  {
+   "ref": "Q13(c)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.3.4"
+   ],
+   "question": "A cubic polynomial $P(z) = z^3 + bz^2 + cz + d$, where $b$, $c$ and $d$ are real, has three distinct roots. Two of the roots, $-1 + i$ and $1$, are shown on the complex plane. Its roots are $1$, $-1 + i$ and $-1 - i$. Find the values of $b$, $c$ and $d$.",
+   "answer": "Sum: $1 + (-1 + i) + (-1 - i) = -1 = -b \\Rightarrow b = 1$.\nPairs: $(-1 + i) + (-1 - i) + (-1 + i)(-1 - i) = -2 + 2 = 0 = c$.\nProduct: $1\\times(-1 + i)(-1 - i) = 2 = -d \\Rightarrow d = -2$.\n\n(Check: $(z - 1)(z^2 + 2z + 2) = z^3 + z^2 - 2$.)"
+  },
+  {
+   "ref": "Q13(c)(iii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.3.4"
+   ],
+   "question": "A cubic polynomial $P(z) = z^3 + bz^2 + cz + d$, where $b$, $c$ and $d$ are real, has three distinct roots. Two of the roots, $-1 + i$ and $1$, are shown on the complex plane. Its roots are $1$, $-1 + i$ and $-1 - i$. What are the roots of $P(z - 1)$?",
+   "answer": "$P(z - 1) = 0$ when $z - 1 \\in \\{1, -1 + i, -1 - i\\}$, i.e. $z = 2,\\ i,\\ -i$ (each root shifted one unit right)."
+  },
+  {
+   "ref": "Q13(d)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.6",
+    "12.4.1.13"
+   ],
+   "question": "Show that $\\displaystyle\\int e^{6x}\\sin\\left(e^{3x}\\right)dx = \\frac{\\sin\\left(e^{3x}\\right) - e^{3x}\\cos\\left(e^{3x}\\right)}{3} + C$.",
+   "answer": "Let $u = e^{3x}$, so $du = 3e^{3x}dx$ and $e^{6x}dx = \\tfrac{1}{3}u\\,du$:\n$$\\int e^{6x}\\sin(e^{3x})\\,dx = \\frac{1}{3}\\int u\\sin u\\,du = \\frac{1}{3}\\left(-u\\cos u + \\int\\cos u\\,du\\right) = \\frac{1}{3}\\left(\\sin u - u\\cos u\\right) + C$$\n$$= \\frac{\\sin(e^{3x}) - e^{3x}\\cos(e^{3x})}{3} + C.$$"
+  },
+  {
+   "ref": "Q13(e)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.3.9"
+   ],
+   "question": "Let $f(x) = \\ln\\left(\\dfrac{1 + x}{1 - x}\\right) - 2x - \\dfrac{2x^3}{3}$. Use differentiation to prove that $\\ln\\left(\\dfrac{1 + x}{1 - x}\\right) > 2x + \\dfrac{2x^3}{3}$ for $0 < x < 1$.",
+   "answer": "$f(x) = \\ln(1 + x) - \\ln(1 - x) - 2x - \\tfrac{2}{3}x^3$, so\n$$f'(x) = \\frac{1}{1 + x} + \\frac{1}{1 - x} - 2 - 2x^2 = \\frac{2}{1 - x^2} - 2(1 + x^2) = \\frac{2 - 2(1 - x^4)}{1 - x^2} = \\frac{2x^4}{1 - x^2}.$$\nFor $0 < x < 1$, $f'(x) > 0$, so $f$ is increasing there. Since $f(0) = 0$, $f(x) > 0$ for $0 < x < 1$, which gives the result."
+  },
+  {
+   "ref": "Q14(a)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.4.5"
+   ],
+   "question": "Prove by mathematical induction that $a_n = \\dfrac{n - 1}{n + 1}$ satisfies the recurrence relation $a_{n+1} = a_n + \\dfrac{2}{n^2 + 3n + 2}$ with initial condition $a_1 = 0$, for all integers $n \\ge 1$.",
+   "answer": "**$n = 1$:** $\\dfrac{1 - 1}{1 + 1} = 0 = a_1$. True.\n\n**Assume** $a_k = \\dfrac{k - 1}{k + 1}$ for some $k \\ge 1$.\n\n**Prove** $a_{k+1} = \\dfrac{k}{k + 2}$:\n$$a_{k+1} = \\frac{k - 1}{k + 1} + \\frac{2}{(k + 1)(k + 2)} = \\frac{(k - 1)(k + 2) + 2}{(k + 1)(k + 2)} = \\frac{k^2 + k}{(k + 1)(k + 2)} = \\frac{k}{k + 2}.$$\nHence by mathematical induction the formula holds for all integers $n \\ge 1$."
+  },
+  {
+   "ref": "Q14(b)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.6"
+   ],
+   "question": "Using a suitable substitution, show that $\\displaystyle\\int_0^{\\ln 2} \\frac{e^{2x}}{\\sqrt{e^x + 1}}\\,dx = \\frac{2\\sqrt{2}}{3}$.",
+   "answer": "Let $u = e^x + 1$, so $du = e^x dx$ and $e^x = u - 1$; the limits become $u = 2$ to $u = 3$.\n$$\\int_2^3 \\frac{u - 1}{\\sqrt{u}}\\,du = \\int_2^3\\left(u^{\\frac{1}{2}} - u^{-\\frac{1}{2}}\\right)du = \\left[\\frac{2}{3}u^{\\frac{3}{2}} - 2u^{\\frac{1}{2}}\\right]_2^3$$\n$$= \\left(2\\sqrt{3} - 2\\sqrt{3}\\right) - \\left(\\frac{4\\sqrt{2}}{3} - 2\\sqrt{2}\\right) = \\frac{2\\sqrt{2}}{3}.$$"
+  },
+  {
+   "ref": "Q14(c)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.5.5",
+    "12.3.5.4"
+   ],
+   "question": "Sketch the region of the complex plane consisting of all $z \\in \\mathbb{C}$ such that $\\left|\\operatorname{Arg}(z^2)\\right| < \\dfrac{\\pi}{6}$.",
+   "answer": "Let $\\arg z = \\theta$ ($z \\ne 0$), so $\\arg(z^2) = 2\\theta$ (up to multiples of $2\\pi$). We need $2\\theta$ within $\\tfrac{\\pi}{6}$ of a multiple of $2\\pi$:\n$$-\\frac{\\pi}{12} < \\theta < \\frac{\\pi}{12} \\quad\\text{or}\\quad \\frac{11\\pi}{12} < \\theta \\le \\pi \\ \\text{or}\\ -\\pi < \\theta < -\\frac{11\\pi}{12}.$$\nThe region is the pair of opposite open wedges about the real axis between the lines at angle $\\pm\\tfrac{\\pi}{12}$ to it, with boundary rays dashed and the origin excluded.",
+   "answer_images": [
+    "assets/img/ext2-2026-caringbah/q14c-sol.png"
+   ]
+  },
+  {
+   "ref": "Q14(d)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.3.4.4"
+   ],
+   "question": "Use de Moivre's theorem to show that $\\cos 4\\theta = 8\\cos^4\\theta - 8\\cos^2\\theta + 1$.",
+   "answer": "$(\\cos\\theta + i\\sin\\theta)^4 = \\cos 4\\theta + i\\sin 4\\theta$. Expanding the left side and taking real parts (write $c = \\cos\\theta$, $s = \\sin\\theta$):\n$$\\cos 4\\theta = c^4 - 6c^2s^2 + s^4 = c^4 - 6c^2(1 - c^2) + (1 - c^2)^2 = 8c^4 - 8c^2 + 1.$$"
+  },
+  {
+   "ref": "Q14(d)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.4.4"
+   ],
+   "question": "Given that $\\cos 4\\theta = 8\\cos^4\\theta - 8\\cos^2\\theta + 1$, show that the equation $16x^4 - 16x^2 + 1 = 0$ has roots $x = \\cos\\dfrac{\\pi}{12}, \\cos\\dfrac{5\\pi}{12}, \\cos\\dfrac{7\\pi}{12}$ and $\\cos\\dfrac{11\\pi}{12}$.",
+   "answer": "$16x^4 - 16x^2 + 1 = 0 \\iff 8x^4 - 8x^2 + 1 = \\tfrac{1}{2}$. Let $x = \\cos\\theta$ with $0 < \\theta < \\pi$: then $\\cos 4\\theta = \\tfrac{1}{2}$, so\n$$4\\theta = \\frac{\\pi}{3}, \\frac{5\\pi}{3}, \\frac{7\\pi}{3}, \\frac{11\\pi}{3} \\Rightarrow \\theta = \\frac{\\pi}{12}, \\frac{5\\pi}{12}, \\frac{7\\pi}{12}, \\frac{11\\pi}{12}.$$\nThese give four distinct values of $\\cos\\theta$, which are therefore the four roots of the quartic."
+  },
+  {
+   "ref": "Q14(d)(iii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.4.4",
+    "12.3.4.12"
+   ],
+   "question": "The equation $16x^4 - 16x^2 + 1 = 0$ has roots $x = \\cos\\dfrac{\\pi}{12}, \\cos\\dfrac{5\\pi}{12}, \\cos\\dfrac{7\\pi}{12}, \\cos\\dfrac{11\\pi}{12}$. Hence show that $\\cos\\dfrac{5\\pi}{12} = \\dfrac{\\sqrt{2 - \\sqrt{3}}}{2}$.",
+   "answer": "Solving as a quadratic in $x^2$:\n$$x^2 = \\frac{16 \\pm\\sqrt{256 - 64}}{32} = \\frac{2 \\pm\\sqrt{3}}{4}.$$\n$\\cos\\dfrac{5\\pi}{12}$ is positive and smaller than $\\cos\\dfrac{\\pi}{12}$, so it corresponds to the smaller positive root: $\\cos^2\\dfrac{5\\pi}{12} = \\dfrac{2 - \\sqrt{3}}{4}$ and\n$$\\cos\\frac{5\\pi}{12} = \\frac{\\sqrt{2 - \\sqrt{3}}}{2}.$$"
+  },
+  {
+   "ref": "Q15(a)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.2.2.1"
+   ],
+   "question": "The line through $A(1, -1, 3)$ and $B(4, 5, 0)$ meets the line through $C(0, 9, 10)$ and $D(1, 7, 7)$ at the point $E$. Prove that $\\overrightarrow{AB}$ is perpendicular to $\\overrightarrow{CD}$.",
+   "answer": "$\\overrightarrow{AB} = \\begin{pmatrix} 3 \\\\ 6 \\\\ -3 \\end{pmatrix}$, $\\overrightarrow{CD} = \\begin{pmatrix} 1 \\\\ -2 \\\\ -3 \\end{pmatrix}$, and $\\overrightarrow{AB}\\cdot\\overrightarrow{CD} = 3 - 12 + 9 = 0$, so they are perpendicular."
+  },
+  {
+   "ref": "Q15(a)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.1.10"
+   ],
+   "question": "The line through $A(1, -1, 3)$ and $B(4, 5, 0)$ meets the line through $C(0, 9, 10)$ and $D(1, 7, 7)$ at the point $E$. Find the coordinates of $E$.",
+   "answer": "$\\ell_{AB}: \\mathbf{r} = \\begin{pmatrix} 4 \\\\ 5 \\\\ 0 \\end{pmatrix} + \\lambda\\begin{pmatrix} 3 \\\\ 6 \\\\ -3 \\end{pmatrix}$, $\\ell_{CD}: \\mathbf{r} = \\begin{pmatrix} 0 \\\\ 9 \\\\ 10 \\end{pmatrix} + \\mu\\begin{pmatrix} 1 \\\\ -2 \\\\ -3 \\end{pmatrix}$.\n$$4 + 3\\lambda = \\mu,\\qquad 5 + 6\\lambda = 9 - 2\\mu,\\qquad -3\\lambda = 10 - 3\\mu.$$\nAdding the first and third: $4 = 10 - 2\\mu \\Rightarrow \\mu = 3$, so $\\lambda = -\\tfrac{1}{3}$. Check in the second: $5 - 2 = 3 = 9 - 6$. ✓\n$$E = (0 + 3,\\ 9 - 6,\\ 10 - 9) = (3, 3, 1).$$"
+  },
+  {
+   "ref": "Q15(b)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.1.13",
+    "12.4.1.6"
+   ],
+   "question": "Find $\\displaystyle\\int x\\cos^{-1}x\\,dx$.",
+   "answer": "By parts with $u = \\cos^{-1}x$, $dv = x\\,dx$:\n$$\\int x\\cos^{-1}x\\,dx = \\frac{x^2}{2}\\cos^{-1}x + \\frac{1}{2}\\int\\frac{x^2}{\\sqrt{1 - x^2}}\\,dx.$$\nWith $x = \\sin\\theta$: $\\displaystyle\\int\\frac{x^2}{\\sqrt{1 - x^2}}\\,dx = \\int\\sin^2\\theta\\,d\\theta = \\frac{\\theta}{2} - \\frac{\\sin 2\\theta}{4} = \\frac{1}{2}\\sin^{-1}x - \\frac{1}{2}x\\sqrt{1 - x^2}$.\n$$\\int x\\cos^{-1}x\\,dx = \\frac{x^2}{2}\\cos^{-1}x + \\frac{1}{4}\\sin^{-1}x - \\frac{1}{4}x\\sqrt{1 - x^2} + C.$$"
+  },
+  {
+   "ref": "Q15(c)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.6.2"
+   ],
+   "question": "A particle is projected from the origin with initial speed $u$ at an angle $\\alpha$ to the horizontal. It experiences a resistive force proportional to its velocity, so that the equations of motion are $\\ddot{x} = -k\\dot{x}$ and $\\ddot{y} = -k\\dot{y} - g$, where $k > 0$ and $g$ is the acceleration due to gravity. Let $\\theta$ be the angle the trajectory makes with the horizontal at time $t$. Prove that\n$$\\tan\\theta = \\tan\\alpha - \\frac{g\\left(e^{kt} - 1\\right)}{ku\\cos\\alpha}.$$",
+   "answer": "Horizontal: $\\dot x = u\\cos\\alpha\\,e^{-kt}$. Vertical: $\\dfrac{d\\dot y}{dt} = -k\\left(\\dot y + \\tfrac{g}{k}\\right) \\Rightarrow \\dot y = \\left(u\\sin\\alpha + \\tfrac{g}{k}\\right)e^{-kt} - \\tfrac{g}{k}$.\n$$\\tan\\theta = \\frac{\\dot y}{\\dot x} = \\frac{ku\\sin\\alpha\\,e^{-kt} + g e^{-kt} - g}{ku\\cos\\alpha\\,e^{-kt}} = \\tan\\alpha + \\frac{g\\left(1 - e^{kt}\\right)}{ku\\cos\\alpha} = \\tan\\alpha - \\frac{g\\left(e^{kt} - 1\\right)}{ku\\cos\\alpha}.$$"
+  },
+  {
+   "ref": "Q15(d)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.14"
+   ],
+   "question": "Let $I_n = \\displaystyle\\int\\sec^n x\\,dx$ for $n \\ge 0$. For $n \\ge 2$, show that $I_n = \\dfrac{\\tan x\\sec^{n-2}x}{n - 1} + \\dfrac{n - 2}{n - 1}I_{n-2}$.",
+   "answer": "Write $I_n = \\int\\sec^{n-2}x\\sec^2 x\\,dx$ and integrate by parts with $u = \\sec^{n-2}x$, $dv = \\sec^2 x\\,dx$:\n$$I_n = \\tan x\\sec^{n-2}x - (n - 2)\\int\\sec^{n-2}x\\tan^2 x\\,dx = \\tan x\\sec^{n-2}x - (n - 2)\\int\\sec^{n-2}x(\\sec^2 x - 1)\\,dx$$\n$$= \\tan x\\sec^{n-2}x - (n - 2)(I_n - I_{n-2}).$$\nSo $(n - 1)I_n = \\tan x\\sec^{n-2}x + (n - 2)I_{n-2}$, which gives the result."
+  },
+  {
+   "ref": "Q15(d)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.4.1.14",
+    "12.4.1.6"
+   ],
+   "question": "Let $I_n = \\displaystyle\\int\\sec^n x\\,dx$, where $I_n = \\dfrac{\\tan x\\sec^{n-2}x}{n - 1} + \\dfrac{n - 2}{n - 1}I_{n-2}$ for $n \\ge 2$. Using an appropriate substitution, show that\n$$\\int_1^2\\sqrt{x^2 - 1}\\,dx = \\sqrt{3} - \\frac{1}{2}\\ln\\left(2 + \\sqrt{3}\\right).$$",
+   "answer": "Let $x = \\sec u$, $dx = \\sec u\\tan u\\,du$; $x = 1 \\Rightarrow u = 0$, $x = 2 \\Rightarrow u = \\tfrac{\\pi}{3}$.\n$$\\int_1^2\\sqrt{x^2 - 1}\\,dx = \\int_0^{\\frac{\\pi}{3}}\\tan^2 u\\sec u\\,du = \\int_0^{\\frac{\\pi}{3}}\\left(\\sec^3 u - \\sec u\\right)du.$$\nUsing the reduction formula with $n = 3$: $\\displaystyle\\int\\sec^3 u\\,du = \\frac{\\tan u\\sec u}{2} + \\frac{1}{2}\\int\\sec u\\,du$, so\n$$\\int_0^{\\frac{\\pi}{3}}\\left(\\sec^3 u - \\sec u\\right)du = \\left[\\frac{\\tan u\\sec u}{2}\\right]_0^{\\frac{\\pi}{3}} - \\frac{1}{2}\\Big[\\ln|\\sec u + \\tan u|\\Big]_0^{\\frac{\\pi}{3}} = \\frac{2\\sqrt{3}}{2} - \\frac{1}{2}\\ln\\left(2 + \\sqrt{3}\\right) = \\sqrt{3} - \\frac{1}{2}\\ln\\left(2 + \\sqrt{3}\\right).$$"
+  },
+  {
+   "ref": "Q16(a)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.1.4.2"
+   ],
+   "question": "Prove by mathematical induction that $\\sqrt{1} + \\sqrt{2} + \\sqrt{3} + \\cdots + \\sqrt{n} \\ge \\dfrac{2}{3}n\\sqrt{n}$ for all $n \\ge 1$.",
+   "answer": "**$n = 1$:** $1 \\ge \\tfrac{2}{3}$. True.\n\n**Assume** $\\sqrt{1} + \\cdots + \\sqrt{k} \\ge \\tfrac{2}{3}k\\sqrt{k}$ for some $k \\ge 1$.\n\n**Prove** for $k + 1$: LHS $\\ge \\tfrac{2}{3}k\\sqrt{k} + \\sqrt{k + 1}$, so it suffices to show\n$$\\frac{2}{3}k\\sqrt{k} + \\sqrt{k + 1} \\ge \\frac{2}{3}(k + 1)\\sqrt{k + 1} \\iff 2k\\sqrt{k} \\ge (2k - 1)\\sqrt{k + 1} \\iff 4k^3 \\ge (2k - 1)^2(k + 1)$$\n(both sides positive, so squaring is valid). Now $(2k - 1)^2(k + 1) = 4k^3 - 3k + 1 \\le 4k^3$ since $3k - 1 > 0$ for $k \\ge 1$. Hence the result holds for $k + 1$, and by induction for all $n \\ge 1$."
+  },
+  {
+   "ref": "Q16(b)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.2.2.5"
+   ],
+   "question": "In triangle $OAB$, $A$ and $B$ lie on the unit circle in the first quadrant. $P$ lies on $OB$ with $\\overrightarrow{OP} = 3\\overrightarrow{PB}$, $Q$ lies on $AP$ with $\\overrightarrow{AQ} = 2\\overrightarrow{QP}$, and $R$ lies on $AB$ such that $O$, $Q$ and $R$ are collinear. Let $\\overrightarrow{OA} = \\mathbf{a}$ and $\\overrightarrow{OB} = \\mathbf{b}$.\n\nIt is given that $\\overrightarrow{AR} = k\\overrightarrow{AB}$. Find the value of $k$.",
+   "answer": "$\\overrightarrow{OP} = \\tfrac{3}{4}\\mathbf{b}$ and $\\overrightarrow{OQ} = \\mathbf{a} + \\tfrac{2}{3}\\left(\\tfrac{3}{4}\\mathbf{b} - \\mathbf{a}\\right) = \\tfrac{1}{3}\\mathbf{a} + \\tfrac{1}{2}\\mathbf{b}$.\n\nAs $O$, $Q$, $R$ are collinear, $\\overrightarrow{OR} = \\mu\\left(\\tfrac{1}{3}\\mathbf{a} + \\tfrac{1}{2}\\mathbf{b}\\right)$. Also $\\overrightarrow{OR} = \\mathbf{a} + k(\\mathbf{b} - \\mathbf{a}) = (1 - k)\\mathbf{a} + k\\mathbf{b}$.\n\nSince $\\mathbf{a}$, $\\mathbf{b}$ are not parallel: $\\tfrac{\\mu}{3} = 1 - k$ and $\\tfrac{\\mu}{2} = k$, so $\\tfrac{2k}{3} = 1 - k \\Rightarrow k = \\dfrac{3}{5}$.",
+   "images": [
+    "assets/img/ext2-2026-caringbah/q16b.png"
+   ]
+  },
+  {
+   "ref": "Q16(b)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.2.2.5",
+    "12.2.2.1"
+   ],
+   "question": "In triangle $OAB$, $A$ and $B$ lie on the unit circle in the first quadrant. $P$ lies on $OB$ with $\\overrightarrow{OP} = 3\\overrightarrow{PB}$, $Q$ lies on $AP$ with $\\overrightarrow{AQ} = 2\\overrightarrow{QP}$, and $R$ lies on $AB$ such that $O$, $Q$ and $R$ are collinear. Let $\\overrightarrow{OA} = \\mathbf{a}$ and $\\overrightarrow{OB} = \\mathbf{b}$. Then $\\overrightarrow{OQ} = \\tfrac{1}{3}\\mathbf{a} + \\tfrac{1}{2}\\mathbf{b}$.\n\nGiven that $\\overrightarrow{OQ}\\cdot\\overrightarrow{AP} = 0$, find the size of $\\angle AOB$, correct to the nearest minute.",
+   "answer": "$\\overrightarrow{AP} = \\tfrac{3}{4}\\mathbf{b} - \\mathbf{a}$ and $|\\mathbf{a}| = |\\mathbf{b}| = 1$:\n$$\\left(\\tfrac{1}{3}\\mathbf{a} + \\tfrac{1}{2}\\mathbf{b}\\right)\\cdot\\left(\\tfrac{3}{4}\\mathbf{b} - \\mathbf{a}\\right) = \\tfrac{1}{4}\\mathbf{a}\\cdot\\mathbf{b} - \\tfrac{1}{3} + \\tfrac{3}{8} - \\tfrac{1}{2}\\mathbf{a}\\cdot\\mathbf{b} = -\\tfrac{1}{4}\\mathbf{a}\\cdot\\mathbf{b} + \\tfrac{1}{24} = 0.$$\nSo $\\mathbf{a}\\cdot\\mathbf{b} = \\cos\\angle AOB = \\tfrac{1}{6}$ and $\\angle AOB \\approx 80^\\circ 24'$.",
+   "images": [
+    "assets/img/ext2-2026-caringbah/q16b.png"
+   ]
+  },
+  {
+   "ref": "Q16(c)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.5.5.6",
+    "12.5.5.2"
+   ],
+   "question": "A particle of unit mass is projected vertically upwards from the ground with initial speed $u$. It experiences a resistive force $kv$ and a gravitational force $g$. When it lands back on the ground its speed is $w$. Show that the particle takes a total time of $T = \\dfrac{u + w}{g}$ to return to the ground.",
+   "answer": "**Up** (upwards positive): $\\dot v = -g - kv$. Time: $t_{\\text{up}} = \\displaystyle\\int_0^u\\frac{dv}{g + kv} = \\frac{1}{k}\\ln\\frac{g + ku}{g}$. Height: $v\\dfrac{dv}{dx} = -(g + kv)$ gives\n$$H = \\int_0^u\\frac{v\\,dv}{g + kv} = \\frac{u}{k} - \\frac{g}{k^2}\\ln\\frac{g + ku}{g}.$$\n**Down** (downwards positive): $\\dot v = g - kv$. $t_{\\text{down}} = \\displaystyle\\int_0^w\\frac{dv}{g - kv} = \\frac{1}{k}\\ln\\frac{g}{g - kw}$, and\n$$H = \\int_0^w\\frac{v\\,dv}{g - kv} = -\\frac{w}{k} + \\frac{g}{k^2}\\ln\\frac{g}{g - kw}.$$\nEquating the heights: $\\dfrac{u + w}{k} = \\dfrac{g}{k^2}\\ln\\dfrac{(g + ku)}{(g - kw)}$. But\n$$T = t_{\\text{up}} + t_{\\text{down}} = \\frac{1}{k}\\ln\\frac{g + ku}{g - kw} = \\frac{k}{g}\\cdot\\frac{u + w}{k} = \\frac{u + w}{g}.$$"
+  },
+  {
+   "ref": "Q16(d)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.1.3.9"
+   ],
+   "question": "Define the sequence $a_n$ by $a_1 = 1$ and $a_{k+1} = a_k\\times(k + 1)^{k+1}$. By considering the area under the curve $y = x\\ln x$ (shown), prove that\n$$a_n > e^{\\frac{n^2}{4}\\left(2\\ln n - 1\\right)}.$$",
+   "answer": "$a_n = 2^2\\times 3^3\\times\\cdots\\times n^n$, so $\\ln a_n = \\displaystyle\\sum_{k=2}^{n}k\\ln k = \\sum_{k=1}^{n}k\\ln k$.\n\n$y = x\\ln x$ is increasing for $x \\ge 1$, so the right-endpoint rectangles of width 1 over $[1, n]$ have total area greater than the area under the curve:\n$$\\sum_{k=2}^{n}k\\ln k > \\int_1^n x\\ln x\\,dx = \\left[\\frac{x^2}{2}\\ln x - \\frac{x^2}{4}\\right]_1^n = \\frac{n^2}{4}(2\\ln n - 1) + \\frac{1}{4}.$$\nHence $\\ln a_n > \\dfrac{n^2}{4}(2\\ln n - 1)$, and so $a_n > e^{\\frac{n^2}{4}(2\\ln n - 1)}$ (for $n \\ge 2$).",
+   "images": [
+    "assets/img/ext2-2026-caringbah/q16d.png"
+   ]
+  }
+ ]
+}
