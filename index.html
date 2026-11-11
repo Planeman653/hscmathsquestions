@@ -2,45 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>HSC Maths Question Bank</title>
-<meta name="description" content="HSC Mathematics Advanced, Extension 1 and Extension 2 trial-paper questions sorted by syllabus topic and dot point, with worked solutions and a PDF builder.">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css">
+<title>Moved to Better HSC Papers</title>
+<link rel="canonical" href="https://planeman653.github.io/betterhscpapers/">
+<meta http-equiv="refresh" content="0; url=https://planeman653.github.io/betterhscpapers/">
+<script>location.replace("https://planeman653.github.io/betterhscpapers/" + location.hash);</script>
 </head>
-<body>
-<header class="topbar"><div class="topbar-inner">
-  <a class="brand" href="index.html">HSC Maths <span>Question Bank</span></a>
-  <nav class="tabs"><a href="advanced.html">Advanced</a><a href="extension1.html">Extension 1</a><a href="extension2.html">Extension 2</a></nav>
-</div></header>
-<main class="landing">
-  <section class="hero">
-    <h1>Past HSC trial questions, sorted by syllabus dot point.</h1>
-    <p>Every question is typed out, tagged to the NESA 11–12 (2024) syllabus, rated for difficulty from 1 to 5, and comes with a worked solution. Filter by topic, dot point or difficulty, hide or show answers, and build your own practice PDF.</p>
-  </section>
-  <section class="cards" id="cards">
-    <a class="card" href="advanced.html"><h2>Mathematics Advanced</h2><div class="big" data-n="advanced">–</div><div class="muted" data-p="advanced">questions</div></a>
-    <a class="card" href="extension1.html"><h2>Mathematics Extension 1</h2><div class="big" data-n="extension1">–</div><div class="muted" data-p="extension1">questions</div></a>
-    <a class="card" href="extension2.html"><h2>Mathematics Extension 2</h2><div class="big" data-n="extension2">–</div><div class="muted" data-p="extension2">questions</div></a>
-  </section>
-  <section class="recent">
-    <h3>Indexed papers</h3>
-    <table><thead><tr><th>Paper</th><th>Course</th><th>Questions</th><th>Added</th></tr></thead><tbody id="recent"><tr><td colspan="4">Loading…</td></tr></tbody></table>
-  </section>
-  <p class="foot">Source papers come from the THSC Online archive. New papers are indexed daily. Questions on content that is not in the 2024 syllabus are left out.</p>
-</main>
-<script>
-fetch("data/build/stats.json", {cache: "no-cache"}).then(r => r.json()).then(s => {
-  const short = {advanced: "Advanced", extension1: "Extension 1", extension2: "Extension 2"};
-  for (const [c, v] of Object.entries(s.courses)) {
-    document.querySelector(`[data-n="${c}"]`).textContent = v.questions;
-    document.querySelector(`[data-p="${c}"]`).textContent = `questions from ${v.papers} paper${v.papers === 1 ? "" : "s"}`;
-  }
-  const rows = s.papers.slice().sort((a, b) => (b.indexed || "").localeCompare(a.indexed || "") || b.year - a.year);
-  document.getElementById("recent").innerHTML = rows.map(p =>
-    `<tr><td>${p.label}</td><td>${short[p.course]}</td><td>${p.count}</td><td>${p.indexed || ""}</td></tr>`).join("") || `<tr><td colspan="4">None yet</td></tr>`;
-}).catch(() => { document.getElementById("recent").innerHTML = `<tr><td colspan="4">No papers indexed yet.</td></tr>`; });
-</script>
+<body style="font-family:system-ui,sans-serif;max-width:40rem;margin:4rem auto;padding:0 1rem">
+<p>This site has moved to <a href="https://planeman653.github.io/betterhscpapers/">Better HSC Papers</a>.</p>
 </body>
 </html>
