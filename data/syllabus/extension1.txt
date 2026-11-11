@@ -1,59 +1,59 @@
 ## 11.1 Further work with functions
 ### 11.1.1 Graphical relationships
-11.1.1.1 Examine the relationship between the graph of $y = f(x)$ and the graph of $y = \frac{1}{f(x)}$ using graphing applications, and graph $y = \frac{1}{f(x)}$ given $y = f(x)$ in algebraic or graphical form, identifying any vertical and horizontal asymptotes of $y = f(x)$ and $y = \frac{1}{f(x)}$
-11.1.1.2 Graph $y = \sec x$, $y = {cosec}x$ and $y = \cot x$ in both radians and degrees, identifying key properties including asymptotes, period, domain, range and symmetry, and compare each graph with the graph of its reciprocal
-11.1.1.3 Examine the relationship between the graph of $y = f(x)$ and the graphs of $y = |f(x)|$ and $y = f(|x|)$ using graphing applications, and graph $y = |f(x)|$ and $y = f(|x|)$ given $y = f(x)$ in algebraic or graphical form
-11.1.1.4 Examine the relationship between the graphs of $y = f(x)$ and $y = g(x)$ and the graphs of $y = f(x) + g(x)$ and $y = f(x) - g(x)$ using graphing applications, and graph $y = f(x) + g(x)$ and $y = f(x) - g(x)$ given $y = f(x)$ and $y = g(x)$ in algebraic or graphical form
+11.1.1.1 Examine the relationship between the graph of y = f(x) and the graph of $y = \frac{1}{f(x)}$ using graphing applications, and graph $y = \frac{1}{f(x)}$ given y = f(x) in algebraic or graphical form, identifying any vertical and horizontal asymptotes of y = f(x) and $y = \frac{1}{f(x)}$
+11.1.1.2 Graph y = sec x, y = cosecx and y = cot x in both radians and degrees, identifying key properties including asymptotes, period, domain, range and symmetry, and compare each graph with the graph of its reciprocal
+11.1.1.3 Examine the relationship between the graph of y = f(x) and the graphs of y = |f(x)| and y = f(|x|) using graphing applications, and graph y = |f(x)| and y = f(|x|) given y = f(x) in algebraic or graphical form
+11.1.1.4 Examine the relationship between the graphs of y = f(x) and y = g(x) and the graphs of y = f(x) + g(x) and y = f(x) − g(x) using graphing applications, and graph y = f(x) + g(x) and y = f(x) − g(x) given y = f(x) and y = g(x) in algebraic or graphical form
 11.1.1.5 Determine the domains and ranges of the sum and difference of functions where possible, and, if appropriate, verify them using a graphing application
 11.1.1.6 Apply knowledge of graphical relationships to solve problems involving graphs of functions, justifying conclusions in the context of the problem where appropriate
 ### 11.1.2 Inverse functions
 11.1.2.1 Describe a function as one-to-one if every element in the range of the function corresponds to exactly one element of the domain
-11.1.2.2 Establish that the reflection of a point in the line $y = x$ reverses the coordinates of the point
-11.1.2.3 Define an inverse function $f^{- 1}$ informally as a function that reverses or undoes the effect of the function $f$
+11.1.2.2 Establish that the reflection of a point in the line y = x reverses the coordinates of the point
+11.1.2.3 Define an inverse function f⁻¹ informally as a function that reverses or undoes the effect of the function f
 11.1.2.4 Recognise that inverse functions exist for one-to-one functions
-11.1.2.5 Determine the equation for the inverse function $f^{- 1}(x)$ of a given one-to-one function $y = f(x)$ by interchanging the variables $x$ and $y$ in $y = f(x)$
-11.1.2.6 Compare the graphs of a function and its inverse function using graphing applications, and recognise that the two graphs are reflections of each other in the line $y = x$
-11.1.2.7 Establish that the domain of $f^{- 1}(x)$ is the range of $f(x)$, and the range of $f^{- 1}(x)$ is the domain of $f(x)$, and use this relationship to solve problems
+11.1.2.5 Determine the equation for the inverse function f⁻¹(x) of a given one-to-one function y = f(x) by interchanging the variables x and y in y = f(x)
+11.1.2.6 Compare the graphs of a function and its inverse function using graphing applications, and recognise that the two graphs are reflections of each other in the line y = x
+11.1.2.7 Establish that the domain of f⁻¹(x) is the range of f(x), and the range of f⁻¹(x) is the domain of f(x), and use this relationship to solve problems
 11.1.2.8 Graph the inverse function of a given one-to-one function
-11.1.2.9 Explain that the reflection in the line $y = x$ exchanges horizontal and vertical lines and recognise that the horizontal line test can therefore be applied to the graph of $y = f(x)$ to determine whether its reflection in the line $y = x$ is a function
+11.1.2.9 Explain that the reflection in the line y = x exchanges horizontal and vertical lines and recognise that the horizontal line test can therefore be applied to the graph of y = f(x) to determine whether its reflection in the line y = x is a function
 11.1.2.10 Apply restrictions to the domain of a function, if it is not one-to-one, to obtain an inverse function
-11.1.2.11 Define formally $f^{- 1}(x)$ to be the inverse function of $f(x)$ if the relationships $f\left( f^{- 1}(x) \right) = x$ and $f^{- 1}\left( f(x) \right) = x$ hold, and use this definition to solve problems
+11.1.2.11 Define formally f⁻¹(x) to be the inverse function of f(x) if the relationships f(f⁻¹(x)) = x and f⁻¹(f(x)) = x hold, and use this definition to solve problems
 11.1.2.12 Solve problems based on the relationship between a function and its inverse function using algebraic and graphical techniques, including determining the points of intersection of a function and its inverse, where they exist
 ### 11.1.3 Parametric form of a function or relation
-11.1.3.1 Recognise that a curve may be represented by two parametric equations that give $x$ and $y$ as functions of a parameter and that the curve may also have a Cartesian equation in $x$ and $y$
+11.1.3.1 Recognise that a curve may be represented by two parametric equations that give x and y as functions of a parameter and that the curve may also have a Cartesian equation in x and y
 11.1.3.2 Express linear and quadratic functions and circles in parametric form
 11.1.3.3 Convert linear and quadratic functions and circles from parametric form to Cartesian form
 11.1.3.4 Graph linear and quadratic functions and circles expressed in parametric form
 ### 11.1.4 Inequalities
 11.1.4.1 Solve cubic inequalities where the cubic is expressed as a product of linear factors
 11.1.4.2 Solve inequalities involving rational expressions with variables in the denominator
-11.1.4.3 Solve absolute value inequalities of the form $|ax + b| \geq k$, $|ax + b| \leq k$, $|ax + b| < k$, $|ax + b| > k$, where $a$, $b$ and $k$ are constants, using algebraic and graphical methods or the characterisation of $|x|$ as the distance of $x$ from the origin
+11.1.4.3 Solve absolute value inequalities of the form |ax+b| ≥ k, |ax+b| ≤ k, |ax+b| < k, |ax+b| > k, where a, b and k are constants, using algebraic and graphical methods or the characterisation of |x| as the distance of x from the origin
 ## 11.2 Polynomials
 ### 11.2.1 Language and graphs of polynomials
-11.2.1.1 Define a polynomial function $P(x)$ of degree $n$, where $n$ is a non-negative integer, to be a function that can be expressed in the form ${P(x) = a}_{n}x^{n} + a_{n - 1}x^{n - 1} + \ldots + a_{2}x^{2} + a_{1}x + a_{0}$, for real $a_{n},\ldots,a_{0}$ and $a_{n} \neq 0$
-11.2.1.2 Define the leading term of $P(x)$ to be the term of highest degree and define the leading coefficient of $P(x)$ to be the coefficient of the leading term
-11.2.1.3 Define the constant term of $P(x)$ to be $a_{0}$
+11.2.1.1 Define a polynomial function P(x) of degree n, where n is a non-negative integer, to be a function that can be expressed in the form P(x) = a_(n)x^(n) + a_(n − 1)x^(n − 1) + … + a₂x² + a₁x + a₀, for real a_(n), …, a₀ and a_(n) ≠ 0
+11.2.1.2 Define the leading term of P(x) to be the term of highest degree and define the leading coefficient of P(x) to be the coefficient of the leading term
+11.2.1.3 Define the constant term of P(x) to be a₀
 11.2.1.4 Define a polynomial to be monic if its leading coefficient is 1
-11.2.1.5 Define the zero polynomial to be $P(x) = 0$ to be the polynomial with all the coefficients equal to zero and recognise that the zero polynomial has no leading term, no leading coefficient, no degree and constant term 0
-11.2.1.6 Determine the degree of $P(x) + Q(x)$ when two non-zero polynomials $P(x)$ and $Q(x)$, of degrees $n$ and $m$ respectively, are added
-11.2.1.7 Explain how the leading coefficient and the degree determine whether $y \rightarrow \infty$ or $y \rightarrow - \infty$ as $x \rightarrow \infty$ and as $x \rightarrow - \infty$
-11.2.1.8 Define the zeroes of $P(x)$ to be the numbers $\alpha$ such that $P(\alpha) = 0$, and define the roots of the polynomial equation $P(x) = 0$ to be its solutions, and recognise that every real number is a zero of the zero polynomial
-11.2.1.9 Define $\alpha$ as a repeated zero or multiple zero of a non-zero polynomial $P(x) = (x - \alpha)Q(x)$ when $(x - \alpha)$ is a factor of $Q(x)$, and $\alpha$ as a single zero of $P(x)$ when $(x - \alpha)$ is not a factor of $Q(x)$, for $Q(x) \neq 0$
-11.2.1.10 Define $\alpha$ as a zero of $P(x)$ of multiplicity $m$ if $P(x) = (x - \alpha)^{m}Q(x)$, where $m$ is a positive integer and $Q(\alpha) \neq 0$
+11.2.1.5 Define the zero polynomial to be P(x) = 0 to be the polynomial with all the coefficients equal to zero and recognise that the zero polynomial has no leading term, no leading coefficient, no degree and constant term 0
+11.2.1.6 Determine the degree of P(x) + Q(x) when two non-zero polynomials P(x) and Q(x), of degrees n and m respectively, are added
+11.2.1.7 Explain how the leading coefficient and the degree determine whether y → ∞ or y → − ∞ as x → ∞ and as x → − ∞
+11.2.1.8 Define the zeroes of P(x) to be the numbers α such that P(α) = 0, and define the roots of the polynomial equation P(x) = 0 to be its solutions, and recognise that every real number is a zero of the zero polynomial
+11.2.1.9 Define α as a repeated zero or multiple zero of a non-zero polynomial P(x) = (x−α)Q(x) when (x−α) is a factor of Q(x), and α as a single zero of P(x) when (x−α) is not a factor of Q(x), for Q(x) ≠ 0
+11.2.1.10 Define α as a zero of P(x) of multiplicity m if P(x) = (x−α)^(m)Q(x), where m is a positive integer and Q(α) ≠ 0
 11.2.1.11 State the multiplicity of each root of a polynomial equation given in factored form
 11.2.1.12 Find the zeroes of a polynomial that is expressed as a product of linear factors, determine their multiplicity and graph the polynomial
 ### 11.2.2 Remainder and factor theorems
 11.2.2.1 Examine the process of division of polynomials by comparing with the process of division with remainders for whole numbers, and use the terms dividend, divisor, quotient and remainder
-11.2.2.2 Express in the form $P(x) = A(x)Q(x) + R(x)$ the result of dividing $P(x)$ by a divisor $A(x)$, that is not the zero polynomial, with quotient $Q(x)$ and remainder $R(x)$, and explain why either $R(x) = 0$ or $\deg{R(x)} < \deg{A(x)}
+11.2.2.2 Express in the form P(x) = A(x)Q(x) + R(x) the result of dividing P(x) by a divisor A(x), that is not the zero polynomial, with quotient Q(x) and remainder R(x), and explain why either R(x) = 0 or deg R(x) < deg A(x)
 11.2.2.3 Express the result of the division also in the form $\frac{P(x)}{A(x)} = Q(x) + \frac{R(x)}{A(x)}$
-11.2.2.4 Explain why division by $x - \alpha$ yields $P(x) = (x - \alpha)Q(x) + r$, where $r$ is a constant, and why $x - \alpha$ is a factor if and only if $r = 0$
-11.2.2.5 Prove and apply the remainder theorem for polynomials: when $P(x)$ is divided by $x - \alpha$, the remainder is $P(\alpha)$, and solve related polynomial problems
-11.2.2.6 Prove and apply the factor theorem for polynomials: $P(\alpha) = 0$ if and only if $x - \alpha$ is a factor of $P(x)$, and solve related polynomial problems
-11.2.2.7 Use the factor theorem to find all factors of $P(x)$ of the form $x - \alpha$, where $\alpha$ is an integer, and use division to find the remaining factor of the polynomial
+11.2.2.4 Explain why division by x − α yields P(x) = (x−α)Q(x) + r, where r is a constant, and why x − α is a factor if and only if r = 0
+11.2.2.5 Prove and apply the remainder theorem for polynomials: when P(x) is divided by x − α, the remainder is P(α), and solve related polynomial problems
+11.2.2.6 Prove and apply the factor theorem for polynomials: P(α) = 0 if and only if x − α is a factor of P(x), and solve related polynomial problems
+11.2.2.7 Use the factor theorem to find all factors of P(x) of the form x − α, where α is an integer, and use division to find the remaining factor of the polynomial
 ### 11.2.3 Sums and products of zeroes of polynomials
-11.2.3.1 Prove that if a quadratic $P(x) = ax^{2} + bx + c$ has zeroes $\alpha$ and $\beta$ then $\alpha + \beta = - \frac{b}{a}$, the sum of the zeroes, and $\alpha\beta = \frac{c}{a}$, the product of the zeroes
-11.2.3.2 Prove that if a cubic $P(x) = ax^{3} + bx^{2} + cx + d$ has three zeroes $\alpha$, $\beta$, $\gamma$, then $\alpha + \beta + \gamma = - \frac{b}{a}$, $\alpha\beta + \beta\gamma + \gamma\alpha = \frac{c}{a}$ and $\alpha\beta\gamma = - \frac{d}{a}$
-11.2.3.3 Prove that if a quartic $P(x) = ax^{4} + bx^{3} + cx^{2} + dx + e$ has four zeroes $\alpha$, $\beta$, $\gamma$, $\delta$ then $\alpha + \beta + \gamma + \delta = - \frac{b}{a}$, $\alpha\beta + \alpha\gamma + \alpha\delta + \beta\gamma + \beta\delta + \gamma\alpha = \frac{c}{a}$, $\alpha\beta\gamma + \beta\gamma\delta + \gamma\delta\alpha + \delta\alpha\beta = - \frac{d}{a}$ and $\alpha\beta\gamma\delta = \frac{e}{a}$
+11.2.3.1 Prove that if a quadratic P(x) = ax² + bx + c has zeroes α and β then $\alpha + \beta = - \frac{b}{a}$, the sum of the zeroes, and $\alpha\beta = \frac{c}{a}$, the product of the zeroes
+11.2.3.2 Prove that if a cubic P(x) = ax³ + bx² + cx + d has three zeroes α, β, γ, then $\alpha + \beta + \gamma = - \frac{b}{a}$, $\alpha\beta + \beta\gamma + \gamma\alpha = \frac{c}{a}$ and $\alpha\beta\gamma = - \frac{d}{a}$
+11.2.3.3 Prove that if a quartic P(x) = ax⁴ + bx³ + cx² + dx + e has four zeroes α, β, γ, δ then $\alpha + \beta + \gamma + \delta = - \frac{b}{a}$, $\alpha\beta + \alpha\gamma + \alpha\delta + \beta\gamma + \beta\delta + \gamma\alpha = \frac{c}{a}$, $\alpha\beta\gamma + \beta\gamma\delta + \gamma\delta\alpha + \delta\alpha\beta = - \frac{d}{a}$ and $\alpha\beta\gamma\delta = \frac{e}{a}$
 11.2.3.4 Use the formulas for the sums and products of zeroes to solve problems involving zeroes and coefficients of quadratic, cubic and quartic polynomials
 ## 11.3 Further trigonometry
 ### 11.3.1 Trigonometry in three dimensions
@@ -61,47 +61,47 @@
 11.3.1.2 Interpret information about a 3-dimensional context given in written form
 11.3.1.3 Apply trigonometry to solve problems in three dimensions where a diagram is given
 ### 11.3.2 Further trigonometric identities
-11.3.2.1 Derive the sum and difference expansions for the trigonometric functions $\sin(A \pm B) = \sin A\cos B \pm \cos A\sin B$, ${\cos{(A \pm B) = \cos}}A\cos B \mp \sin A\sin B$ and $\tan{(A \pm B) = \frac{\tan A\ \pm {\ tan}B\ }{1\ \mp \ \tan A\tan B\ }}$
+11.3.2.1 Derive the sum and difference expansions for the trigonometric functions sin (A±B) = sin Acos B ± cos Asin B, cos (A±B) = cos Acos B ∓ sin Asin B and $\tan{(A \pm B) = \frac{\tan A\ \pm {\ tan}B\ }{1\ \mp \ \tan A\tan B\ }}$
 11.3.2.2 Use sum and difference expansion formulas to solve problems and prove results
-11.3.2.3 Derive the double angle formulas $\sin{2A} = 2\sin A\cos A$, $\cos{2A} = \cos^{2}A - \sin^{2}A = 2\cos^{2}A - 1 = 1 - 2{sin}^{2}A$ and $\tan{2A = \frac{2\tan A\ }{1\ - \ {tan}^{2}A}}$
+11.3.2.3 Derive the double angle formulas sin 2A = 2sin Acos A, cos 2A = cos²A − sin²A = 2cos²A − 1 = 1 − 2sin²A and $\tan{2A = \frac{2\tan A\ }{1\ - \ {tan}^{2}A}}$
 11.3.2.4 Use the double angle formulas to solve problems and prove results
 ### 11.3.3 Further trigonometric equations
 11.3.3.1 Solve trigonometric equations involving factorisation and/or substitution of trigonometric identities over restricted domains
-11.3.3.2 Examine the representations of $a{\ cos\ }x + b\sin x$ as $R\cos{(x \pm \alpha)}$ or $R\sin{(x \pm \alpha)} with and without graphing applications, where $a \neq 0 and $b \neq 0$
-11.3.3.3 Apply the representations of $a{\ cos\ }x + b\sin x$ as $R\cos{(x \pm \alpha)}$ or $R\sin{(x \pm \alpha)}$ to graph functions, solve equations of the form $a\cos x + b\sin x = c$ over restricted domains, and model and solve related problems
+11.3.3.2 Examine the representations of a cos x + bsin x as Rcos (x±α) or Rsin (x±α) with and without graphing applications, where a ≠ 0 and b ≠ 0
+11.3.3.3 Apply the representations of a cos x + bsin x as Rcos (x±α) or Rsin (x±α) to graph functions, solve equations of the form acos x + bsin x = c over restricted domains, and model and solve related problems
 11.3.3.4 Interpret solutions of trigonometric equations graphically with and without graphing applications
 11.3.3.5 Model and solve practical problems using trigonometric equations and analyse their solutions in a variety of contexts
 ## 11.4 Permutations and combinations
 ### 11.4.1 Permutations and combinations
-11.4.1.1 Use the notation $n!$ (read as $n$ factorial), where $n! = n(n - 1)(n - 2) \times \ldots \times 3 \times 2 \times 1$ for positive integers $n$
-11.4.1.2 Use $n! = n \times (n - 1)!$ and the convention $0! = 1$ in calculations and to simplify algebraic expressions involving factorials
-11.4.1.3 Establish and use the multiplication principle: if a selection can be made in two stages, where there are $m$ choices for the first stage and $n$ choices for the second stage then there are $m \times n$ choices for the selection
-11.4.1.4 Apply the multiplication principle to explain why the number of ways of ordering $n$ distinct objects in a straight line is $n!$
+11.4.1.1 Use the notation n! (read as n factorial), where n! = n(n−1)(n−2) × … × 3 × 2 × 1 for positive integers n
+11.4.1.2 Use n! = n × (n−1)! and the convention 0! = 1 in calculations and to simplify algebraic expressions involving factorials
+11.4.1.3 Establish and use the multiplication principle: if a selection can be made in two stages, where there are m choices for the first stage and n choices for the second stage then there are m × n choices for the selection
+11.4.1.4 Apply the multiplication principle to explain why the number of ways of ordering n distinct objects in a straight line is n!
 11.4.1.5 Define a permutation as an ordered selection of some or all objects from a set of distinct objects
-11.4.1.6 Use the notation$\ ^{n}P_{r}$ to represent an ordered selection of $r$ objects from $n$ distinct objects and observe that$\ ^{n}P_{n} = n!$ and$\ ^{n}P_{0} = 1$
-11.4.1.7 Use the multiplication principle to establish that the number of ordered selections of $r$ objects from $n$ distinct objects is $n(n - 1)(n - 2) \times \ldots \times (n - r + 1)$ and show that$\ ^{n}P_{r} = n(n - 1)(n - 2) \times \ldots \times (n - r + 1) = \frac{n!}{(n - r)!}$
+11.4.1.6 Use the notation ^(n)P_(r) to represent an ordered selection of r objects from n distinct objects and observe that ^(n)P_(n) = n! and ^(n)P₀ = 1
+11.4.1.7 Use the multiplication principle to establish that the number of ordered selections of r objects from n distinct objects is n(n−1)(n−2) × … × (n−r+1) and show that $\ ^{n}P_{r} = n(n - 1)(n - 2) \times \ldots \times (n - r + 1) = \frac{n!}{(n - r)!}$
 11.4.1.8 Solve problems involving permutations, including situations where the objects are not all distinct
 11.4.1.9 Solve problems involving permutations with restrictions on the placement of one or more objects
-11.4.1.10 Explain why the number of ways to arrange $n$ distinct objects in a circle is $(n - 1)!$
+11.4.1.10 Explain why the number of ways to arrange n distinct objects in a circle is (n−1)!
 11.4.1.11 Solve problems involving circular arrangements of distinct objects with or without restrictions on the placement of one or more objects
-11.4.1.12 Define a combination and use the notation$\ ^{n}C_{r}$ or $$\begin{pmatrix} n \\ r \end{pmatrix}$to represent the number of ways of selecting a subset of$r$objects from$n$$ distinct objects, where order is not important
-11.4.1.13 Establish and use the formula$\ ^{n}C_{r} = \frac{n!}{r!(n - r)!}$
-11.4.1.14 Show that$\ ^{n}C_{n} = \ ^{n}C_{0} = 1$ and$\ ^{n}C_{1} = \ ^{n}C_{n - 1} = n$
-11.4.1.15 Show that$\ ^{n}C_{r} = \ ^{n}C_{n - r}$, for $0 \leq r \leq n$ by selecting $r$ objects from $n$ distinct objects for inclusions and $n - r$ objects from $n$ distinct objects for exclusion
-11.4.1.16 Prove$\ ^{n}C_{r} = \ ^{n - 1}C_{r - 1} + \ ^{n - 1}C_{r}$ for $1 \leq r \leq n - 1$ algebraically and using combinatorial arguments
+11.4.1.12 Define a combination and use the notation ^(n)C_(r) or $\begin{pmatrix} n \\ r \end{pmatrix}$ to represent the number of ways of selecting a subset of r objects from n distinct objects, where order is not important
+11.4.1.13 Establish and use the formula $\ ^{n}C_{r} = \frac{n!}{r!(n - r)!}$
+11.4.1.14 Show that ^(n)C_(n) = ^(n)C₀ = 1 and ^(n)C₁ = ^(n)C_(n − 1) = n
+11.4.1.15 Show that ^(n)C_(r) = ^(n)C_(n − r), for 0 ≤ r ≤ n by selecting r objects from n distinct objects for inclusions and n − r objects from n distinct objects for exclusion
+11.4.1.16 Prove ^(n)C_(r) = ^(n − 1)C_(r − 1) + ^(n − 1)C_(r) for 1 ≤ r ≤ n − 1 algebraically and using combinatorial arguments
 11.4.1.17 Solve problems involving combinations with or without restrictions on the selection of one or more objects
 11.4.1.18 Solve problems involving both permutations and combinations, including problems which require consideration of cases
 11.4.1.19 Solve probability problems involving permutations and combinations
 ## 11.5 The binomial theorem
 ### 11.5.1 The binomial theorem
 11.5.1.1 Recognise that a binomial is an expression with two terms, and that a binomial expansion is an expansion of a power of a binomial
-11.5.1.2 Examine the symmetry formed by the coefficients of decreasing powers of $x$ in the expansion of $(x + y)^{n}$ for $n = 0,1,2,3,4,5$ and arrange the coefficients into Pascal's triangle
-11.5.1.3 Recognise the equivalence between the coefficient of $x^{n - r}y^{r}$ in the expansion of $(x + y)^{n}$ and$\ ^{n}C_{r}$, when $n$ is a positive integer
-11.5.1.4 Use patterns and symmetry in Pascal's triangle to confirm the identities$\ ^{n}C_{r} = \ ^{n - 1}C_{r - 1} + \ ^{n - 1}C_{r}$ for $1 \leq r \leq n - 1$ and $\ ^{n}C_{r} = \ ^{n}C_{n - r}$ for $0 \leq r \leq n$
-11.5.1.5 Derive the binomial theorem: $(x + y)^{n} = \ ^{n}C_{0}x^{n} + \ ^{n}C_{1}x^{n - 1}y + \ ^{n}C_{2}x^{n - 2}y^{2} + \ldots + \ ^{n}C_{n - 1}xy^{n - 1} +^{n}C_{n}y^{n}$, when $n$ is a positive integer
-11.5.1.6 Apply the binomial theorem to expand and simplify expressions of the form $(x + y)^{n}$
+11.5.1.2 Examine the symmetry formed by the coefficients of decreasing powers of x in the expansion of (x+y)^(n) for n = 0, 1, 2, 3, 4, 5 and arrange the coefficients into Pascal’s triangle
+11.5.1.3 Recognise the equivalence between the coefficient of x^(n − r)y^(r) in the expansion of (x+y)^(n) and ^(n)C_(r), when n is a positive integer
+11.5.1.4 Use patterns and symmetry in Pascal’s triangle to confirm the identities ^(n)C_(r) = ^(n − 1)C_(r − 1) + ^(n − 1)C_(r) for 1 ≤ r ≤ n − 1 and ^(n)C_(r) = ^(n)C_(n − r) for 0 ≤ r ≤ n
+11.5.1.5 Derive the binomial theorem: (x+y)^(n) = ^(n)C₀x^(n) + ^(n)C₁x^(n − 1)y + ^(n)C₂x^(n − 2)y² + … + ^(n)C_(n − 1)xy^(n − 1)+^(n)C_(n)y^(n), when n is a positive integer
+11.5.1.6 Apply the binomial theorem to expand and simplify expressions of the form (x+y)^(n)
 11.5.1.7 Use the binomial theorem to determine the coefficient of a term with a specific power or the constant term in a binomial expansion
-11.5.1.8 Use the identities$\ ^{n}C_{0} = 1$,$\ ^{n}C_{n} = 1$,$\ ^{n}C_{r} = \ ^{n - 1}C_{r - 1} + \ ^{n - 1}C_{r}$ for $1 \leq r \leq n - 1$ and$\ ^{n}C_{r} = \ ^{n}C_{n - r}$ for $0 \leq r \leq n$ to simplify expressions involving the binomial coefficients
+11.5.1.8 Use the identities ^(n)C₀ = 1, ^(n)C_(n) = 1, ^(n)C_(r) = ^(n − 1)C_(r − 1) + ^(n − 1)C_(r) for 1 ≤ r ≤ n − 1 and ^(n)C_(r) = ^(n)C_(n − r) for 0 ≤ r ≤ n to simplify expressions involving the binomial coefficients
 11.5.1.9 Prove identities involving binomial coefficients in binomial expansions by substituting values, comparing coefficients or applying a combinatorial argument to a specified context
 11.5.1.10 Apply given or proven identities involving binomial coefficients to prove further identities, without the use of calculus
 ## 12.1 Proof by mathematical induction
@@ -109,63 +109,63 @@
 12.1.1.1 Examine the nature of inductive proof, including the statement to be proved, the base case and the inductive step
 12.1.1.2 Prove results for sums using mathematical induction
 12.1.1.3 Prove divisibility results using mathematical induction
-12.1.1.4 Identify errors in false 'proofs by induction', such as cases where only one of the two required steps of a proof by induction is true
+12.1.1.4 Identify errors in false ‘proofs by induction’, such as cases where only one of the two required steps of a proof by induction is true
 ## 12.2 Introduction to vectors
 ### 12.2.1 Vector representation and notation
 12.2.1.1 Define a vector as a quantity having both magnitude and direction
 12.2.1.2 Associate vectors with directed line segments and recognise that a vector may have many directed line segments associated with it
-12.2.1.3 Identify and use notation for vectors in both two dimensions and three dimensions, including $\mathbf{a}$, $\underset{\sim}{a}$ and $\overrightarrow{AB}$, where $\overrightarrow{AB}$ is the vector with magnitude and direction those of the directed line segment from $A$ to $B$
-12.2.1.4 Use notations $\left| \mathbf{a} \right|$, $\left| \underset{\sim}{a} \right|$ and $\left| \overrightarrow{AB} \right|$ to represent the magnitude of a vector
+12.2.1.3 Identify and use notation for vectors in both two dimensions and three dimensions, including a, $\underset{\sim}{a}$ and $\overrightarrow{AB}$, where $\overrightarrow{AB}$ is the vector with magnitude and direction those of the directed line segment from A to B
+12.2.1.4 Use notations |a|, $\left| \underset{\sim}{a} \right|$ and $\left| \overrightarrow{AB} \right|$ to represent the magnitude of a vector
 12.2.1.5 Describe a position vector as a vector with its tail at the origin
 12.2.1.6 Represent vectors graphically with and without graphing applications
 12.2.1.7 Recognise and use the fact that two vectors are equal if they have the same magnitude and direction to solve problems
 ### 12.2.2 Introduction to 2D and 3D vectors
 12.2.2.1 Use Cartesian coordinates to represent points in 2-dimensional (2D) and 3-dimensional (3D) space with and without graphing applications
 12.2.2.2 Use the midpoint and distance formulas in two dimensions and three dimensions
-12.2.2.3 Identify that, in three dimensions, all points on the $xy$-plane have a $z$-coordinate of 0, and deduce similar properties for points on the $xz$ and $yz$-planes and thus the equations of the three coordinate planes
-12.2.2.4 Define the zero vector $\mathbf{0}$, written as $\underset{\sim}{0}$, as the vector with zero magnitude and no direction
+12.2.2.3 Identify that, in three dimensions, all points on the xy -plane have a z -coordinate of 0, and deduce similar properties for points on the xz and yz -planes and thus the equations of the three coordinate planes
+12.2.2.4 Define the zero vector 0, written as $\underset{\sim}{0}$, as the vector with zero magnitude and no direction
 12.2.2.5 Define unit vectors as vectors of magnitude 1
-12.2.2.6 Recognise and use $\widehat{\mathbf{a}}$ and $\widehat{\underset{\sim}{a}}$ as the notation for the unit vector in the direction of $\mathbf{a}$
-12.2.2.7 Define the standard perpendicular unit vectors $\mathbf{i}$ and $\mathbf{j}$ in two dimensions and $\mathbf{i}$, $\mathbf{j}$ and $\mathbf{k}$ in three dimensions
-12.2.2.8 Express 2D vectors in component form, $x\mathbf{i} + y\mathbf{j}$; as an ordered pair, $(x,y)$; and in column vector notation $$\begin{pmatrix} x \\ y \end{pmatrix}$$
-12.2.2.9 Recognise $$\overrightarrow{AB} = \begin{pmatrix} u - x \\ v - y \end{pmatrix}$as the vector associated with the directed line segment from the point$A(x,y)$to$B(u,v)$$ in two dimensions
-12.2.2.10 Express 3D vectors in component form, $x\mathbf{i} + y\mathbf{j} + z\mathbf{k}$; as an ordered triple, $(x,y,z)$; and in column vector notation $$\begin{pmatrix} x \\ y \\ z \end{pmatrix}$$
-12.2.2.11 Recognise $$\overrightarrow{AB} = \begin{pmatrix} u - x \\ v - y \\ w - z \end{pmatrix}$as the vector associated with the directed line segment from$A(x,y,z)$to$B(u,v,w)$$ in three dimensions
+12.2.2.6 Recognise and use $\widehat{\mathbf{a}}$ and $\widehat{\underset{\sim}{a}}$ as the notation for the unit vector in the direction of a
+12.2.2.7 Define the standard perpendicular unit vectors i and j in two dimensions and i, j and k in three dimensions
+12.2.2.8 Express 2D vectors in component form, xi + yj; as an ordered pair, (x,y); and in column vector notation $\begin{pmatrix} x \\ y \end{pmatrix}$
+12.2.2.9 Recognise $\overrightarrow{AB} = \begin{pmatrix} u - x \\ v - y \end{pmatrix}$ as the vector associated with the directed line segment from the point A(x,y) to B(u,v) in two dimensions
+12.2.2.10 Express 3D vectors in component form, xi + yj + zk; as an ordered triple, (x,y,z); and in column vector notation $\begin{pmatrix} x \\ y \\ z \end{pmatrix}$
+12.2.2.11 Recognise $\overrightarrow{AB} = \begin{pmatrix} u - x \\ v - y \\ w - z \end{pmatrix}$ as the vector associated with the directed line segment from A(x,y,z) to B(u,v,w) in three dimensions
 ### 12.2.3 Operating with vectors
 12.2.3.1 Define a scalar as a real number that is used to multiply a vector
 12.2.3.2 Represent geometrically a scalar multiple of a vector in two dimensions and three dimensions with and without graphing applications
 12.2.3.3 Perform multiplication of a vector by a scalar algebraically in component form
-12.2.3.4 Establish and identify $\mathbf{a} = k\mathbf{b}$, for a non-zero scalar $k$, as a condition for two non-zero vectors $\mathbf{a}$ and $\mathbf{b}$ to be parallel to each other and determine with justification if two vectors are parallel to one another
-12.2.3.5 Identify $$\begin{pmatrix} b \\ - a \end{pmatrix}$and$\begin{pmatrix} - b \\ a \end{pmatrix}$as vectors perpendicular to$\begin{pmatrix} a \\ b \end{pmatrix}$$ and with equal magnitude
+12.2.3.4 Establish and identify a = kb, for a non-zero scalar k, as a condition for two non-zero vectors a and b to be parallel to each other and determine with justification if two vectors are parallel to one another
+12.2.3.5 Identify $\begin{pmatrix} b \\ - a \end{pmatrix}$ and $\begin{pmatrix} - b \\ a \end{pmatrix}$ as vectors perpendicular to $\begin{pmatrix} a \\ b \end{pmatrix}$ and with equal magnitude
 12.2.3.6 Perform addition and subtraction of vectors algebraically in component form, and verify, with and without graphing applications, that geometrically these are obtained using the triangle law or the parallelogram law
 12.2.3.7 Establish and calculate the magnitude of a vector using $\left| x\mathbf{i} + y\mathbf{j} \right| = \sqrt{x^{2} + y^{2}}$ for 2D vectors and $\left| x\mathbf{i} + y\mathbf{j} + z\mathbf{k} \right| = \sqrt{x^{2} + y^{2} + z^{2}}$ for 3D vectors
 12.2.3.8 Use the magnitude of a vector to find the unit vector $\widehat{\mathbf{a}} = \frac{1}{\left| \mathbf{a} \right|}\mathbf{a}$ in two dimensions and three dimensions
 ### 12.2.4 Further operations with vectors
-12.2.4.1 Define $\mathbf{a} \cdot \mathbf{b} = x_{1}x_{2} + y_{1}y_{2}$ as the scalar (dot) product of vectors $\mathbf{a} = x_{1}\mathbf{i} + y_{1}\mathbf{j}$ and $\mathbf{b} = x_{2}\mathbf{i} + y_{2}\mathbf{j}$ and use the scalar product to solve problems
-12.2.4.2 Define $\mathbf{a} \cdot \mathbf{b} = x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2}$ as the scalar product of vectors $\mathbf{a} = x_{1}\mathbf{i} + y_{1}\mathbf{j} + z_{1}\mathbf{k}$ and $\mathbf{b} = x_{2}\mathbf{i} + y_{2}\mathbf{j} + z_{2}\mathbf{k}$ and use the scalar product to solve problems
-12.2.4.3 Use $\mathbf{a} \cdot \mathbf{b} = \left| \mathbf{a} \right|\left| \mathbf{b} \right|cos\ \theta$ as a geometric expression of the scalar product of non-zero vectors $\mathbf{a}$ and $\mathbf{b}$ in two dimensions and three dimensions, where $\theta$ is the angle between the vectors and $0{^\circ} \leq \theta \leq 180{^\circ}$.
-12.2.4.4 Verify the equivalence of $\mathbf{a} \cdot \mathbf{b} = \left| \mathbf{a} \right|\left| \mathbf{b} \right|cos\ \theta$ with the algebraic definition of the scalar product, $\mathbf{a} \cdot \mathbf{b} = x_{1}x_{2} + y_{1}y_{2}$ for two dimensions and $\mathbf{a} \cdot \mathbf{b} = x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2}$ for three dimensions
-12.2.4.5 Derive and use the property $\mathbf{a} \cdot \mathbf{a} = \left| \mathbf{a} \right|^{2}$ to establish the scalar product definition of the magnitude of a vector ($\left| \mathbf{a} \right| = \sqrt{\mathbf{a} \cdot \mathbf{a}}$) in two dimensions and three dimensions
-12.2.4.6 Calculate the angle between two non-zero vectors $\mathbf{a}$ and $\mathbf{b}$, in both two dimensions and three dimensions, using the scalar product by deriving and applying the relationship $\cos\theta = \frac{\mathbf{a} \cdot \mathbf{b}}{\left| \mathbf{a} \right|\left| \mathbf{b} \right|} = \left( \widehat{\mathbf{a}} \cdot \widehat{\mathbf{b}} \right)$
-12.2.4.7 Establish $\mathbf{a} \cdot \mathbf{b} = 0$ as a condition for two non-zero vectors $\mathbf{a}$ and $\mathbf{b}$ to be perpendicular to each other and use it to determine if two vectors are perpendicular
-12.2.4.8 Establish $\mathbf{a} \cdot \mathbf{b} = \pm \left| \mathbf{a} \right|\left| \mathbf{b} \right|$ as another way to determine if two non-zero vectors $\mathbf{a}$ and $\mathbf{b}$ are parallel
-12.2.4.9 Define the projection of a vector $\mathbf{a}$ onto a vector $\mathbf{b}$, denoted by ${proj}_{\mathbf{b}}\mathbf{a}$, to be the vector component of $\mathbf{a}$ in the direction of vector $\mathbf{b\ }$
-12.2.4.10 Examine the proof of the formula ${proj}_{\mathbf{b}}\mathbf{a} = \left( \frac{\mathbf{a} \cdot \mathbf{b}}{\left| \mathbf{b} \right|^{2}} \right)\mathbf{b} = \left( \mathbf{a} \cdot \widehat{\mathbf{b}} \right)\widehat{\mathbf{b}}$ and use the formula to solve problems
-12.2.4.11 Determine that the component of a vector $\mathbf{a}$ perpendicular to another vector $\mathbf{b}$ is $\mathbf{a}\mathbf{-}{proj}_{\mathbf{b}}\mathbf{a}$
+12.2.4.1 Define a ⋅ b = x₁x₂ + y₁y₂ as the scalar (dot) product of vectors a = x₁i + y₁j and b = x₂i + y₂j and use the scalar product to solve problems
+12.2.4.2 Define a ⋅ b = x₁x₂ + y₁y₂ + z₁z₂ as the scalar product of vectors a = x₁i + y₁j + z₁k and b = x₂i + y₂j + z₂k and use the scalar product to solve problems
+12.2.4.3 Use a ⋅ b = |a||b|cos θ as a geometric expression of the scalar product of non-zero vectors a and b in two dimensions and three dimensions, where θ is the angle between the vectors and 0^(∘) ≤ θ ≤ 180^(∘).
+12.2.4.4 Verify the equivalence of a ⋅ b = |a||b|cos θ with the algebraic definition of the scalar product, a ⋅ b = x₁x₂ + y₁y₂ for two dimensions and a ⋅ b = x₁x₂ + y₁y₂ + z₁z₂ for three dimensions
+12.2.4.5 Derive and use the property a ⋅ a = |a|² to establish the scalar product definition of the magnitude of a vector ($\left| \mathbf{a} \right| = \sqrt{\mathbf{a} \cdot \mathbf{a}}$) in two dimensions and three dimensions
+12.2.4.6 Calculate the angle between two non-zero vectors a and b, in both two dimensions and three dimensions, using the scalar product by deriving and applying the relationship $\cos\theta = \frac{\mathbf{a} \cdot \mathbf{b}}{\left| \mathbf{a} \right|\left| \mathbf{b} \right|} = \left(\widehat{\mathbf{a}} \cdot \widehat{\mathbf{b}} \right)$
+12.2.4.7 Establish a ⋅ b = 0 as a condition for two non-zero vectors a and b to be perpendicular to each other and use it to determine if two vectors are perpendicular
+12.2.4.8 Establish a ⋅ b = ± |a||b| as another way to determine if two non-zero vectors a and b are parallel
+12.2.4.9 Define the projection of a vector a onto a vector b, denoted by proj_(b)a, to be the vector component of a in the direction of vector b
+12.2.4.10 Examine the proof of the formula ${proj}_{\mathbf{b}}\mathbf{a} = \left(\frac{\mathbf{a} \cdot \mathbf{b}}{\left| \mathbf{b} \right|^{2}} \right)\mathbf{b} = \left(\mathbf{a} \cdot \widehat{\mathbf{b}} \right)\widehat{\mathbf{b}}$ and use the formula to solve problems
+12.2.4.11 Determine that the component of a vector a perpendicular to another vector b is a−proj_(b)a
 ### 12.2.5 Motion in vector form in two dimensions
 12.2.5.1 Describe the position of an object at a point in 2D space using a vector
-12.2.5.2 Describe the changing positions of an object by expressing its vector as a function of time using $\mathbf{r}(t) = x(t)\mathbf{i} + y(t)\mathbf{j}$, or $\mathbf{r} = x\mathbf{i} + y\mathbf{j}$ where $x$ and $y$ are functions of time $t$
-12.2.5.3 Recognise that $x(t)$ and $y(t)$ form a pair of parametric equations for the path of the object
+12.2.5.2 Describe the changing positions of an object by expressing its vector as a function of time using r(t) = x(t)i + y(t)j, or r = xi + yj where x and y are functions of time t
+12.2.5.3 Recognise that x(t) and y(t) form a pair of parametric equations for the path of the object
 12.2.5.4 Find the Cartesian equation of the path of an object, where the path is a straight line, parabola or circle
-12.2.5.5 Express the change in an object's position between two points as a displacement vector and recognise the magnitude of the displacement vector as the distance between the two points
+12.2.5.5 Express the change in an object’s position between two points as a displacement vector and recognise the magnitude of the displacement vector as the distance between the two points
 12.2.5.6 Solve motion problems involving constant velocity using vectors
 12.2.5.7 Solve relative velocity problems involving constant crosswind/cross-current using vector diagrams, and describe the direction of a vector where required
 12.2.5.8 Find the velocity vector $\mathbf{v} = \overset{˙}{x}\mathbf{i} + \overset{˙}{y}\mathbf{j}$ and acceleration vector $\mathbf{a} = \overset{¨}{x}\mathbf{i} + \overset{¨}{y}\mathbf{j}$ of an object using differential calculus
 12.2.5.9 Find the position vector and the velocity vector of an object using integral calculus given its acceleration vector
 12.2.5.10 Solve motion problems involving non-constant velocity using vectors
 ### 12.2.6 Projectile motion
-12.2.6.1 Recognise that the gravitational force on a mass may be regarded as a constant acting in a downwards direction when the motion of the object is restricted to a small region near the Earth's surface
-12.2.6.2 Model and analyse a projectile's path where the projectile is a point and air resistance is negligible, subject to only acceleration due to gravity, assuming that the projectile is moving close to the Earth's surface
+12.2.6.1 Recognise that the gravitational force on a mass may be regarded as a constant acting in a downwards direction when the motion of the object is restricted to a small region near the Earth’s surface
+12.2.6.2 Model and analyse a projectile’s path where the projectile is a point and air resistance is negligible, subject to only acceleration due to gravity, assuming that the projectile is moving close to the Earth’s surface
 12.2.6.3 Represent the motion of a projectile using vectors
 12.2.6.4 Recognise that the horizontal and vertical components of the motion of a projectile can be represented by horizontal and vertical vectors
 12.2.6.5 Derive and use the equations of motion of a projectile in vector form by splitting 2D motion into horizontal and vertical components to solve problems on projectiles
@@ -174,56 +174,56 @@
 12.2.6.8 Solve problems relating to the path of a projectile in which the initial velocity and/or angle of projection may be unknown, in a variety of contexts
 ## 12.3 Inverse trigonometric functions
 ### 12.3.1 Definitions of inverse trigonometric functions
-12.3.1.1 Graph $y = \sin x$, $y = \cos x$ and $y = \tan x$, for $- 2\pi \leq x \leq 2\pi$ using graphing applications and recognise that these three functions fail the horizontal line test
-12.3.1.2 Examine possible domain restrictions of $y = \sin x$, $y = \cos x$ and $y = \tan x$ to obtain the corresponding inverse functions using graphing applications
-12.3.1.3 Define $\sin^{- 1}x$ or $\arcsin x$ to be the inverse function of $y = \sin x$ restricted to $- \frac{\pi}{2} \leq x \leq \frac{\pi}{2}$, and determine the domain and range of$\ {y = \sin}^{- 1}x$
-12.3.1.4 Define $\cos^{- 1}x$ or $\arccos x$ to be the inverse function of $y = \cos x$ restricted to $0 \leq x \leq \pi$, and determine the domain and range of$\ {y = \cos}^{- 1}x$
-12.3.1.5 Define $\tan^{- 1}x$ or $\arctan x$ to be the inverse function of $y = \tan x$ restricted to $- \frac{\pi}{2} < x < \frac{\pi}{2}$, and determine the domain and range of$\ {y = \tan}^{- 1}x$
-12.3.1.6 Evaluate and simply expressions, and prove results using the definitions of $\sin^{- 1}x$, $\cos^{- 1}x$ and $\tan^{- 1}x$
+12.3.1.1 Graph y = sin x, y = cos x and y = tan x, for − 2π ≤ x ≤ 2π using graphing applications and recognise that these three functions fail the horizontal line test
+12.3.1.2 Examine possible domain restrictions of y = sin x, y = cos x and y = tan x to obtain the corresponding inverse functions using graphing applications
+12.3.1.3 Define sin⁻¹x or arcsin x to be the inverse function of y = sin x restricted to $- \frac{\pi}{2} \leq x \leq \frac{\pi}{2}$, and determine the domain and range of y = sin ⁻¹x
+12.3.1.4 Define cos⁻¹x or arccos x to be the inverse function of y = cos x restricted to 0 ≤ x ≤ π, and determine the domain and range of y = cos ⁻¹x
+12.3.1.5 Define tan⁻¹x or arctan x to be the inverse function of y = tan x restricted to $- \frac{\pi}{2} < x < \frac{\pi}{2}$, and determine the domain and range of y = tan ⁻¹x
+12.3.1.6 Evaluate and simply expressions, and prove results using the definitions of sin⁻¹x, cos⁻¹x and tan⁻¹x
 ### 12.3.2 Graphs of inverse trigonometric functions
-12.3.2.1 Graph $y = \sin x$ for $- \frac{\pi}{2} \leq x \leq \frac{\pi}{2}$, then use a reflection in $y = x$ to graph $y = \sin^{- 1}x$ with and without graphing applications
-12.3.2.2 Graph $y = \cos x$ for $0 \leq x \leq \pi$, then use a reflection in $y = x$ to graph $y = \cos^{- 1}x$ with and without graphing applications
-12.3.2.3 Graph $y = \tan x$ for $- \frac{\pi}{2} < x < \frac{\pi}{2}$, then use a reflection in $y = x$ to graph $y = \tan^{- 1}x$ with and without graphing applications
-12.3.2.4 Classify ${y = \sin}^{- 1}x$, $y = \cos^{- 1}x$ and $y = \tan^{- 1}x$ as odd, even, or neither odd nor even
-12.3.2.5 Examine the properties $\sin^{- 1}( - x) = - \sin^{- 1}x$, $\ \ \cos^{- 1}( - x) = \pi - \cos^{- 1}x$, $\tan^{- 1}( - x) = - \tan^{- 1}x$ and $\cos^{- 1}x + \sin^{- 1}x = \frac{\pi}{2}$ using graphing applications and prove them algebraically
-12.3.2.6 Use the properties $\sin^{- 1}( - x) = - \sin^{- 1}x$, $\cos^{- 1}( - x) = \pi - \cos^{- 1}x$, $\tan^{- 1}( - x) = - \tan^{- 1}x and $\cos^{- 1}x + \sin^{- 1}x = \frac{\pi}{2}$ to solve problems, simplify expressions and prove results
-12.3.2.7 Graph the composite functions $y = {{sin\ }{(\sin^{- 1}}}{x)}$, $y = {{cos\ }{(\cos^{- 1}}}{x)}$ and $y = {{tan\ }{(\tan^{- 1}}}{x)}$ by considering their domains and ranges
-12.3.2.8 Examine the graphs of the composite functions $y = {{sin\ }{(\sin^{- 1}}}{x)}$, $y = {{cos\ }{(\cos^{- 1}}}{x)}$ and $y = {{tan\ }{(\tan^{- 1}}}{x)}$, establish the values of $x$ for which the formulas ${{sin\ }{(\sin^{- 1}}}{x)} = x$, ${{cos\ }{(\cos^{- 1}}}{x)} = x$ and ${{tan\ }{(\tan^{- 1}}}{x)} = x$ are true, and apply the formulas to solve problems, simplify expressions and prove results
-12.3.2.9 Graph the composite functions ${{y = \sin}^{- 1}{(\sin}}{x)}$, ${{y = \cos}^{- 1}{(\cos}}{x)}$ and ${{y = \tan}^{- 1}{(\tan}}{x)}$ by considering their domains and ranges
-12.3.2.10 Examine the graphs of the composite functions ${{y = \sin}^{- 1}{(\sin}}{x)}$, ${{y = \cos}^{- 1}{(\cos}}{x)}$ and ${{y = \tan}^{- 1}{(\tan}}{x)}$, establish the values of $x$ for which the formulas ${\sin^{- 1}{(\sin}}{x)} = x$, ${\cos^{- 1}{(\cos}}{x)} = x and ${\tan^{- 1}{(\tan}}{x)} = x$ are true, and apply the formulas to solve problems, simplify expressions and prove results
-12.3.2.11 Use graphing applications to explore reflections, translations and dilations of the functions $f(x) = \sin^{- 1}x$, $f(x) = \cos^{- 1}x$ and $f(x) = \tan^{- 1}x$, and confirm that the principles of transformations hold for the inverse trigonometric functions
+12.3.2.1 Graph y = sin x for $- \frac{\pi}{2} \leq x \leq \frac{\pi}{2}$, then use a reflection in y = x to graph y = sin⁻¹x with and without graphing applications
+12.3.2.2 Graph y = cos x for 0 ≤ x ≤ π, then use a reflection in y = x to graph y = cos⁻¹x with and without graphing applications
+12.3.2.3 Graph y = tan x for $- \frac{\pi}{2} < x < \frac{\pi}{2}$, then use a reflection in y = x to graph y = tan⁻¹x with and without graphing applications
+12.3.2.4 Classify y = sin ⁻¹x, y = cos⁻¹x and y = tan⁻¹x as odd, even, or neither odd nor even
+12.3.2.5 Examine the properties sin⁻¹(−x) = − sin⁻¹x, cos⁻¹(−x) = π − cos⁻¹x, tan⁻¹(−x) = − tan⁻¹x and $\cos^{- 1}x + \sin^{- 1}x = \frac{\pi}{2}$ using graphing applications and prove them algebraically
+12.3.2.6 Use the properties sin⁻¹(−x) = − sin⁻¹x, cos⁻¹(−x) = π − cos⁻¹x, tan⁻¹(−x) = − tan⁻¹x and $\cos^{- 1}x + \sin^{- 1}x = \frac{\pi}{2}$ to solve problems, simplify expressions and prove results
+12.3.2.7 Graph the composite functions y = sin (sin⁻¹x), y = cos (cos⁻¹x) and y = tan (tan⁻¹x) by considering their domains and ranges
+12.3.2.8 Examine the graphs of the composite functions y = sin (sin⁻¹x), y = cos (cos⁻¹x) and y = tan (tan⁻¹x), establish the values of x for which the formulas sin (sin⁻¹x) = x, cos (cos⁻¹x) = x and tan (tan⁻¹x) = x are true, and apply the formulas to solve problems, simplify expressions and prove results
+12.3.2.9 Graph the composite functions y = sin ⁻¹(sin x), y = cos ⁻¹(cos x) and y = tan ⁻¹(tan x) by considering their domains and ranges
+12.3.2.10 Examine the graphs of the composite functions y = sin ⁻¹(sin x), y = cos ⁻¹(cos x) and y = tan ⁻¹(tan x), establish the values of x for which the formulas sin⁻¹(sin x) = x, cos⁻¹(cos x) = x and tan⁻¹(tan x) = x are true, and apply the formulas to solve problems, simplify expressions and prove results
+12.3.2.11 Use graphing applications to explore reflections, translations and dilations of the functions f(x) = sin⁻¹x, f(x) = cos⁻¹x and f(x) = tan⁻¹x, and confirm that the principles of transformations hold for the inverse trigonometric functions
 12.3.2.12 Apply the principles of transformations to inverse trigonometric functions to determine the function rule and graph the function, finding the domain and range of the transformed graph and determining any intercepts and asymptotes where appropriate
 ## 12.4 Further calculus skills
 ### 12.4.1 Further derivatives of functions
 12.4.1.1 Find the derivative of a function defined parametrically using the chain rule
 12.4.1.2 Solve problems involving derivatives of functions defined parametrically
-12.4.1.3 Verify using the chain rule that the derivative of the inverse function is the reciprocal of the derivative of the function, evaluated at the value of the inverse function, that is $\left( f^{- 1} \right)'(x) = \frac{1}{f^{'}\left( f^{- 1}(x) \right)}$
+12.4.1.3 Verify using the chain rule that the derivative of the inverse function is the reciprocal of the derivative of the function, evaluated at the value of the inverse function, that is $\left(f^{- 1} \right)'(x) = \frac{1}{f^{'}\left(f^{- 1}(x) \right)}$
 12.4.1.4 Solve problems involving derivatives of inverse functions
-12.4.1.5 Examine the proofs of the derivatives of $\sin^{- 1}x$, $\cos^{- 1}x$ and $\tan^{- 1}x$
-12.4.1.6 Use the chain rule to show that $\frac{d}{dx}\left\lbrack \sin^{- 1}{f(x)} \right\rbrack = \frac{f^{'}(x)}{\sqrt{1 - \left\lbrack f(x) \right\rbrack^{2}}}$, $\frac{d}{dx}\left\lbrack \cos^{- 1}{f(x)} \right\rbrack = - \frac{f^{'}(x)}{\sqrt{1 - \left\lbrack f(x) \right\rbrack^{2}}} = - \frac{d}{dx}\left\lbrack \sin^{- 1}{f(x)} \right\rbrack$ and $\frac{d}{dx}\left\lbrack \tan^{- 1}{f(x)} \right\rbrack = \frac{f^{'}(x)}{1 + \left\lbrack f(x) \right\rbrack^{2}}$ and apply the results to solve problems involving derivatives of $\sin^{- 1}{f(x)}$, $\cos^{- 1}{f(x)}$ and $\tan^{- 1}{f(x)}$
-12.4.1.7 Apply the product, quotient and chain rules to find derivatives of functions of the form $f(x)g(x),$$\frac{f(x)}{g(x)}$ and $f\left( g(x) \right)$ where $f(x)$ and $g(x)$ are any of the functions covered in the scope of the Mathematics Advanced 11–12 Syllabus (2024) or inverse trigonometric functions and solve related problems
+12.4.1.5 Examine the proofs of the derivatives of sin⁻¹x, cos⁻¹x and tan⁻¹x
+12.4.1.6 Use the chain rule to show that $\frac{d}{dx}\left\lbrack \sin^{- 1}{f(x)} \right\rbrack = \frac{f^{'}(x)}{\sqrt{1 - \left\lbrack f(x) \right\rbrack^{2}}}$, $\frac{d}{dx}\left\lbrack \cos^{- 1}{f(x)} \right\rbrack = - \frac{f^{'}(x)}{\sqrt{1 - \left\lbrack f(x) \right\rbrack^{2}}} = - \frac{d}{dx}\left\lbrack \sin^{- 1}{f(x)} \right\rbrack$ and $\frac{d}{dx}\left\lbrack \tan^{- 1}{f(x)} \right\rbrack = \frac{f^{'}(x)}{1 + \left\lbrack f(x) \right\rbrack^{2}}$ and apply the results to solve problems involving derivatives of sin⁻¹f(x), cos⁻¹f(x) and tan⁻¹f(x)
+12.4.1.7 Apply the product, quotient and chain rules to find derivatives of functions of the form f(x)g(x), $\frac{f(x)}{g(x)}$ and f(g(x)) where f(x) and g(x) are any of the functions covered in the scope of the Mathematics Advanced 11–12 Syllabus (2024) or inverse trigonometric functions and solve related problems
 ### 12.4.2 Techniques of integration
 12.4.2.1 Find indefinite and definite integrals involving expressions of the form $\frac{1}{\sqrt{a^{2} - x^{2}}}$ or $\frac{a}{a^{2} + x^{2}}$
 12.4.2.2 Use integration by substitution to evaluate definite and indefinite integrals given the substitution, where the substitution is expressed as a function of the variable of integration or where the variable of integration is the subject of the substitution
-12.4.2.3 Prove and use the identities $\sin^{2}nx = \frac{1}{2}\left( 1 - \cos{2nx} \right)$ and $\cos^{2}nx = \frac{1}{2}(1 + \cos{2nx})$ to find integrals involving $\int\sin^{2}nx\ dx$ and $\int\cos^{2}nx\ dx$
+12.4.2.3 Prove and use the identities $\sin^{2}nx = \frac{1}{2}\left(1 - \cos{2nx} \right)$ and $\cos^{2}nx = \frac{1}{2}(1 + \cos{2nx})$ to find integrals involving ∫sin²nx dx and ∫cos²nx dx
 ## 12.5 Further applications of calculus
 ### 12.5.1 Multiplicity of zeroes of polynomial functions
-12.5.1.1 Use the product rule to prove that if $P(x)$ has a zero, $\alpha$, of multiplicity $m > 1$, then $\alpha$ is a zero of $P'(x)$ of multiplicity $m - 1$, and use the result to determine the multiplicity of a discovered zero of $P(x)$ and solve related polynomial problems
-12.5.1.2 Prove that if $\alpha$ is a zero of multiplicity $m$, meeting the $x$-axis at $A(\alpha,0)$, then if $m = 1$, the curve crosses the $x$-axis at $A$ at an acute or obtuse angle; if $m > 1$ is even, the curve is tangent to the $x$-axis at $A$ and does not cross it; if $m > 1$ is odd, the curve has a horizontal inflection at $A$
-12.5.1.3 Graph a polynomial function in factored form, identifying its turning points and points of inflection if possible, and explore its behaviour as $x \rightarrow \infty$ and $x \rightarrow - \infty$, verifying the shape of the graph using graphing applications
+12.5.1.1 Use the product rule to prove that if P(x) has a zero, α, of multiplicity m > 1, then α is a zero of P′(x) of multiplicity m − 1, and use the result to determine the multiplicity of a discovered zero of P(x) and solve related polynomial problems
+12.5.1.2 Prove that if α is a zero of multiplicity m, meeting the x -axis at A(α,0), then if m = 1, the curve crosses the x -axis at A at an acute or obtuse angle; if m > 1 is even, the curve is tangent to the x -axis at A and does not cross it; if m > 1 is odd, the curve has a horizontal inflection at A
+12.5.1.3 Graph a polynomial function in factored form, identifying its turning points and points of inflection if possible, and explore its behaviour as x → ∞ and x → − ∞, verifying the shape of the graph using graphing applications
 ### 12.5.2 Further rates of change
 12.5.2.1 Develop models in contexts where a rate of change of a function can be expressed as a rate of change of a composition of two functions, so that the chain rule can be applied
 12.5.2.2 Solve problems involving related rates of change using the chain rule, given the required formulas for problems relating to area, surface area or volume
-12.5.2.3 Describe and examine the graphs of practical situations where the rate of change of a quantity is proportional to the amount $Q - P$ by which the quantity $Q$ exceeds some fixed value $P$
-12.5.2.4 Explain that if the rate of change of a quantity $Q$ over time $t$ is proportional to the difference $Q - P$ at any instant, then this may be represented by the equation $\frac{dQ}{dt} = k(Q - P)$, where $k$ is a constant
-12.5.2.5 Verify by substitution that the function $Q = P + Ae^{kt}$, where $A$ is a constant, satisfies the relationship $\frac{dQ}{dt} = k(Q - P)$, and that $Q = P$ in the case where $A = 0$
-12.5.2.6 Graph the function $Q = P + Ae^{kt}$, where $k > 0$ and $k < 0$ and $A > 0$ and $A < 0$, with and without graphing applications, and identify any asymptotes
-12.5.2.7 Use $\frac{dQ}{dt} = k(Q - P)$, $Q = P + Ae^{kt}$ and the graph of $Q = P + Ae^{kt}$ for $t \geq 0$, where $k > 0$ or $k < 0$ and $A > 0$ or $A < 0$, to model and solve problems where a limiting value of $Q$ exists, including Newton's Law of Cooling and ecosystems with a natural carrying capacity, and justify conclusions in the context of the problem
+12.5.2.3 Describe and examine the graphs of practical situations where the rate of change of a quantity is proportional to the amount Q − P by which the quantity Q exceeds some fixed value P
+12.5.2.4 Explain that if the rate of change of a quantity Q over time t is proportional to the difference Q − P at any instant, then this may be represented by the equation $\frac{dQ}{dt} = k(Q - P)$, where k is a constant
+12.5.2.5 Verify by substitution that the function Q = P + Ae^(kt), where A is a constant, satisfies the relationship $\frac{dQ}{dt} = k(Q - P)$, and that Q = P in the case where A = 0
+12.5.2.6 Graph the function Q = P + Ae^(kt), where k > 0 and k < 0 and A > 0 and A < 0, with and without graphing applications, and identify any asymptotes
+12.5.2.7 Use $\frac{dQ}{dt} = k(Q - P)$, Q = P + Ae^(kt) and the graph of Q = P + Ae^(kt) for t ≥ 0, where k > 0 or k < 0 and A > 0 or A < 0, to model and solve problems where a limiting value of Q exists, including Newton’s Law of Cooling and ecosystems with a natural carrying capacity, and justify conclusions in the context of the problem
 ### 12.5.3 Areas between curves and volumes of solids of revolution
 12.5.3.1 Calculate areas of regions between curves determined by functions in both real-life and abstract contexts
-12.5.3.2 Examine a solid of revolution whose boundary is formed by rotating an arc of a function about the $x$-axis or $y$-axis with and without graphing applications
-12.5.3.3 Calculate the volume of a solid of revolution formed by rotating a region in the plane about the $x$-axis or $y$-axis in both real-life and abstract contexts
-12.5.3.4 Calculate the volume of a solid of revolution formed by rotating the region between two curves about either the $x$-axis or $y$-axis in both real-life and abstract contexts
+12.5.3.2 Examine a solid of revolution whose boundary is formed by rotating an arc of a function about the x -axis or y -axis with and without graphing applications
+12.5.3.3 Calculate the volume of a solid of revolution formed by rotating a region in the plane about the x -axis or y -axis in both real-life and abstract contexts
+12.5.3.4 Calculate the volume of a solid of revolution formed by rotating the region between two curves about either the x -axis or y -axis in both real-life and abstract contexts
 ### 12.5.4 Differential equations
 12.5.4.1 Define a differential equation as an equation involving an unknown function and one or more of its derivatives
 12.5.4.2 Define and identify the order of a differential equation as the order of the highest derivative contained within the equation
@@ -235,42 +235,42 @@
 12.5.4.8 Form a slope field for a first order differential equation using graphing applications
 12.5.4.9 Recognise the features of a slope field corresponding to a first order differential equation and vice versa
 12.5.4.10 Solve first order differential equations of the form $\frac{dy}{dx} = f(x)$
-12.5.4.11 Solve first order differential equations of the form $\frac{dy}{dx} = g(y)$, where possible expressing the solution as a function with $y$ as the subject
+12.5.4.11 Solve first order differential equations of the form $\frac{dy}{dx} = g(y)$, where possible expressing the solution as a function with y as the subject
 12.5.4.12 Recognise and solve the first order differential equations for exponential growth and decay: $\frac{dQ}{dt} = kQ$ and $\frac{dQ}{dt} = k(Q - P)$
-12.5.4.13 Solve first order differential equations of the form $\frac{dy}{dx} = f(x)g(y)$ using separation of variables, where possible expressing the solution as a function with $y$ as the subject
+12.5.4.13 Solve first order differential equations of the form $\frac{dy}{dx} = f(x)g(y)$ using separation of variables, where possible expressing the solution as a function with y as the subject
 12.5.4.14 Graph solutions of first order differential equations using graphing applications and examine the behaviour of solutions for different values of the constant of integration and initial conditions
-12.5.4.15 Solve differential equations of the form $\frac{dP}{dt} = kP\left( 1 - \frac{P}{C} \right)$ for some constants $k$ and $C$, given the appropriate decomposition into partial fractions, to obtain the logistic function
+12.5.4.15 Solve differential equations of the form $\frac{dP}{dt} = kP\left(1 - \frac{P}{C} \right)$ for some constants k and C, given the appropriate decomposition into partial fractions, to obtain the logistic function
 12.5.4.16 Model and solve differential equations in practical scenarios including in chemistry, biology and economics
 ## 12.6 The binomial distribution and sampling distribution of the mean
 ### 12.6.1 Bernoulli distributions
 12.6.1.1 Define a Bernoulli random variable as a model for two-outcome situations, referred to as success and failure
-12.6.1.2 Model a Bernoulli trial using a random variable, $X$, where the probability of success, $X = 1$, is $p$ and the probability of failure, $X = 0$, is $q = 1 - p$
+12.6.1.2 Model a Bernoulli trial using a random variable, X, where the probability of success, X = 1, is p and the probability of failure, X = 0, is q = 1 − p
 12.6.1.3 Define a Bernoulli distribution as the discrete probability distribution of a Bernoulli random variable
-12.6.1.4 Establish and use the formulae $\text{E}(X) = \mu = p$ to find the mean, and $Var(X) = p(1 - p)$ to find the variance of the Bernoulli distribution with parameter $p$
+12.6.1.4 Establish and use the formulae E(X) = μ = p to find the mean, and Var(X) = p(1−p) to find the variance of the Bernoulli distribution with parameter p
 12.6.1.5 Identify contexts suitable to be modelled by Bernoulli random variables
 12.6.1.6 Solve practical problems involving Bernoulli random variables
 ### 12.6.2 Binomial distributions
-12.6.2.1 Define a binomial random variable, $X$, as the number of 'successes' in $n$ independent and identically distributed Bernoulli trials, with the same probability of success $p$ in each trial, where $n$ is a fixed finite number
+12.6.2.1 Define a binomial random variable, X, as the number of ‘successes’ in n independent and identically distributed Bernoulli trials, with the same probability of success p in each trial, where n is a fixed finite number
 12.6.2.2 Identify contexts suitable to be modelled using binomial distributions
 12.6.2.3 Define a binomial experiment as a fixed number of Bernoulli trials
-12.6.2.4 Use the notation $X\sim Bin(n,p)$ to represent a binomial random variable, $X$, where $n$ is the number of trials and probability of success is $p$
-12.6.2.5 Recognise the significance of$\ ^{n}C_{r}$ as the number of ways in which an outcome with $r$ successes can occur in $n$ trials
-12.6.2.6 Use the formula $P(X = r) = \ ^{n}C_{r}p^{r}{(1 - p)}^{n - r}$ to find the probability of $r$ successes in a binomial experiment involving $n$ trials
-12.6.2.7 Calculate the expected frequencies of the various possible outcomes from a binomial experiment, where the expected frequency of an outcome happening $r$ times in $n$ trials is $n \times P(X = r)$
-12.6.2.8 Use the formulae $\text{E}(X) = \mu = np$ to find the mean, and $Var(X) = np(1 - p)$ to find the variance when $X\sim Bin(n,p)$
+12.6.2.4 Use the notation X ∼ Bin(n,p) to represent a binomial random variable, X, where n is the number of trials and probability of success is p
+12.6.2.5 Recognise the significance of ^(n)C_(r) as the number of ways in which an outcome with r successes can occur in n trials
+12.6.2.6 Use the formula P(X=r) = ^(n)C_(r)p^(r)(1−p)^(n − r) to find the probability of r successes in a binomial experiment involving n trials
+12.6.2.7 Calculate the expected frequencies of the various possible outcomes from a binomial experiment, where the expected frequency of an outcome happening r times in n trials is n × P(X=r)
+12.6.2.8 Use the formulae E(X) = μ = np to find the mean, and Var(X) = np(1−p) to find the variance when X ∼ Bin(n,p)
 12.6.2.9 Solve practical problems involving binomial distributions and binomial probabilities with and without online computational applications, excluding the normal approximation to the binomial distribution
 ### 12.6.3 Sampling distribution of the mean and the central limit theorem
 12.6.3.1 Define a statistical population as the entire group of people or objects about which information is sought
 12.6.3.2 Define a sample as a selection of people or objects drawn from a population
-12.6.3.3 Recognise that a statistic taken from a sample will be a good approximation if the sample is random and the sample size is large enough, typically $n \geq 30$
+12.6.3.3 Recognise that a statistic taken from a sample will be a good approximation if the sample is random and the sample size is large enough, typically n ≥ 30
 12.6.3.4 Recognise that, in general, the distribution of a population and a statistic, such as its mean, are unknown
-12.6.3.5 Recognise that it is likely that the distribution of a random sample will resemble the distribution of the population when the sample size, $n$, is large enough, typically $n \geq 30$
-12.6.3.6 Define the sample mean for a sample $X_{1},X_{2},\ldots,X_{n} taken from a population as $\overline{X} = \frac{1}{n}\sum_{i = 1}^{n}X_{i}$
+12.6.3.5 Recognise that it is likely that the distribution of a random sample will resemble the distribution of the population when the sample size, n, is large enough, typically n ≥ 30
+12.6.3.6 Define the sample mean for a sample X₁, X₂, …, X_(n) taken from a population as $\overline{X} = \frac{1}{n}\sum_{i = 1}^{n}X_{i}$
 12.6.3.7 Recognise that the sample means obtained from repeated sampling may be different, even if all the samples are of the same size
-12.6.3.8 Define, for a given sample size $n$, the sampling distribution of the mean to be the distribution of the sample means of all samples of size $n$
-12.6.3.9 Recognise that sample mean, $\overline{X}$, is a random variable that estimates the population mean, $\mu$, when the size of the sample is large enough and consider its usefulness in making predictions in a variety of contexts including politics, finance, agriculture and biology
-12.6.3.10 State the central limit theorem as: for a population with mean $\mu$ and variance $\sigma^{2}$, provided the sample size $n$ is large enough ($n \geq 30$), the sampling distribution is approximately normal with mean $\mu and variance $\frac{\sigma^{2}}{n}$; that is, $\overline{X}$ is approximately$\ N\left( \mu,\frac{\sigma^{2}}{n} \right)$
+12.6.3.8 Define, for a given sample size n, the sampling distribution of the mean to be the distribution of the sample means of all samples of size n
+12.6.3.9 Recognise that sample mean, $\overline{X}$, is a random variable that estimates the population mean, μ, when the size of the sample is large enough and consider its usefulness in making predictions in a variety of contexts including politics, finance, agriculture and biology
+12.6.3.10 State the central limit theorem as: for a population with mean μ and variance σ², provided the sample size n is large enough (n ≥ 30), the sampling distribution is approximately normal with mean μ and variance $\frac{\sigma^{2}}{n}$; that is, $\overline{X}$ is approximately $\ N\left(\mu,\frac{\sigma^{2}}{n} \right)$
 12.6.3.11 Recognise the significance of the central limit theorem for populations that are not necessarily normally distributed; that, irrespective of the population distribution, for a sufficiently large sample size, the sampling distribution of the mean is approximately normal
-12.6.3.12 Use the formulas $E\left( \overline{X} \right) = \mu$ and $\text{Var}\left( \overline{X} \right) = \frac{\sigma^{2}}{n}$ as the mean and the variance of the sampling distribution of the mean for samples of size $n$ drawn from a population with mean $\mu$ and variance $\sigma^{2}$
+12.6.3.12 Use the formulas $E\left(\overline{X} \right) = \mu$ and $\text{Var}\left(\overline{X} \right) = \frac{\sigma^{2}}{n}$ as the mean and the variance of the sampling distribution of the mean for samples of size n drawn from a population with mean μ and variance σ²
 12.6.3.13 Examine the effect of the sample size on the variance of sample means with digital tools
 12.6.3.14 Apply the central limit theorem to estimate the probability that the sample mean lies within given bounds

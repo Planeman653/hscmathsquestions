@@ -14,19 +14,19 @@
        "dotpoints": [
         {
          "id": "11.1.1.1",
-         "text": "Examine the relationship between the graph of $y = f(x)$ and the graph of $y = \\frac{1}{f(x)}$ using graphing applications, and graph $y = \\frac{1}{f(x)}$ given $y = f(x)$ in algebraic or graphical form, identifying any vertical and horizontal asymptotes of $y = f(x)$ and $y = \\frac{1}{f(x)}$"
+         "text": "Examine the relationship between the graph of y = f(x) and the graph of $y = \\frac{1}{f(x)}$ using graphing applications, and graph $y = \\frac{1}{f(x)}$ given y = f(x) in algebraic or graphical form, identifying any vertical and horizontal asymptotes of y = f(x) and $y = \\frac{1}{f(x)}$"
         },
         {
          "id": "11.1.1.2",
-         "text": "Graph $y = \\sec x$, $y = {cosec}x$ and $y = \\cot x$ in both radians and degrees, identifying key properties including asymptotes, period, domain, range and symmetry, and compare each graph with the graph of its reciprocal"
+         "text": "Graph y = sec x, y = cosecx and y = cot x in both radians and degrees, identifying key properties including asymptotes, period, domain, range and symmetry, and compare each graph with the graph of its reciprocal"
         },
         {
          "id": "11.1.1.3",
-         "text": "Examine the relationship between the graph of $y = f(x)$ and the graphs of $y = |f(x)|$ and $y = f(|x|)$ using graphing applications, and graph $y = |f(x)|$ and $y = f(|x|)$ given $y = f(x)$ in algebraic or graphical form"
+         "text": "Examine the relationship between the graph of y = f(x) and the graphs of y = |f(x)| and y = f(|x|) using graphing applications, and graph y = |f(x)| and y = f(|x|) given y = f(x) in algebraic or graphical form"
         },
         {
          "id": "11.1.1.4",
-         "text": "Examine the relationship between the graphs of $y = f(x)$ and $y = g(x)$ and the graphs of $y = f(x) + g(x)$ and $y = f(x) - g(x)$ using graphing applications, and graph $y = f(x) + g(x)$ and $y = f(x) - g(x)$ given $y = f(x)$ and $y = g(x)$ in algebraic or graphical form"
+         "text": "Examine the relationship between the graphs of y = f(x) and y = g(x) and the graphs of y = f(x) + g(x) and y = f(x) − g(x) using graphing applications, and graph y = f(x) + g(x) and y = f(x) − g(x) given y = f(x) and y = g(x) in algebraic or graphical form"
         },
         {
          "id": "11.1.1.5",
@@ -48,11 +48,11 @@
         },
         {
          "id": "11.1.2.2",
-         "text": "Establish that the reflection of a point in the line $y = x$ reverses the coordinates of the point"
+         "text": "Establish that the reflection of a point in the line y = x reverses the coordinates of the point"
         },
         {
          "id": "11.1.2.3",
-         "text": "Define an inverse function $f^{- 1}$ informally as a function that reverses or undoes the effect of the function $f$"
+         "text": "Define an inverse function f⁻¹ informally as a function that reverses or undoes the effect of the function f"
         },
         {
          "id": "11.1.2.4",
@@ -60,15 +60,15 @@
         },
         {
          "id": "11.1.2.5",
-         "text": "Determine the equation for the inverse function $f^{- 1}(x)$ of a given one-to-one function $y = f(x)$ by interchanging the variables $x$ and $y$ in $y = f(x)$"
+         "text": "Determine the equation for the inverse function f⁻¹(x) of a given one-to-one function y = f(x) by interchanging the variables x and y in y = f(x)"
         },
         {
          "id": "11.1.2.6",
-         "text": "Compare the graphs of a function and its inverse function using graphing applications, and recognise that the two graphs are reflections of each other in the line $y = x$"
+         "text": "Compare the graphs of a function and its inverse function using graphing applications, and recognise that the two graphs are reflections of each other in the line y = x"
         },
         {
          "id": "11.1.2.7",
-         "text": "Establish that the domain of $f^{- 1}(x)$ is the range of $f(x)$, and the range of $f^{- 1}(x)$ is the domain of $f(x)$, and use this relationship to solve problems"
+         "text": "Establish that the domain of f⁻¹(x) is the range of f(x), and the range of f⁻¹(x) is the domain of f(x), and use this relationship to solve problems"
         },
         {
          "id": "11.1.2.8",
@@ -76,7 +76,7 @@
         },
         {
          "id": "11.1.2.9",
-         "text": "Explain that the reflection in the line $y = x$ exchanges horizontal and vertical lines and recognise that the horizontal line test can therefore be applied to the graph of $y = f(x)$ to determine whether its reflection in the line $y = x$ is a function"
+         "text": "Explain that the reflection in the line y = x exchanges horizontal and vertical lines and recognise that the horizontal line test can therefore be applied to the graph of y = f(x) to determine whether its reflection in the line y = x is a function"
         },
         {
          "id": "11.1.2.10",
@@ -84,7 +84,7 @@
         },
         {
          "id": "11.1.2.11",
-         "text": "Define formally $f^{- 1}(x)$ to be the inverse function of $f(x)$ if the relationships $f\\left( f^{- 1}(x) \\right) = x$ and $f^{- 1}\\left( f(x) \\right) = x$ hold, and use this definition to solve problems"
+         "text": "Define formally f⁻¹(x) to be the inverse function of f(x) if the relationships f(f⁻¹(x)) = x and f⁻¹(f(x)) = x hold, and use this definition to solve problems"
         },
         {
          "id": "11.1.2.12",
@@ -98,7 +98,7 @@
        "dotpoints": [
         {
          "id": "11.1.3.1",
-         "text": "Recognise that a curve may be represented by two parametric equations that give $x$ and $y$ as functions of a parameter and that the curve may also have a Cartesian equation in $x$ and $y$"
+         "text": "Recognise that a curve may be represented by two parametric equations that give x and y as functions of a parameter and that the curve may also have a Cartesian equation in x and y"
         },
         {
          "id": "11.1.3.2",
@@ -128,7 +128,7 @@
         },
         {
          "id": "11.1.4.3",
-         "text": "Solve absolute value inequalities of the form $|ax + b| \\geq k$, $|ax + b| \\leq k$, $|ax + b| < k$, $|ax + b| > k$, where $a$, $b$ and $k$ are constants, using algebraic and graphical methods or the characterisation of $|x|$ as the distance of $x$ from the origin"
+         "text": "Solve absolute value inequalities of the form |ax+b| ≥ k, |ax+b| ≤ k, |ax+b| < k, |ax+b| > k, where a, b and k are constants, using algebraic and graphical methods or the characterisation of |x| as the distance of x from the origin"
         }
        ],
        "id": "11.1.4"
@@ -144,15 +144,15 @@
        "dotpoints": [
         {
          "id": "11.2.1.1",
-         "text": "Define a polynomial function $P(x)$ of degree $n$, where $n$ is a non-negative integer, to be a function that can be expressed in the form ${P(x) = a}_{n}x^{n} + a_{n - 1}x^{n - 1} + \\ldots + a_{2}x^{2} + a_{1}x + a_{0}$, for real $a_{n},\\ldots,a_{0}$ and $a_{n} \\neq 0$"
+         "text": "Define a polynomial function P(x) of degree n, where n is a non-negative integer, to be a function that can be expressed in the form P(x) = a_(n)x^(n) + a_(n − 1)x^(n − 1) + … + a₂x² + a₁x + a₀, for real a_(n), …, a₀ and a_(n) ≠ 0"
         },
         {
          "id": "11.2.1.2",
-         "text": "Define the leading term of $P(x)$ to be the term of highest degree and define the leading coefficient of $P(x)$ to be the coefficient of the leading term"
+         "text": "Define the leading term of P(x) to be the term of highest degree and define the leading coefficient of P(x) to be the coefficient of the leading term"
         },
         {
          "id": "11.2.1.3",
-         "text": "Define the constant term of $P(x)$ to be $a_{0}$"
+         "text": "Define the constant term of P(x) to be a₀"
         },
         {
          "id": "11.2.1.4",
@@ -160,27 +160,27 @@
         },
         {
          "id": "11.2.1.5",
-         "text": "Define the zero polynomial to be $P(x) = 0$ to be the polynomial with all the coefficients equal to zero and recognise that the zero polynomial has no leading term, no leading coefficient, no degree and constant term 0"
+         "text": "Define the zero polynomial to be P(x) = 0 to be the polynomial with all the coefficients equal to zero and recognise that the zero polynomial has no leading term, no leading coefficient, no degree and constant term 0"
         },
         {
          "id": "11.2.1.6",
-         "text": "Determine the degree of $P(x) + Q(x)$ when two non-zero polynomials $P(x)$ and $Q(x)$, of degrees $n$ and $m$ respectively, are added"
+         "text": "Determine the degree of P(x) + Q(x) when two non-zero polynomials P(x) and Q(x), of degrees n and m respectively, are added"
         },
         {
          "id": "11.2.1.7",
-         "text": "Explain how the leading coefficient and the degree determine whether $y \\rightarrow \\infty$ or $y \\rightarrow - \\infty$ as $x \\rightarrow \\infty$ and as $x \\rightarrow - \\infty$"
+         "text": "Explain how the leading coefficient and the degree determine whether y → ∞ or y → − ∞ as x → ∞ and as x → − ∞"
         },
         {
          "id": "11.2.1.8",
-         "text": "Define the zeroes of $P(x)$ to be the numbers $\\alpha$ such that $P(\\alpha) = 0$, and define the roots of the polynomial equation $P(x) = 0$ to be its solutions, and recognise that every real number is a zero of the zero polynomial"
+         "text": "Define the zeroes of P(x) to be the numbers α such that P(α) = 0, and define the roots of the polynomial equation P(x) = 0 to be its solutions, and recognise that every real number is a zero of the zero polynomial"
         },
         {
          "id": "11.2.1.9",
-         "text": "Define $\\alpha$ as a repeated zero or multiple zero of a non-zero polynomial $P(x) = (x - \\alpha)Q(x)$ when $(x - \\alpha)$ is a factor of $Q(x)$, and $\\alpha$ as a single zero of $P(x)$ when $(x - \\alpha)$ is not a factor of $Q(x)$, for $Q(x) \\neq 0$"
+         "text": "Define α as a repeated zero or multiple zero of a non-zero polynomial P(x) = (x−α)Q(x) when (x−α) is a factor of Q(x), and α as a single zero of P(x) when (x−α) is not a factor of Q(x), for Q(x) ≠ 0"
         },
         {
          "id": "11.2.1.10",
-         "text": "Define $\\alpha$ as a zero of $P(x)$ of multiplicity $m$ if $P(x) = (x - \\alpha)^{m}Q(x)$, where $m$ is a positive integer and $Q(\\alpha) \\neq 0$"
+         "text": "Define α as a zero of P(x) of multiplicity m if P(x) = (x−α)^(m)Q(x), where m is a positive integer and Q(α) ≠ 0"
         },
         {
          "id": "11.2.1.11",
@@ -202,7 +202,7 @@
         },
         {
          "id": "11.2.2.2",
-         "text": "Express in the form $P(x) = A(x)Q(x) + R(x)$ the result of dividing $P(x)$ by a divisor $A(x)$, that is not the zero polynomial, with quotient $Q(x)$ and remainder $R(x)$, and explain why either $R(x) = 0$ or $\\deg{R(x)} < \\deg{A(x)}"
+         "text": "Express in the form P(x) = A(x)Q(x) + R(x) the result of dividing P(x) by a divisor A(x), that is not the zero polynomial, with quotient Q(x) and remainder R(x), and explain why either R(x) = 0 or deg R(x) < deg A(x)"
         },
         {
          "id": "11.2.2.3",
@@ -210,19 +210,19 @@
         },
         {
          "id": "11.2.2.4",
-         "text": "Explain why division by $x - \\alpha$ yields $P(x) = (x - \\alpha)Q(x) + r$, where $r$ is a constant, and why $x - \\alpha$ is a factor if and only if $r = 0$"
+         "text": "Explain why division by x − α yields P(x) = (x−α)Q(x) + r, where r is a constant, and why x − α is a factor if and only if r = 0"
         },
         {
          "id": "11.2.2.5",
-         "text": "Prove and apply the remainder theorem for polynomials: when $P(x)$ is divided by $x - \\alpha$, the remainder is $P(\\alpha)$, and solve related polynomial problems"
+         "text": "Prove and apply the remainder theorem for polynomials: when P(x) is divided by x − α, the remainder is P(α), and solve related polynomial problems"
         },
         {
          "id": "11.2.2.6",
-         "text": "Prove and apply the factor theorem for polynomials: $P(\\alpha) = 0$ if and only if $x - \\alpha$ is a factor of $P(x)$, and solve related polynomial problems"
+         "text": "Prove and apply the factor theorem for polynomials: P(α) = 0 if and only if x − α is a factor of P(x), and solve related polynomial problems"
         },
         {
          "id": "11.2.2.7",
-         "text": "Use the factor theorem to find all factors of $P(x)$ of the form $x - \\alpha$, where $\\alpha$ is an integer, and use division to find the remaining factor of the polynomial"
+         "text": "Use the factor theorem to find all factors of P(x) of the form x − α, where α is an integer, and use division to find the remaining factor of the polynomial"
         }
        ],
        "id": "11.2.2"
@@ -232,15 +232,15 @@
        "dotpoints": [
         {
          "id": "11.2.3.1",
-         "text": "Prove that if a quadratic $P(x) = ax^{2} + bx + c$ has zeroes $\\alpha$ and $\\beta$ then $\\alpha + \\beta = - \\frac{b}{a}$, the sum of the zeroes, and $\\alpha\\beta = \\frac{c}{a}$, the product of the zeroes"
+         "text": "Prove that if a quadratic P(x) = ax² + bx + c has zeroes α and β then $\\alpha + \\beta = - \\frac{b}{a}$, the sum of the zeroes, and $\\alpha\\beta = \\frac{c}{a}$, the product of the zeroes"
         },
         {
          "id": "11.2.3.2",
-         "text": "Prove that if a cubic $P(x) = ax^{3} + bx^{2} + cx + d$ has three zeroes $\\alpha$, $\\beta$, $\\gamma$, then $\\alpha + \\beta + \\gamma = - \\frac{b}{a}$, $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = \\frac{c}{a}$ and $\\alpha\\beta\\gamma = - \\frac{d}{a}$"
+         "text": "Prove that if a cubic P(x) = ax³ + bx² + cx + d has three zeroes α, β, γ, then $\\alpha + \\beta + \\gamma = - \\frac{b}{a}$, $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = \\frac{c}{a}$ and $\\alpha\\beta\\gamma = - \\frac{d}{a}$"
         },
         {
          "id": "11.2.3.3",
-         "text": "Prove that if a quartic $P(x) = ax^{4} + bx^{3} + cx^{2} + dx + e$ has four zeroes $\\alpha$, $\\beta$, $\\gamma$, $\\delta$ then $\\alpha + \\beta + \\gamma + \\delta = - \\frac{b}{a}$, $\\alpha\\beta + \\alpha\\gamma + \\alpha\\delta + \\beta\\gamma + \\beta\\delta + \\gamma\\alpha = \\frac{c}{a}$, $\\alpha\\beta\\gamma + \\beta\\gamma\\delta + \\gamma\\delta\\alpha + \\delta\\alpha\\beta = - \\frac{d}{a}$ and $\\alpha\\beta\\gamma\\delta = \\frac{e}{a}$"
+         "text": "Prove that if a quartic P(x) = ax⁴ + bx³ + cx² + dx + e has four zeroes α, β, γ, δ then $\\alpha + \\beta + \\gamma + \\delta = - \\frac{b}{a}$, $\\alpha\\beta + \\alpha\\gamma + \\alpha\\delta + \\beta\\gamma + \\beta\\delta + \\gamma\\alpha = \\frac{c}{a}$, $\\alpha\\beta\\gamma + \\beta\\gamma\\delta + \\gamma\\delta\\alpha + \\delta\\alpha\\beta = - \\frac{d}{a}$ and $\\alpha\\beta\\gamma\\delta = \\frac{e}{a}$"
         },
         {
          "id": "11.2.3.4",
@@ -278,7 +278,7 @@
        "dotpoints": [
         {
          "id": "11.3.2.1",
-         "text": "Derive the sum and difference expansions for the trigonometric functions $\\sin(A \\pm B) = \\sin A\\cos B \\pm \\cos A\\sin B$, ${\\cos{(A \\pm B) = \\cos}}A\\cos B \\mp \\sin A\\sin B$ and $\\tan{(A \\pm B) = \\frac{\\tan A\\ \\pm {\\ tan}B\\ }{1\\ \\mp \\ \\tan A\\tan B\\ }}$"
+         "text": "Derive the sum and difference expansions for the trigonometric functions sin (A±B) = sin Acos B ± cos Asin B, cos (A±B) = cos Acos B ∓ sin Asin B and $\\tan{(A \\pm B) = \\frac{\\tan A\\ \\pm {\\ tan}B\\ }{1\\ \\mp \\ \\tan A\\tan B\\ }}$"
         },
         {
          "id": "11.3.2.2",
@@ -286,7 +286,7 @@
         },
         {
          "id": "11.3.2.3",
-         "text": "Derive the double angle formulas $\\sin{2A} = 2\\sin A\\cos A$, $\\cos{2A} = \\cos^{2}A - \\sin^{2}A = 2\\cos^{2}A - 1 = 1 - 2{sin}^{2}A$ and $\\tan{2A = \\frac{2\\tan A\\ }{1\\ - \\ {tan}^{2}A}}$"
+         "text": "Derive the double angle formulas sin 2A = 2sin Acos A, cos 2A = cos²A − sin²A = 2cos²A − 1 = 1 − 2sin²A and $\\tan{2A = \\frac{2\\tan A\\ }{1\\ - \\ {tan}^{2}A}}$"
         },
         {
          "id": "11.3.2.4",
@@ -304,11 +304,11 @@
         },
         {
          "id": "11.3.3.2",
-         "text": "Examine the representations of $a{\\ cos\\ }x + b\\sin x$ as $R\\cos{(x \\pm \\alpha)}$ or $R\\sin{(x \\pm \\alpha)} with and without graphing applications, where $a \\neq 0 and $b \\neq 0$"
+         "text": "Examine the representations of a cos x + bsin x as Rcos (x±α) or Rsin (x±α) with and without graphing applications, where a ≠ 0 and b ≠ 0"
         },
         {
          "id": "11.3.3.3",
-         "text": "Apply the representations of $a{\\ cos\\ }x + b\\sin x$ as $R\\cos{(x \\pm \\alpha)}$ or $R\\sin{(x \\pm \\alpha)}$ to graph functions, solve equations of the form $a\\cos x + b\\sin x = c$ over restricted domains, and model and solve related problems"
+         "text": "Apply the representations of a cos x + bsin x as Rcos (x±α) or Rsin (x±α) to graph functions, solve equations of the form acos x + bsin x = c over restricted domains, and model and solve related problems"
         },
         {
          "id": "11.3.3.4",
@@ -332,19 +332,19 @@
        "dotpoints": [
         {
          "id": "11.4.1.1",
-         "text": "Use the notation $n!$ (read as $n$ factorial), where $n! = n(n - 1)(n - 2) \\times \\ldots \\times 3 \\times 2 \\times 1$ for positive integers $n$"
+         "text": "Use the notation n! (read as n factorial), where n! = n(n−1)(n−2) × … × 3 × 2 × 1 for positive integers n"
         },
         {
          "id": "11.4.1.2",
-         "text": "Use $n! = n \\times (n - 1)!$ and the convention $0! = 1$ in calculations and to simplify algebraic expressions involving factorials"
+         "text": "Use n! = n × (n−1)! and the convention 0! = 1 in calculations and to simplify algebraic expressions involving factorials"
         },
         {
          "id": "11.4.1.3",
-         "text": "Establish and use the multiplication principle: if a selection can be made in two stages, where there are $m$ choices for the first stage and $n$ choices for the second stage then there are $m \\times n$ choices for the selection"
+         "text": "Establish and use the multiplication principle: if a selection can be made in two stages, where there are m choices for the first stage and n choices for the second stage then there are m × n choices for the selection"
         },
         {
          "id": "11.4.1.4",
-         "text": "Apply the multiplication principle to explain why the number of ways of ordering $n$ distinct objects in a straight line is $n!$"
+         "text": "Apply the multiplication principle to explain why the number of ways of ordering n distinct objects in a straight line is n!"
         },
         {
          "id": "11.4.1.5",
@@ -352,11 +352,11 @@
         },
         {
          "id": "11.4.1.6",
-         "text": "Use the notation$\\ ^{n}P_{r}$ to represent an ordered selection of $r$ objects from $n$ distinct objects and observe that$\\ ^{n}P_{n} = n!$ and$\\ ^{n}P_{0} = 1$"
+         "text": "Use the notation ^(n)P_(r) to represent an ordered selection of r objects from n distinct objects and observe that ^(n)P_(n) = n! and ^(n)P₀ = 1"
         },
         {
          "id": "11.4.1.7",
-         "text": "Use the multiplication principle to establish that the number of ordered selections of $r$ objects from $n$ distinct objects is $n(n - 1)(n - 2) \\times \\ldots \\times (n - r + 1)$ and show that$\\ ^{n}P_{r} = n(n - 1)(n - 2) \\times \\ldots \\times (n - r + 1) = \\frac{n!}{(n - r)!}$"
+         "text": "Use the multiplication principle to establish that the number of ordered selections of r objects from n distinct objects is n(n−1)(n−2) × … × (n−r+1) and show that $\\ ^{n}P_{r} = n(n - 1)(n - 2) \\times \\ldots \\times (n - r + 1) = \\frac{n!}{(n - r)!}$"
         },
         {
          "id": "11.4.1.8",
@@ -368,7 +368,7 @@
         },
         {
          "id": "11.4.1.10",
-         "text": "Explain why the number of ways to arrange $n$ distinct objects in a circle is $(n - 1)!$"
+         "text": "Explain why the number of ways to arrange n distinct objects in a circle is (n−1)!"
         },
         {
          "id": "11.4.1.11",
@@ -376,23 +376,23 @@
         },
         {
          "id": "11.4.1.12",
-         "text": "Define a combination and use the notation$\\ ^{n}C_{r}$ or $$\\begin{pmatrix} n \\\\ r \\end{pmatrix}$to represent the number of ways of selecting a subset of$r$objects from$n$$ distinct objects, where order is not important"
+         "text": "Define a combination and use the notation ^(n)C_(r) or $\\begin{pmatrix} n \\\\ r \\end{pmatrix}$ to represent the number of ways of selecting a subset of r objects from n distinct objects, where order is not important"
         },
         {
          "id": "11.4.1.13",
-         "text": "Establish and use the formula$\\ ^{n}C_{r} = \\frac{n!}{r!(n - r)!}$"
+         "text": "Establish and use the formula $\\ ^{n}C_{r} = \\frac{n!}{r!(n - r)!}$"
         },
         {
          "id": "11.4.1.14",
-         "text": "Show that$\\ ^{n}C_{n} = \\ ^{n}C_{0} = 1$ and$\\ ^{n}C_{1} = \\ ^{n}C_{n - 1} = n$"
+         "text": "Show that ^(n)C_(n) = ^(n)C₀ = 1 and ^(n)C₁ = ^(n)C_(n − 1) = n"
         },
         {
          "id": "11.4.1.15",
-         "text": "Show that$\\ ^{n}C_{r} = \\ ^{n}C_{n - r}$, for $0 \\leq r \\leq n$ by selecting $r$ objects from $n$ distinct objects for inclusions and $n - r$ objects from $n$ distinct objects for exclusion"
+         "text": "Show that ^(n)C_(r) = ^(n)C_(n − r), for 0 ≤ r ≤ n by selecting r objects from n distinct objects for inclusions and n − r objects from n distinct objects for exclusion"
         },
         {
          "id": "11.4.1.16",
-         "text": "Prove$\\ ^{n}C_{r} = \\ ^{n - 1}C_{r - 1} + \\ ^{n - 1}C_{r}$ for $1 \\leq r \\leq n - 1$ algebraically and using combinatorial arguments"
+         "text": "Prove ^(n)C_(r) = ^(n − 1)C_(r − 1) + ^(n − 1)C_(r) for 1 ≤ r ≤ n − 1 algebraically and using combinatorial arguments"
         },
         {
          "id": "11.4.1.17",
@@ -424,23 +424,23 @@
         },
         {
          "id": "11.5.1.2",
-         "text": "Examine the symmetry formed by the coefficients of decreasing powers of $x$ in the expansion of $(x + y)^{n}$ for $n = 0,1,2,3,4,5$ and arrange the coefficients into Pascal's triangle"
+         "text": "Examine the symmetry formed by the coefficients of decreasing powers of x in the expansion of (x+y)^(n) for n = 0, 1, 2, 3, 4, 5 and arrange the coefficients into Pascal’s triangle"
         },
         {
          "id": "11.5.1.3",
-         "text": "Recognise the equivalence between the coefficient of $x^{n - r}y^{r}$ in the expansion of $(x + y)^{n}$ and$\\ ^{n}C_{r}$, when $n$ is a positive integer"
+         "text": "Recognise the equivalence between the coefficient of x^(n − r)y^(r) in the expansion of (x+y)^(n) and ^(n)C_(r), when n is a positive integer"
         },
         {
          "id": "11.5.1.4",
-         "text": "Use patterns and symmetry in Pascal's triangle to confirm the identities$\\ ^{n}C_{r} = \\ ^{n - 1}C_{r - 1} + \\ ^{n - 1}C_{r}$ for $1 \\leq r \\leq n - 1$ and $\\ ^{n}C_{r} = \\ ^{n}C_{n - r}$ for $0 \\leq r \\leq n$"
+         "text": "Use patterns and symmetry in Pascal’s triangle to confirm the identities ^(n)C_(r) = ^(n − 1)C_(r − 1) + ^(n − 1)C_(r) for 1 ≤ r ≤ n − 1 and ^(n)C_(r) = ^(n)C_(n − r) for 0 ≤ r ≤ n"
         },
         {
          "id": "11.5.1.5",
-         "text": "Derive the binomial theorem: $(x + y)^{n} = \\ ^{n}C_{0}x^{n} + \\ ^{n}C_{1}x^{n - 1}y + \\ ^{n}C_{2}x^{n - 2}y^{2} + \\ldots + \\ ^{n}C_{n - 1}xy^{n - 1} +^{n}C_{n}y^{n}$, when $n$ is a positive integer"
+         "text": "Derive the binomial theorem: (x+y)^(n) = ^(n)C₀x^(n) + ^(n)C₁x^(n − 1)y + ^(n)C₂x^(n − 2)y² + … + ^(n)C_(n − 1)xy^(n − 1)+^(n)C_(n)y^(n), when n is a positive integer"
         },
         {
          "id": "11.5.1.6",
-         "text": "Apply the binomial theorem to expand and simplify expressions of the form $(x + y)^{n}$"
+         "text": "Apply the binomial theorem to expand and simplify expressions of the form (x+y)^(n)"
         },
         {
          "id": "11.5.1.7",
@@ -448,7 +448,7 @@
         },
         {
          "id": "11.5.1.8",
-         "text": "Use the identities$\\ ^{n}C_{0} = 1$,$\\ ^{n}C_{n} = 1$,$\\ ^{n}C_{r} = \\ ^{n - 1}C_{r - 1} + \\ ^{n - 1}C_{r}$ for $1 \\leq r \\leq n - 1$ and$\\ ^{n}C_{r} = \\ ^{n}C_{n - r}$ for $0 \\leq r \\leq n$ to simplify expressions involving the binomial coefficients"
+         "text": "Use the identities ^(n)C₀ = 1, ^(n)C_(n) = 1, ^(n)C_(r) = ^(n − 1)C_(r − 1) + ^(n − 1)C_(r) for 1 ≤ r ≤ n − 1 and ^(n)C_(r) = ^(n)C_(n − r) for 0 ≤ r ≤ n to simplify expressions involving the binomial coefficients"
         },
         {
          "id": "11.5.1.9",
@@ -489,7 +489,7 @@
         },
         {
          "id": "12.1.1.4",
-         "text": "Identify errors in false 'proofs by induction', such as cases where only one of the two required steps of a proof by induction is true"
+         "text": "Identify errors in false ‘proofs by induction’, such as cases where only one of the two required steps of a proof by induction is true"
         }
        ],
        "id": "12.1.1"
@@ -513,11 +513,11 @@
         },
         {
          "id": "12.2.1.3",
-         "text": "Identify and use notation for vectors in both two dimensions and three dimensions, including $\\mathbf{a}$, $\\underset{\\sim}{a}$ and $\\overrightarrow{AB}$, where $\\overrightarrow{AB}$ is the vector with magnitude and direction those of the directed line segment from $A$ to $B$"
+         "text": "Identify and use notation for vectors in both two dimensions and three dimensions, including a, $\\underset{\\sim}{a}$ and $\\overrightarrow{AB}$, where $\\overrightarrow{AB}$ is the vector with magnitude and direction those of the directed line segment from A to B"
         },
         {
          "id": "12.2.1.4",
-         "text": "Use notations $\\left| \\mathbf{a} \\right|$, $\\left| \\underset{\\sim}{a} \\right|$ and $\\left| \\overrightarrow{AB} \\right|$ to represent the magnitude of a vector"
+         "text": "Use notations |a|, $\\left| \\underset{\\sim}{a} \\right|$ and $\\left| \\overrightarrow{AB} \\right|$ to represent the magnitude of a vector"
         },
         {
          "id": "12.2.1.5",
@@ -547,11 +547,11 @@
         },
         {
          "id": "12.2.2.3",
-         "text": "Identify that, in three dimensions, all points on the $xy$-plane have a $z$-coordinate of 0, and deduce similar properties for points on the $xz$ and $yz$-planes and thus the equations of the three coordinate planes"
+         "text": "Identify that, in three dimensions, all points on the xy -plane have a z -coordinate of 0, and deduce similar properties for points on the xz and yz -planes and thus the equations of the three coordinate planes"
         },
         {
          "id": "12.2.2.4",
-         "text": "Define the zero vector $\\mathbf{0}$, written as $\\underset{\\sim}{0}$, as the vector with zero magnitude and no direction"
+         "text": "Define the zero vector 0, written as $\\underset{\\sim}{0}$, as the vector with zero magnitude and no direction"
         },
         {
          "id": "12.2.2.5",
@@ -559,27 +559,27 @@
         },
         {
          "id": "12.2.2.6",
-         "text": "Recognise and use $\\widehat{\\mathbf{a}}$ and $\\widehat{\\underset{\\sim}{a}}$ as the notation for the unit vector in the direction of $\\mathbf{a}$"
+         "text": "Recognise and use $\\widehat{\\mathbf{a}}$ and $\\widehat{\\underset{\\sim}{a}}$ as the notation for the unit vector in the direction of a"
         },
         {
          "id": "12.2.2.7",
-         "text": "Define the standard perpendicular unit vectors $\\mathbf{i}$ and $\\mathbf{j}$ in two dimensions and $\\mathbf{i}$, $\\mathbf{j}$ and $\\mathbf{k}$ in three dimensions"
+         "text": "Define the standard perpendicular unit vectors i and j in two dimensions and i, j and k in three dimensions"
         },
         {
          "id": "12.2.2.8",
-         "text": "Express 2D vectors in component form, $x\\mathbf{i} + y\\mathbf{j}$; as an ordered pair, $(x,y)$; and in column vector notation $$\\begin{pmatrix} x \\\\ y \\end{pmatrix}$$"
+         "text": "Express 2D vectors in component form, xi + yj; as an ordered pair, (x,y); and in column vector notation $\\begin{pmatrix} x \\\\ y \\end{pmatrix}$"
         },
         {
          "id": "12.2.2.9",
-         "text": "Recognise $$\\overrightarrow{AB} = \\begin{pmatrix} u - x \\\\ v - y \\end{pmatrix}$as the vector associated with the directed line segment from the point$A(x,y)$to$B(u,v)$$ in two dimensions"
+         "text": "Recognise $\\overrightarrow{AB} = \\begin{pmatrix} u - x \\\\ v - y \\end{pmatrix}$ as the vector associated with the directed line segment from the point A(x,y) to B(u,v) in two dimensions"
         },
         {
          "id": "12.2.2.10",
-         "text": "Express 3D vectors in component form, $x\\mathbf{i} + y\\mathbf{j} + z\\mathbf{k}$; as an ordered triple, $(x,y,z)$; and in column vector notation $$\\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}$$"
+         "text": "Express 3D vectors in component form, xi + yj + zk; as an ordered triple, (x,y,z); and in column vector notation $\\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix}$"
         },
         {
          "id": "12.2.2.11",
-         "text": "Recognise $$\\overrightarrow{AB} = \\begin{pmatrix} u - x \\\\ v - y \\\\ w - z \\end{pmatrix}$as the vector associated with the directed line segment from$A(x,y,z)$to$B(u,v,w)$$ in three dimensions"
+         "text": "Recognise $\\overrightarrow{AB} = \\begin{pmatrix} u - x \\\\ v - y \\\\ w - z \\end{pmatrix}$ as the vector associated with the directed line segment from A(x,y,z) to B(u,v,w) in three dimensions"
         }
        ],
        "id": "12.2.2"
@@ -601,11 +601,11 @@
         },
         {
          "id": "12.2.3.4",
-         "text": "Establish and identify $\\mathbf{a} = k\\mathbf{b}$, for a non-zero scalar $k$, as a condition for two non-zero vectors $\\mathbf{a}$ and $\\mathbf{b}$ to be parallel to each other and determine with justification if two vectors are parallel to one another"
+         "text": "Establish and identify a = kb, for a non-zero scalar k, as a condition for two non-zero vectors a and b to be parallel to each other and determine with justification if two vectors are parallel to one another"
         },
         {
          "id": "12.2.3.5",
-         "text": "Identify $$\\begin{pmatrix} b \\\\ - a \\end{pmatrix}$and$\\begin{pmatrix} - b \\\\ a \\end{pmatrix}$as vectors perpendicular to$\\begin{pmatrix} a \\\\ b \\end{pmatrix}$$ and with equal magnitude"
+         "text": "Identify $\\begin{pmatrix} b \\\\ - a \\end{pmatrix}$ and $\\begin{pmatrix} - b \\\\ a \\end{pmatrix}$ as vectors perpendicular to $\\begin{pmatrix} a \\\\ b \\end{pmatrix}$ and with equal magnitude"
         },
         {
          "id": "12.2.3.6",
@@ -627,47 +627,47 @@
        "dotpoints": [
         {
          "id": "12.2.4.1",
-         "text": "Define $\\mathbf{a} \\cdot \\mathbf{b} = x_{1}x_{2} + y_{1}y_{2}$ as the scalar (dot) product of vectors $\\mathbf{a} = x_{1}\\mathbf{i} + y_{1}\\mathbf{j}$ and $\\mathbf{b} = x_{2}\\mathbf{i} + y_{2}\\mathbf{j}$ and use the scalar product to solve problems"
+         "text": "Define a ⋅ b = x₁x₂ + y₁y₂ as the scalar (dot) product of vectors a = x₁i + y₁j and b = x₂i + y₂j and use the scalar product to solve problems"
         },
         {
          "id": "12.2.4.2",
-         "text": "Define $\\mathbf{a} \\cdot \\mathbf{b} = x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2}$ as the scalar product of vectors $\\mathbf{a} = x_{1}\\mathbf{i} + y_{1}\\mathbf{j} + z_{1}\\mathbf{k}$ and $\\mathbf{b} = x_{2}\\mathbf{i} + y_{2}\\mathbf{j} + z_{2}\\mathbf{k}$ and use the scalar product to solve problems"
+         "text": "Define a ⋅ b = x₁x₂ + y₁y₂ + z₁z₂ as the scalar product of vectors a = x₁i + y₁j + z₁k and b = x₂i + y₂j + z₂k and use the scalar product to solve problems"
         },
         {
          "id": "12.2.4.3",
-         "text": "Use $\\mathbf{a} \\cdot \\mathbf{b} = \\left| \\mathbf{a} \\right|\\left| \\mathbf{b} \\right|cos\\ \\theta$ as a geometric expression of the scalar product of non-zero vectors $\\mathbf{a}$ and $\\mathbf{b}$ in two dimensions and three dimensions, where $\\theta$ is the angle between the vectors and $0{^\\circ} \\leq \\theta \\leq 180{^\\circ}$."
+         "text": "Use a ⋅ b = |a||b|cos θ as a geometric expression of the scalar product of non-zero vectors a and b in two dimensions and three dimensions, where θ is the angle between the vectors and 0^(∘) ≤ θ ≤ 180^(∘)."
         },
         {
          "id": "12.2.4.4",
-         "text": "Verify the equivalence of $\\mathbf{a} \\cdot \\mathbf{b} = \\left| \\mathbf{a} \\right|\\left| \\mathbf{b} \\right|cos\\ \\theta$ with the algebraic definition of the scalar product, $\\mathbf{a} \\cdot \\mathbf{b} = x_{1}x_{2} + y_{1}y_{2}$ for two dimensions and $\\mathbf{a} \\cdot \\mathbf{b} = x_{1}x_{2} + y_{1}y_{2} + z_{1}z_{2}$ for three dimensions"
+         "text": "Verify the equivalence of a ⋅ b = |a||b|cos θ with the algebraic definition of the scalar product, a ⋅ b = x₁x₂ + y₁y₂ for two dimensions and a ⋅ b = x₁x₂ + y₁y₂ + z₁z₂ for three dimensions"
         },
         {
          "id": "12.2.4.5",
-         "text": "Derive and use the property $\\mathbf{a} \\cdot \\mathbf{a} = \\left| \\mathbf{a} \\right|^{2}$ to establish the scalar product definition of the magnitude of a vector ($\\left| \\mathbf{a} \\right| = \\sqrt{\\mathbf{a} \\cdot \\mathbf{a}}$) in two dimensions and three dimensions"
+         "text": "Derive and use the property a ⋅ a = |a|² to establish the scalar product definition of the magnitude of a vector ($\\left| \\mathbf{a} \\right| = \\sqrt{\\mathbf{a} \\cdot \\mathbf{a}}$) in two dimensions and three dimensions"
         },
         {
          "id": "12.2.4.6",
-         "text": "Calculate the angle between two non-zero vectors $\\mathbf{a}$ and $\\mathbf{b}$, in both two dimensions and three dimensions, using the scalar product by deriving and applying the relationship $\\cos\\theta = \\frac{\\mathbf{a} \\cdot \\mathbf{b}}{\\left| \\mathbf{a} \\right|\\left| \\mathbf{b} \\right|} = \\left( \\widehat{\\mathbf{a}} \\cdot \\widehat{\\mathbf{b}} \\right)$"
+         "text": "Calculate the angle between two non-zero vectors a and b, in both two dimensions and three dimensions, using the scalar product by deriving and applying the relationship $\\cos\\theta = \\frac{\\mathbf{a} \\cdot \\mathbf{b}}{\\left| \\mathbf{a} \\right|\\left| \\mathbf{b} \\right|} = \\left(\\widehat{\\mathbf{a}} \\cdot \\widehat{\\mathbf{b}} \\right)$"
         },
         {
          "id": "12.2.4.7",
-         "text": "Establish $\\mathbf{a} \\cdot \\mathbf{b} = 0$ as a condition for two non-zero vectors $\\mathbf{a}$ and $\\mathbf{b}$ to be perpendicular to each other and use it to determine if two vectors are perpendicular"
+         "text": "Establish a ⋅ b = 0 as a condition for two non-zero vectors a and b to be perpendicular to each other and use it to determine if two vectors are perpendicular"
         },
         {
          "id": "12.2.4.8",
-         "text": "Establish $\\mathbf{a} \\cdot \\mathbf{b} = \\pm \\left| \\mathbf{a} \\right|\\left| \\mathbf{b} \\right|$ as another way to determine if two non-zero vectors $\\mathbf{a}$ and $\\mathbf{b}$ are parallel"
+         "text": "Establish a ⋅ b = ± |a||b| as another way to determine if two non-zero vectors a and b are parallel"
         },
         {
          "id": "12.2.4.9",
-         "text": "Define the projection of a vector $\\mathbf{a}$ onto a vector $\\mathbf{b}$, denoted by ${proj}_{\\mathbf{b}}\\mathbf{a}$, to be the vector component of $\\mathbf{a}$ in the direction of vector $\\mathbf{b\\ }$"
+         "text": "Define the projection of a vector a onto a vector b, denoted by proj_(b)a, to be the vector component of a in the direction of vector b"
         },
         {
          "id": "12.2.4.10",
-         "text": "Examine the proof of the formula ${proj}_{\\mathbf{b}}\\mathbf{a} = \\left( \\frac{\\mathbf{a} \\cdot \\mathbf{b}}{\\left| \\mathbf{b} \\right|^{2}} \\right)\\mathbf{b} = \\left( \\mathbf{a} \\cdot \\widehat{\\mathbf{b}} \\right)\\widehat{\\mathbf{b}}$ and use the formula to solve problems"
+         "text": "Examine the proof of the formula ${proj}_{\\mathbf{b}}\\mathbf{a} = \\left(\\frac{\\mathbf{a} \\cdot \\mathbf{b}}{\\left| \\mathbf{b} \\right|^{2}} \\right)\\mathbf{b} = \\left(\\mathbf{a} \\cdot \\widehat{\\mathbf{b}} \\right)\\widehat{\\mathbf{b}}$ and use the formula to solve problems"
         },
         {
          "id": "12.2.4.11",
-         "text": "Determine that the component of a vector $\\mathbf{a}$ perpendicular to another vector $\\mathbf{b}$ is $\\mathbf{a}\\mathbf{-}{proj}_{\\mathbf{b}}\\mathbf{a}$"
+         "text": "Determine that the component of a vector a perpendicular to another vector b is a−proj_(b)a"
         }
        ],
        "id": "12.2.4"
@@ -681,11 +681,11 @@
         },
         {
          "id": "12.2.5.2",
-         "text": "Describe the changing positions of an object by expressing its vector as a function of time using $\\mathbf{r}(t) = x(t)\\mathbf{i} + y(t)\\mathbf{j}$, or $\\mathbf{r} = x\\mathbf{i} + y\\mathbf{j}$ where $x$ and $y$ are functions of time $t$"
+         "text": "Describe the changing positions of an object by expressing its vector as a function of time using r(t) = x(t)i + y(t)j, or r = xi + yj where x and y are functions of time t"
         },
         {
          "id": "12.2.5.3",
-         "text": "Recognise that $x(t)$ and $y(t)$ form a pair of parametric equations for the path of the object"
+         "text": "Recognise that x(t) and y(t) form a pair of parametric equations for the path of the object"
         },
         {
          "id": "12.2.5.4",
@@ -693,7 +693,7 @@
         },
         {
          "id": "12.2.5.5",
-         "text": "Express the change in an object's position between two points as a displacement vector and recognise the magnitude of the displacement vector as the distance between the two points"
+         "text": "Express the change in an object’s position between two points as a displacement vector and recognise the magnitude of the displacement vector as the distance between the two points"
         },
         {
          "id": "12.2.5.6",
@@ -723,11 +723,11 @@
        "dotpoints": [
         {
          "id": "12.2.6.1",
-         "text": "Recognise that the gravitational force on a mass may be regarded as a constant acting in a downwards direction when the motion of the object is restricted to a small region near the Earth's surface"
+         "text": "Recognise that the gravitational force on a mass may be regarded as a constant acting in a downwards direction when the motion of the object is restricted to a small region near the Earth’s surface"
         },
         {
          "id": "12.2.6.2",
-         "text": "Model and analyse a projectile's path where the projectile is a point and air resistance is negligible, subject to only acceleration due to gravity, assuming that the projectile is moving close to the Earth's surface"
+         "text": "Model and analyse a projectile’s path where the projectile is a point and air resistance is negligible, subject to only acceleration due to gravity, assuming that the projectile is moving close to the Earth’s surface"
         },
         {
          "id": "12.2.6.3",
@@ -767,27 +767,27 @@
        "dotpoints": [
         {
          "id": "12.3.1.1",
-         "text": "Graph $y = \\sin x$, $y = \\cos x$ and $y = \\tan x$, for $- 2\\pi \\leq x \\leq 2\\pi$ using graphing applications and recognise that these three functions fail the horizontal line test"
+         "text": "Graph y = sin x, y = cos x and y = tan x, for − 2π ≤ x ≤ 2π using graphing applications and recognise that these three functions fail the horizontal line test"
         },
         {
          "id": "12.3.1.2",
-         "text": "Examine possible domain restrictions of $y = \\sin x$, $y = \\cos x$ and $y = \\tan x$ to obtain the corresponding inverse functions using graphing applications"
+         "text": "Examine possible domain restrictions of y = sin x, y = cos x and y = tan x to obtain the corresponding inverse functions using graphing applications"
         },
         {
          "id": "12.3.1.3",
-         "text": "Define $\\sin^{- 1}x$ or $\\arcsin x$ to be the inverse function of $y = \\sin x$ restricted to $- \\frac{\\pi}{2} \\leq x \\leq \\frac{\\pi}{2}$, and determine the domain and range of$\\ {y = \\sin}^{- 1}x$"
+         "text": "Define sin⁻¹x or arcsin x to be the inverse function of y = sin x restricted to $- \\frac{\\pi}{2} \\leq x \\leq \\frac{\\pi}{2}$, and determine the domain and range of y = sin ⁻¹x"
         },
         {
          "id": "12.3.1.4",
-         "text": "Define $\\cos^{- 1}x$ or $\\arccos x$ to be the inverse function of $y = \\cos x$ restricted to $0 \\leq x \\leq \\pi$, and determine the domain and range of$\\ {y = \\cos}^{- 1}x$"
+         "text": "Define cos⁻¹x or arccos x to be the inverse function of y = cos x restricted to 0 ≤ x ≤ π, and determine the domain and range of y = cos ⁻¹x"
         },
         {
          "id": "12.3.1.5",
-         "text": "Define $\\tan^{- 1}x$ or $\\arctan x$ to be the inverse function of $y = \\tan x$ restricted to $- \\frac{\\pi}{2} < x < \\frac{\\pi}{2}$, and determine the domain and range of$\\ {y = \\tan}^{- 1}x$"
+         "text": "Define tan⁻¹x or arctan x to be the inverse function of y = tan x restricted to $- \\frac{\\pi}{2} < x < \\frac{\\pi}{2}$, and determine the domain and range of y = tan ⁻¹x"
         },
         {
          "id": "12.3.1.6",
-         "text": "Evaluate and simply expressions, and prove results using the definitions of $\\sin^{- 1}x$, $\\cos^{- 1}x$ and $\\tan^{- 1}x$"
+         "text": "Evaluate and simply expressions, and prove results using the definitions of sin⁻¹x, cos⁻¹x and tan⁻¹x"
         }
        ],
        "id": "12.3.1"
@@ -797,47 +797,47 @@
        "dotpoints": [
         {
          "id": "12.3.2.1",
-         "text": "Graph $y = \\sin x$ for $- \\frac{\\pi}{2} \\leq x \\leq \\frac{\\pi}{2}$, then use a reflection in $y = x$ to graph $y = \\sin^{- 1}x$ with and without graphing applications"
+         "text": "Graph y = sin x for $- \\frac{\\pi}{2} \\leq x \\leq \\frac{\\pi}{2}$, then use a reflection in y = x to graph y = sin⁻¹x with and without graphing applications"
         },
         {
          "id": "12.3.2.2",
-         "text": "Graph $y = \\cos x$ for $0 \\leq x \\leq \\pi$, then use a reflection in $y = x$ to graph $y = \\cos^{- 1}x$ with and without graphing applications"
+         "text": "Graph y = cos x for 0 ≤ x ≤ π, then use a reflection in y = x to graph y = cos⁻¹x with and without graphing applications"
         },
         {
          "id": "12.3.2.3",
-         "text": "Graph $y = \\tan x$ for $- \\frac{\\pi}{2} < x < \\frac{\\pi}{2}$, then use a reflection in $y = x$ to graph $y = \\tan^{- 1}x$ with and without graphing applications"
+         "text": "Graph y = tan x for $- \\frac{\\pi}{2} < x < \\frac{\\pi}{2}$, then use a reflection in y = x to graph y = tan⁻¹x with and without graphing applications"
         },
         {
          "id": "12.3.2.4",
-         "text": "Classify ${y = \\sin}^{- 1}x$, $y = \\cos^{- 1}x$ and $y = \\tan^{- 1}x$ as odd, even, or neither odd nor even"
+         "text": "Classify y = sin ⁻¹x, y = cos⁻¹x and y = tan⁻¹x as odd, even, or neither odd nor even"
         },
         {
          "id": "12.3.2.5",
-         "text": "Examine the properties $\\sin^{- 1}( - x) = - \\sin^{- 1}x$, $\\ \\ \\cos^{- 1}( - x) = \\pi - \\cos^{- 1}x$, $\\tan^{- 1}( - x) = - \\tan^{- 1}x$ and $\\cos^{- 1}x + \\sin^{- 1}x = \\frac{\\pi}{2}$ using graphing applications and prove them algebraically"
+         "text": "Examine the properties sin⁻¹(−x) = − sin⁻¹x, cos⁻¹(−x) = π − cos⁻¹x, tan⁻¹(−x) = − tan⁻¹x and $\\cos^{- 1}x + \\sin^{- 1}x = \\frac{\\pi}{2}$ using graphing applications and prove them algebraically"
         },
         {
          "id": "12.3.2.6",
-         "text": "Use the properties $\\sin^{- 1}( - x) = - \\sin^{- 1}x$, $\\cos^{- 1}( - x) = \\pi - \\cos^{- 1}x$, $\\tan^{- 1}( - x) = - \\tan^{- 1}x and $\\cos^{- 1}x + \\sin^{- 1}x = \\frac{\\pi}{2}$ to solve problems, simplify expressions and prove results"
+         "text": "Use the properties sin⁻¹(−x) = − sin⁻¹x, cos⁻¹(−x) = π − cos⁻¹x, tan⁻¹(−x) = − tan⁻¹x and $\\cos^{- 1}x + \\sin^{- 1}x = \\frac{\\pi}{2}$ to solve problems, simplify expressions and prove results"
         },
         {
          "id": "12.3.2.7",
-         "text": "Graph the composite functions $y = {{sin\\ }{(\\sin^{- 1}}}{x)}$, $y = {{cos\\ }{(\\cos^{- 1}}}{x)}$ and $y = {{tan\\ }{(\\tan^{- 1}}}{x)}$ by considering their domains and ranges"
+         "text": "Graph the composite functions y = sin (sin⁻¹x), y = cos (cos⁻¹x) and y = tan (tan⁻¹x) by considering their domains and ranges"
         },
         {
          "id": "12.3.2.8",
-         "text": "Examine the graphs of the composite functions $y = {{sin\\ }{(\\sin^{- 1}}}{x)}$, $y = {{cos\\ }{(\\cos^{- 1}}}{x)}$ and $y = {{tan\\ }{(\\tan^{- 1}}}{x)}$, establish the values of $x$ for which the formulas ${{sin\\ }{(\\sin^{- 1}}}{x)} = x$, ${{cos\\ }{(\\cos^{- 1}}}{x)} = x$ and ${{tan\\ }{(\\tan^{- 1}}}{x)} = x$ are true, and apply the formulas to solve problems, simplify expressions and prove results"
+         "text": "Examine the graphs of the composite functions y = sin (sin⁻¹x), y = cos (cos⁻¹x) and y = tan (tan⁻¹x), establish the values of x for which the formulas sin (sin⁻¹x) = x, cos (cos⁻¹x) = x and tan (tan⁻¹x) = x are true, and apply the formulas to solve problems, simplify expressions and prove results"
         },
         {
          "id": "12.3.2.9",
-         "text": "Graph the composite functions ${{y = \\sin}^{- 1}{(\\sin}}{x)}$, ${{y = \\cos}^{- 1}{(\\cos}}{x)}$ and ${{y = \\tan}^{- 1}{(\\tan}}{x)}$ by considering their domains and ranges"
+         "text": "Graph the composite functions y = sin ⁻¹(sin x), y = cos ⁻¹(cos x) and y = tan ⁻¹(tan x) by considering their domains and ranges"
         },
         {
          "id": "12.3.2.10",
-         "text": "Examine the graphs of the composite functions ${{y = \\sin}^{- 1}{(\\sin}}{x)}$, ${{y = \\cos}^{- 1}{(\\cos}}{x)}$ and ${{y = \\tan}^{- 1}{(\\tan}}{x)}$, establish the values of $x$ for which the formulas ${\\sin^{- 1}{(\\sin}}{x)} = x$, ${\\cos^{- 1}{(\\cos}}{x)} = x and ${\\tan^{- 1}{(\\tan}}{x)} = x$ are true, and apply the formulas to solve problems, simplify expressions and prove results"
+         "text": "Examine the graphs of the composite functions y = sin ⁻¹(sin x), y = cos ⁻¹(cos x) and y = tan ⁻¹(tan x), establish the values of x for which the formulas sin⁻¹(sin x) = x, cos⁻¹(cos x) = x and tan⁻¹(tan x) = x are true, and apply the formulas to solve problems, simplify expressions and prove results"
         },
         {
          "id": "12.3.2.11",
-         "text": "Use graphing applications to explore reflections, translations and dilations of the functions $f(x) = \\sin^{- 1}x$, $f(x) = \\cos^{- 1}x$ and $f(x) = \\tan^{- 1}x$, and confirm that the principles of transformations hold for the inverse trigonometric functions"
+         "text": "Use graphing applications to explore reflections, translations and dilations of the functions f(x) = sin⁻¹x, f(x) = cos⁻¹x and f(x) = tan⁻¹x, and confirm that the principles of transformations hold for the inverse trigonometric functions"
         },
         {
          "id": "12.3.2.12",
@@ -865,7 +865,7 @@
         },
         {
          "id": "12.4.1.3",
-         "text": "Verify using the chain rule that the derivative of the inverse function is the reciprocal of the derivative of the function, evaluated at the value of the inverse function, that is $\\left( f^{- 1} \\right)'(x) = \\frac{1}{f^{'}\\left( f^{- 1}(x) \\right)}$"
+         "text": "Verify using the chain rule that the derivative of the inverse function is the reciprocal of the derivative of the function, evaluated at the value of the inverse function, that is $\\left(f^{- 1} \\right)'(x) = \\frac{1}{f^{'}\\left(f^{- 1}(x) \\right)}$"
         },
         {
          "id": "12.4.1.4",
@@ -873,15 +873,15 @@
         },
         {
          "id": "12.4.1.5",
-         "text": "Examine the proofs of the derivatives of $\\sin^{- 1}x$, $\\cos^{- 1}x$ and $\\tan^{- 1}x$"
+         "text": "Examine the proofs of the derivatives of sin⁻¹x, cos⁻¹x and tan⁻¹x"
         },
         {
          "id": "12.4.1.6",
-         "text": "Use the chain rule to show that $\\frac{d}{dx}\\left\\lbrack \\sin^{- 1}{f(x)} \\right\\rbrack = \\frac{f^{'}(x)}{\\sqrt{1 - \\left\\lbrack f(x) \\right\\rbrack^{2}}}$, $\\frac{d}{dx}\\left\\lbrack \\cos^{- 1}{f(x)} \\right\\rbrack = - \\frac{f^{'}(x)}{\\sqrt{1 - \\left\\lbrack f(x) \\right\\rbrack^{2}}} = - \\frac{d}{dx}\\left\\lbrack \\sin^{- 1}{f(x)} \\right\\rbrack$ and $\\frac{d}{dx}\\left\\lbrack \\tan^{- 1}{f(x)} \\right\\rbrack = \\frac{f^{'}(x)}{1 + \\left\\lbrack f(x) \\right\\rbrack^{2}}$ and apply the results to solve problems involving derivatives of $\\sin^{- 1}{f(x)}$, $\\cos^{- 1}{f(x)}$ and $\\tan^{- 1}{f(x)}$"
+         "text": "Use the chain rule to show that $\\frac{d}{dx}\\left\\lbrack \\sin^{- 1}{f(x)} \\right\\rbrack = \\frac{f^{'}(x)}{\\sqrt{1 - \\left\\lbrack f(x) \\right\\rbrack^{2}}}$, $\\frac{d}{dx}\\left\\lbrack \\cos^{- 1}{f(x)} \\right\\rbrack = - \\frac{f^{'}(x)}{\\sqrt{1 - \\left\\lbrack f(x) \\right\\rbrack^{2}}} = - \\frac{d}{dx}\\left\\lbrack \\sin^{- 1}{f(x)} \\right\\rbrack$ and $\\frac{d}{dx}\\left\\lbrack \\tan^{- 1}{f(x)} \\right\\rbrack = \\frac{f^{'}(x)}{1 + \\left\\lbrack f(x) \\right\\rbrack^{2}}$ and apply the results to solve problems involving derivatives of sin⁻¹f(x), cos⁻¹f(x) and tan⁻¹f(x)"
         },
         {
          "id": "12.4.1.7",
-         "text": "Apply the product, quotient and chain rules to find derivatives of functions of the form $f(x)g(x),$$\\frac{f(x)}{g(x)}$ and $f\\left( g(x) \\right)$ where $f(x)$ and $g(x)$ are any of the functions covered in the scope of the Mathematics Advanced 11–12 Syllabus (2024) or inverse trigonometric functions and solve related problems"
+         "text": "Apply the product, quotient and chain rules to find derivatives of functions of the form f(x)g(x), $\\frac{f(x)}{g(x)}$ and f(g(x)) where f(x) and g(x) are any of the functions covered in the scope of the Mathematics Advanced 11–12 Syllabus (2024) or inverse trigonometric functions and solve related problems"
         }
        ],
        "id": "12.4.1"
@@ -899,7 +899,7 @@
         },
         {
          "id": "12.4.2.3",
-         "text": "Prove and use the identities $\\sin^{2}nx = \\frac{1}{2}\\left( 1 - \\cos{2nx} \\right)$ and $\\cos^{2}nx = \\frac{1}{2}(1 + \\cos{2nx})$ to find integrals involving $\\int\\sin^{2}nx\\ dx$ and $\\int\\cos^{2}nx\\ dx$"
+         "text": "Prove and use the identities $\\sin^{2}nx = \\frac{1}{2}\\left(1 - \\cos{2nx} \\right)$ and $\\cos^{2}nx = \\frac{1}{2}(1 + \\cos{2nx})$ to find integrals involving ∫sin²nx dx and ∫cos²nx dx"
         }
        ],
        "id": "12.4.2"
@@ -915,15 +915,15 @@
        "dotpoints": [
         {
          "id": "12.5.1.1",
-         "text": "Use the product rule to prove that if $P(x)$ has a zero, $\\alpha$, of multiplicity $m > 1$, then $\\alpha$ is a zero of $P'(x)$ of multiplicity $m - 1$, and use the result to determine the multiplicity of a discovered zero of $P(x)$ and solve related polynomial problems"
+         "text": "Use the product rule to prove that if P(x) has a zero, α, of multiplicity m > 1, then α is a zero of P′(x) of multiplicity m − 1, and use the result to determine the multiplicity of a discovered zero of P(x) and solve related polynomial problems"
         },
         {
          "id": "12.5.1.2",
-         "text": "Prove that if $\\alpha$ is a zero of multiplicity $m$, meeting the $x$-axis at $A(\\alpha,0)$, then if $m = 1$, the curve crosses the $x$-axis at $A$ at an acute or obtuse angle; if $m > 1$ is even, the curve is tangent to the $x$-axis at $A$ and does not cross it; if $m > 1$ is odd, the curve has a horizontal inflection at $A$"
+         "text": "Prove that if α is a zero of multiplicity m, meeting the x -axis at A(α,0), then if m = 1, the curve crosses the x -axis at A at an acute or obtuse angle; if m > 1 is even, the curve is tangent to the x -axis at A and does not cross it; if m > 1 is odd, the curve has a horizontal inflection at A"
         },
         {
          "id": "12.5.1.3",
-         "text": "Graph a polynomial function in factored form, identifying its turning points and points of inflection if possible, and explore its behaviour as $x \\rightarrow \\infty$ and $x \\rightarrow - \\infty$, verifying the shape of the graph using graphing applications"
+         "text": "Graph a polynomial function in factored form, identifying its turning points and points of inflection if possible, and explore its behaviour as x → ∞ and x → − ∞, verifying the shape of the graph using graphing applications"
         }
        ],
        "id": "12.5.1"
@@ -941,23 +941,23 @@
         },
         {
          "id": "12.5.2.3",
-         "text": "Describe and examine the graphs of practical situations where the rate of change of a quantity is proportional to the amount $Q - P$ by which the quantity $Q$ exceeds some fixed value $P$"
+         "text": "Describe and examine the graphs of practical situations where the rate of change of a quantity is proportional to the amount Q − P by which the quantity Q exceeds some fixed value P"
         },
         {
          "id": "12.5.2.4",
-         "text": "Explain that if the rate of change of a quantity $Q$ over time $t$ is proportional to the difference $Q - P$ at any instant, then this may be represented by the equation $\\frac{dQ}{dt} = k(Q - P)$, where $k$ is a constant"
+         "text": "Explain that if the rate of change of a quantity Q over time t is proportional to the difference Q − P at any instant, then this may be represented by the equation $\\frac{dQ}{dt} = k(Q - P)$, where k is a constant"
         },
         {
          "id": "12.5.2.5",
-         "text": "Verify by substitution that the function $Q = P + Ae^{kt}$, where $A$ is a constant, satisfies the relationship $\\frac{dQ}{dt} = k(Q - P)$, and that $Q = P$ in the case where $A = 0$"
+         "text": "Verify by substitution that the function Q = P + Ae^(kt), where A is a constant, satisfies the relationship $\\frac{dQ}{dt} = k(Q - P)$, and that Q = P in the case where A = 0"
         },
         {
          "id": "12.5.2.6",
-         "text": "Graph the function $Q = P + Ae^{kt}$, where $k > 0$ and $k < 0$ and $A > 0$ and $A < 0$, with and without graphing applications, and identify any asymptotes"
+         "text": "Graph the function Q = P + Ae^(kt), where k > 0 and k < 0 and A > 0 and A < 0, with and without graphing applications, and identify any asymptotes"
         },
         {
          "id": "12.5.2.7",
-         "text": "Use $\\frac{dQ}{dt} = k(Q - P)$, $Q = P + Ae^{kt}$ and the graph of $Q = P + Ae^{kt}$ for $t \\geq 0$, where $k > 0$ or $k < 0$ and $A > 0$ or $A < 0$, to model and solve problems where a limiting value of $Q$ exists, including Newton's Law of Cooling and ecosystems with a natural carrying capacity, and justify conclusions in the context of the problem"
+         "text": "Use $\\frac{dQ}{dt} = k(Q - P)$, Q = P + Ae^(kt) and the graph of Q = P + Ae^(kt) for t ≥ 0, where k > 0 or k < 0 and A > 0 or A < 0, to model and solve problems where a limiting value of Q exists, including Newton’s Law of Cooling and ecosystems with a natural carrying capacity, and justify conclusions in the context of the problem"
         }
        ],
        "id": "12.5.2"
@@ -971,15 +971,15 @@
         },
         {
          "id": "12.5.3.2",
-         "text": "Examine a solid of revolution whose boundary is formed by rotating an arc of a function about the $x$-axis or $y$-axis with and without graphing applications"
+         "text": "Examine a solid of revolution whose boundary is formed by rotating an arc of a function about the x -axis or y -axis with and without graphing applications"
         },
         {
          "id": "12.5.3.3",
-         "text": "Calculate the volume of a solid of revolution formed by rotating a region in the plane about the $x$-axis or $y$-axis in both real-life and abstract contexts"
+         "text": "Calculate the volume of a solid of revolution formed by rotating a region in the plane about the x -axis or y -axis in both real-life and abstract contexts"
         },
         {
          "id": "12.5.3.4",
-         "text": "Calculate the volume of a solid of revolution formed by rotating the region between two curves about either the $x$-axis or $y$-axis in both real-life and abstract contexts"
+         "text": "Calculate the volume of a solid of revolution formed by rotating the region between two curves about either the x -axis or y -axis in both real-life and abstract contexts"
         }
        ],
        "id": "12.5.3"
@@ -1029,7 +1029,7 @@
         },
         {
          "id": "12.5.4.11",
-         "text": "Solve first order differential equations of the form $\\frac{dy}{dx} = g(y)$, where possible expressing the solution as a function with $y$ as the subject"
+         "text": "Solve first order differential equations of the form $\\frac{dy}{dx} = g(y)$, where possible expressing the solution as a function with y as the subject"
         },
         {
          "id": "12.5.4.12",
@@ -1037,7 +1037,7 @@
         },
         {
          "id": "12.5.4.13",
-         "text": "Solve first order differential equations of the form $\\frac{dy}{dx} = f(x)g(y)$ using separation of variables, where possible expressing the solution as a function with $y$ as the subject"
+         "text": "Solve first order differential equations of the form $\\frac{dy}{dx} = f(x)g(y)$ using separation of variables, where possible expressing the solution as a function with y as the subject"
         },
         {
          "id": "12.5.4.14",
@@ -1045,7 +1045,7 @@
         },
         {
          "id": "12.5.4.15",
-         "text": "Solve differential equations of the form $\\frac{dP}{dt} = kP\\left( 1 - \\frac{P}{C} \\right)$ for some constants $k$ and $C$, given the appropriate decomposition into partial fractions, to obtain the logistic function"
+         "text": "Solve differential equations of the form $\\frac{dP}{dt} = kP\\left(1 - \\frac{P}{C} \\right)$ for some constants k and C, given the appropriate decomposition into partial fractions, to obtain the logistic function"
         },
         {
          "id": "12.5.4.16",
@@ -1069,7 +1069,7 @@
         },
         {
          "id": "12.6.1.2",
-         "text": "Model a Bernoulli trial using a random variable, $X$, where the probability of success, $X = 1$, is $p$ and the probability of failure, $X = 0$, is $q = 1 - p$"
+         "text": "Model a Bernoulli trial using a random variable, X, where the probability of success, X = 1, is p and the probability of failure, X = 0, is q = 1 − p"
         },
         {
          "id": "12.6.1.3",
@@ -1077,7 +1077,7 @@
         },
         {
          "id": "12.6.1.4",
-         "text": "Establish and use the formulae $\\text{E}(X) = \\mu = p$ to find the mean, and $Var(X) = p(1 - p)$ to find the variance of the Bernoulli distribution with parameter $p$"
+         "text": "Establish and use the formulae E(X) = μ = p to find the mean, and Var(X) = p(1−p) to find the variance of the Bernoulli distribution with parameter p"
         },
         {
          "id": "12.6.1.5",
@@ -1095,7 +1095,7 @@
        "dotpoints": [
         {
          "id": "12.6.2.1",
-         "text": "Define a binomial random variable, $X$, as the number of 'successes' in $n$ independent and identically distributed Bernoulli trials, with the same probability of success $p$ in each trial, where $n$ is a fixed finite number"
+         "text": "Define a binomial random variable, X, as the number of ‘successes’ in n independent and identically distributed Bernoulli trials, with the same probability of success p in each trial, where n is a fixed finite number"
         },
         {
          "id": "12.6.2.2",
@@ -1107,23 +1107,23 @@
         },
         {
          "id": "12.6.2.4",
-         "text": "Use the notation $X\\sim Bin(n,p)$ to represent a binomial random variable, $X$, where $n$ is the number of trials and probability of success is $p$"
+         "text": "Use the notation X ∼ Bin(n,p) to represent a binomial random variable, X, where n is the number of trials and probability of success is p"
         },
         {
          "id": "12.6.2.5",
-         "text": "Recognise the significance of$\\ ^{n}C_{r}$ as the number of ways in which an outcome with $r$ successes can occur in $n$ trials"
+         "text": "Recognise the significance of ^(n)C_(r) as the number of ways in which an outcome with r successes can occur in n trials"
         },
         {
          "id": "12.6.2.6",
-         "text": "Use the formula $P(X = r) = \\ ^{n}C_{r}p^{r}{(1 - p)}^{n - r}$ to find the probability of $r$ successes in a binomial experiment involving $n$ trials"
+         "text": "Use the formula P(X=r) = ^(n)C_(r)p^(r)(1−p)^(n − r) to find the probability of r successes in a binomial experiment involving n trials"
         },
         {
          "id": "12.6.2.7",
-         "text": "Calculate the expected frequencies of the various possible outcomes from a binomial experiment, where the expected frequency of an outcome happening $r$ times in $n$ trials is $n \\times P(X = r)$"
+         "text": "Calculate the expected frequencies of the various possible outcomes from a binomial experiment, where the expected frequency of an outcome happening r times in n trials is n × P(X=r)"
         },
         {
          "id": "12.6.2.8",
-         "text": "Use the formulae $\\text{E}(X) = \\mu = np$ to find the mean, and $Var(X) = np(1 - p)$ to find the variance when $X\\sim Bin(n,p)$"
+         "text": "Use the formulae E(X) = μ = np to find the mean, and Var(X) = np(1−p) to find the variance when X ∼ Bin(n,p)"
         },
         {
          "id": "12.6.2.9",
@@ -1145,7 +1145,7 @@
         },
         {
          "id": "12.6.3.3",
-         "text": "Recognise that a statistic taken from a sample will be a good approximation if the sample is random and the sample size is large enough, typically $n \\geq 30$"
+         "text": "Recognise that a statistic taken from a sample will be a good approximation if the sample is random and the sample size is large enough, typically n ≥ 30"
         },
         {
          "id": "12.6.3.4",
@@ -1153,11 +1153,11 @@
         },
         {
          "id": "12.6.3.5",
-         "text": "Recognise that it is likely that the distribution of a random sample will resemble the distribution of the population when the sample size, $n$, is large enough, typically $n \\geq 30$"
+         "text": "Recognise that it is likely that the distribution of a random sample will resemble the distribution of the population when the sample size, n, is large enough, typically n ≥ 30"
         },
         {
          "id": "12.6.3.6",
-         "text": "Define the sample mean for a sample $X_{1},X_{2},\\ldots,X_{n} taken from a population as $\\overline{X} = \\frac{1}{n}\\sum_{i = 1}^{n}X_{i}$"
+         "text": "Define the sample mean for a sample X₁, X₂, …, X_(n) taken from a population as $\\overline{X} = \\frac{1}{n}\\sum_{i = 1}^{n}X_{i}$"
         },
         {
          "id": "12.6.3.7",
@@ -1165,15 +1165,15 @@
         },
         {
          "id": "12.6.3.8",
-         "text": "Define, for a given sample size $n$, the sampling distribution of the mean to be the distribution of the sample means of all samples of size $n$"
+         "text": "Define, for a given sample size n, the sampling distribution of the mean to be the distribution of the sample means of all samples of size n"
         },
         {
          "id": "12.6.3.9",
-         "text": "Recognise that sample mean, $\\overline{X}$, is a random variable that estimates the population mean, $\\mu$, when the size of the sample is large enough and consider its usefulness in making predictions in a variety of contexts including politics, finance, agriculture and biology"
+         "text": "Recognise that sample mean, $\\overline{X}$, is a random variable that estimates the population mean, μ, when the size of the sample is large enough and consider its usefulness in making predictions in a variety of contexts including politics, finance, agriculture and biology"
         },
         {
          "id": "12.6.3.10",
-         "text": "State the central limit theorem as: for a population with mean $\\mu$ and variance $\\sigma^{2}$, provided the sample size $n$ is large enough ($n \\geq 30$), the sampling distribution is approximately normal with mean $\\mu and variance $\\frac{\\sigma^{2}}{n}$; that is, $\\overline{X}$ is approximately$\\ N\\left( \\mu,\\frac{\\sigma^{2}}{n} \\right)$"
+         "text": "State the central limit theorem as: for a population with mean μ and variance σ², provided the sample size n is large enough (n ≥ 30), the sampling distribution is approximately normal with mean μ and variance $\\frac{\\sigma^{2}}{n}$; that is, $\\overline{X}$ is approximately $\\ N\\left(\\mu,\\frac{\\sigma^{2}}{n} \\right)$"
         },
         {
          "id": "12.6.3.11",
@@ -1181,7 +1181,7 @@
         },
         {
          "id": "12.6.3.12",
-         "text": "Use the formulas $E\\left( \\overline{X} \\right) = \\mu$ and $\\text{Var}\\left( \\overline{X} \\right) = \\frac{\\sigma^{2}}{n}$ as the mean and the variance of the sampling distribution of the mean for samples of size $n$ drawn from a population with mean $\\mu$ and variance $\\sigma^{2}$"
+         "text": "Use the formulas $E\\left(\\overline{X} \\right) = \\mu$ and $\\text{Var}\\left(\\overline{X} \\right) = \\frac{\\sigma^{2}}{n}$ as the mean and the variance of the sampling distribution of the mean for samples of size n drawn from a population with mean μ and variance σ²"
         },
         {
          "id": "12.6.3.13",

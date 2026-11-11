@@ -1,30 +1,30 @@
 ## 12.1 The nature of proof
 ### 12.1.1 The language and notation of proof
-12.1.1.1 Use the formal language of proof, including the terms 'statement', 'proposition', 'implication', 'converse', 'negation', 'contradiction', 'counterexample', 'equivalence' and 'contrapositive'
+12.1.1.1 Use the formal language of proof, including the terms ‘statement’, ‘proposition’, ‘implication’, ‘converse’, ‘negation’, ‘contradiction’, ‘counterexample’, ‘equivalence’ and ‘contrapositive’
 12.1.1.2 Define a statement or proposition as a sentence that is either true or false, but not both
-12.1.1.3 Use the notation $P \land Q$ to represent the statement '$P\ \text{and }Q$' and the notation $P \vee Q$ to represent the statement '$P\text{ or }Q$'
-12.1.1.4 Define and use the negation of $P$ as 'not $P$', denoted $\neg P$ or $\sim P$
-12.1.1.5 Define an implication as an 'if–then' statement, where 'if $P$ then $Q$' is denoted $P \Rightarrow Q$ or $P \rightarrow Q$, read as '$P$ implies $Q$'
-12.1.1.6 Use the quantifiers 'for all' $(\forall)$, and 'there exists' $(\exists)$ in formulating statements
-12.1.1.7 Negate statements including the negation of a negation $\neg(\neg P) = P$, the negation of an implication $\neg(P \Rightarrow Q) = \left( P\ \text{and ¬}Q \right) = \left( P\ \land \text{ ¬}Q \right)$, the negation $\neg(P\ and\ Q) = (\neg P\ or\ \neg Q)$, that is $\neg(P\ \land \ Q) = (\neg P\ \vee \ \neg Q)$, and the negation $\neg\left( P\ \text{or} Q \right) = (\neg P\ and\ \neg Q)$, that is $\neg\left( P\ \vee Q \right) = (\neg P\ \land \ \neg Q)$, noting that $P \Rightarrow Q = \neg\left( P\ \text{and ¬}Q \right) = (\neg P\ \text{or }Q)$, that is $P \Rightarrow Q = \neg\left( P\ \land \text{ ¬}Q \right) = (\neg P\ \vee Q)$
-12.1.1.8 Define and use the converse of 'if $P$ then $Q$' as 'if $Q$ then $P$', denoted $Q \Rightarrow P$
+12.1.1.3 Use the notation P ∧ Q to represent the statement ‘ P and Q ’ and the notation P ∨ Q to represent the statement ‘ P or Q ’
+12.1.1.4 Define and use the negation of P as ‘not P ’, denoted ¬P or ∼ P
+12.1.1.5 Define an implication as an ‘if–then’ statement, where ‘if P then Q ’ is denoted P ⇒ Q or P → Q, read as ‘ P implies Q ’
+12.1.1.6 Use the quantifiers ‘for all’ (∀), and ‘there exists’ (∃) in formulating statements
+12.1.1.7 Negate statements including the negation of a negation ¬(¬P) = P, the negation of an implication ¬(P⇒Q) = (P and ¬Q) = (P ∧ ¬Q), the negation ¬(P and Q) = (¬P or ¬Q), that is ¬(P ∧ Q) = (¬P ∨ ¬Q), and the negation ¬(P or Q) = (¬P and ¬Q), that is ¬(P ∨ Q) = (¬P ∧ ¬Q), noting that P ⇒ Q = ¬(P and ¬Q) = (¬P or Q), that is P ⇒ Q = ¬(P ∧ ¬Q) = (¬P ∨ Q)
+12.1.1.8 Define and use the converse of ‘if P then Q ’ as ‘if Q then P ’, denoted Q ⇒ P
 12.1.1.9 Recognise that the converse of a true implication may or may not be true
-12.1.1.10 Define equivalence of $P$ and $Q$, as both $P \Rightarrow Q$ and $Q \Rightarrow P$, denoted $P \Longleftrightarrow Q$ or $P \leftrightarrow Q$, read as '$P$ if and only if $Q$', commonly abbreviated '$P$ iff $Q$'
-12.1.1.11 Define the contrapositive of 'if $P$ then $Q$' as 'if not $Q$ then not $P$', denoted $\neg Q \Rightarrow \neg P$
-12.1.1.12 Recognise that an implication is equivalent to its contrapositive, that is $(P \Rightarrow Q) \Longleftrightarrow (\neg Q \Rightarrow \neg P)$, and use this to prove results
+12.1.1.10 Define equivalence of P and Q, as both P ⇒ Q and Q ⇒ P, denoted P ⇔ Q or P ↔ Q, read as ‘ P if and only if Q ’, commonly abbreviated ‘ P iff Q ’
+12.1.1.11 Define the contrapositive of ‘if P then Q ’ as ‘if not Q then not P ’, denoted ¬Q ⇒ ¬P
+12.1.1.12 Recognise that an implication is equivalent to its contrapositive, that is (P⇒Q) ⇔ (¬Q⇒¬P), and use this to prove results
 ### 12.1.2 Illustrations of proofs
 12.1.2.1 Use proof by contradiction to prove the truth of mathematical statements
 12.1.2.2 Use examples and counterexamples to test the truth of mathematical statements
 12.1.2.3 Prove results involving integers
 ### 12.1.3 Proof of inequalities
-12.1.3.1 Prove results involving inequalities using the definition of $a > b$ for real $a$ and $b$, that is $a > b$ if and only if $a\ –\ b > 0$
-12.1.3.2 Prove results involving inequalities using the property that squares of real numbers are non-negative, in particular $(a \pm b)^{2} \geq 0$
-12.1.3.3 Prove and use results for numbers: if $a > b$ then $a \pm c > b \pm c$; if $a > b > 0$ then $\frac{1}{b} > \frac{1}{a} > 0 and vice versa; if $|a| > |b|$ then $a^{2} > b^{2}$ and vice versa; if $a > b$ and $b > c$ then $a > c$; if $a > b$ and $c > d$ then $a + c > b + d$; if $a > b$ and $c > 0$ then $ac > bc$; if $a > b$ and $c < 0$ then $ac < bc$
-12.1.3.4 Prove and use the triangle inequality $|a + b| \leq |a| + |b|$ and interpret the inequality geometrically
+12.1.3.1 Prove results involving inequalities using the definition of a > b for real a and b, that is a > b if and only if a – b > 0
+12.1.3.2 Prove results involving inequalities using the property that squares of real numbers are non-negative, in particular (a±b)² ≥ 0
+12.1.3.3 Prove and use results for numbers: if a > b then a ± c > b ± c; if a > b > 0 then $\frac{1}{b} > \frac{1}{a} > 0$ and vice versa; if |a| > |b| then a² > b² and vice versa; if a > b and b > c then a > c; if a > b and c > d then a + c > b + d; if a > b and c > 0 then ac > bc; if a > b and c < 0 then ac < bc
+12.1.3.4 Prove and use the triangle inequality |a+b| ≤ |a| + |b| and interpret the inequality geometrically
 12.1.3.5 Establish and use the relationship between the arithmetic mean and geometric mean for two non-negative numbers, that is $\forall a,b \geq 0,\frac{a + b}{2} \geq \sqrt{ab}$
 12.1.3.6 Prove results involving inequalities using previously obtained or known inequalities
 12.1.3.7 Prove inequalities involving geometry
-12.1.3.8 Prove results using the squeeze theorem: if $f(x) \leq g(x) \leq h(x)$ for all $x$ that are near $k$, but not necessarily at $k$, and $\lim_{x \rightarrow k}{f(x)} = \lim_{x \rightarrow k}{h(x)} = L$, then $\lim_{x \rightarrow k}{g(x)} = L$
+12.1.3.8 Prove results using the squeeze theorem: if f(x) ≤ g(x) ≤ h(x) for all x that are near k, but not necessarily at k, and lim_(x → k)f(x) = lim_(x → k)h(x) = L, then lim_(x → k)g(x) = L
 12.1.3.9 Prove inequalities using graphical or calculus techniques or a combination of both
 ### 12.1.4 Further proof by mathematical induction
 12.1.4.1 Prove results involving trigonometric, logarithmic, exponential, polynomial or other identities, including the binomial theorem, using mathematical induction
@@ -35,89 +35,89 @@
 12.1.4.6 Prove geometric results using mathematical induction
 ## 12.2 Further work with vectors
 ### 12.2.1 Vector equations of lines and curves
-12.2.1.1 Define the direction vector of a straight line and identify that a straight line through two points $P$ and $Q$ has $\overrightarrow{PQ}$ as a possible direction vector in both two dimensions and three dimensions
-12.2.1.2 Establish the relationship between the gradient, $m$, of a straight line in two dimensions and its direction vector
-12.2.1.3 Examine and use $\mathbf{r} = \mathbf{a} + \lambda\mathbf{b}$ as the vector equation of a straight line in two dimensions and three dimensions to solve problems, where $\mathbf{r}$ is the position vector of a point on the line, $\mathbf{a}$ is the position vector of a particular point on the line, $\mathbf{b}$ is a direction vector of the line and $\lambda$ is a scalar parameter
-12.2.1.4 Identify $\mathbf{r} = \mathbf{p} + \lambda\left( \mathbf{q} - \mathbf{p} \right)$ as one possible vector equation for the straight line through points $P$ and $Q$, where $\mathbf{p}$ and $\mathbf{q}$ are the position vectors of $P$ and $Q$ respectively, noting its equivalence with the form $\mathbf{r} = \lambda\mathbf{q} + (1 - \lambda)\mathbf{p}$, and establish the correspondence between the value of $\lambda$ and the position of the point specified by it along the line
-12.2.1.5 Express a line in two dimensions given in gradient–intercept form ($y = mx + c$) as a vector equation, and vice versa
+12.2.1.1 Define the direction vector of a straight line and identify that a straight line through two points P and Q has $\overrightarrow{PQ}$ as a possible direction vector in both two dimensions and three dimensions
+12.2.1.2 Establish the relationship between the gradient, m, of a straight line in two dimensions and its direction vector
+12.2.1.3 Examine and use r = a + λb as the vector equation of a straight line in two dimensions and three dimensions to solve problems, where r is the position vector of a point on the line, a is the position vector of a particular point on the line, b is a direction vector of the line and λ is a scalar parameter
+12.2.1.4 Identify r = p + λ(q−p) as one possible vector equation for the straight line through points P and Q, where p and q are the position vectors of P and Q respectively, noting its equivalence with the form r = λq + (1−λ)p, and establish the correspondence between the value of λ and the position of the point specified by it along the line
+12.2.1.5 Express a line in two dimensions given in gradient–intercept form (y = mx + c) as a vector equation, and vice versa
 12.2.1.6 Determine when two lines in vector form are parallel in two dimensions and three dimensions
 12.2.1.7 Determine whether a given point lies on a line in vector form
 12.2.1.8 Determine using vector methods whether three points are collinear in two dimensions and three dimensions
 12.2.1.9 Determine the point of intersection of two non-parallel lines expressed as vector equations in two dimensions
-12.2.1.10 Determine whether two distinct lines $\mathbf{r}_{\mathbf{1}} = \mathbf{a}_{\mathbf{1}} + \lambda_{1}\mathbf{b}_{\mathbf{1}}$ and $\mathbf{r}_{\mathbf{2}} = \mathbf{a}_{\mathbf{2}} + \lambda_{2}\mathbf{b}_{\mathbf{2}}$ in three dimensions intersect, and if so, find the unique value of either $\lambda_{1}$ or $\lambda_{2}$ corresponding to the point of intersection and determine its coordinates
+12.2.1.10 Determine whether two distinct lines r¹ = a¹ + λ₁b¹ and r² = a² + λ₂b² in three dimensions intersect, and if so, find the unique value of either λ₁ or λ₂ corresponding to the point of intersection and determine its coordinates
 12.2.1.11 Define skew lines in three dimensions and apply vector methods to determine whether two lines in three dimensions are skew
-12.2.1.12 Recognise that a parametrically defined curve in two dimensions or three dimensions can be expressed as a vector equation: $$\mathbf{r}\mathbf{=}\begin{pmatrix} x(t) \\ y(t) \end{pmatrix}$or$\mathbf{r}\mathbf{=}\begin{pmatrix} x(t) \\ y(t) \\ z(t) \end{pmatrix}$, where$t$$ is a parameter
+12.2.1.12 Recognise that a parametrically defined curve in two dimensions or three dimensions can be expressed as a vector equation: $\mathbf{r}\mathbf{=}\begin{pmatrix} x(t) \\ y(t) \end{pmatrix}$ or $\mathbf{r}\mathbf{=}\begin{pmatrix} x(t) \\ y(t) \\ z(t) \end{pmatrix}$, where t is a parameter
 12.2.1.13 Examine and identify curves given as vector equations in two dimensions and three dimensions using graphing applications
 12.2.1.14 Identify the vector equation of a curve given its graph
-12.2.1.15 Recognise $\mathbf{r} = r\cos(\theta)\mathbf{i} + r\sin{(\theta)}\mathbf{j}$ and $\left| \mathbf{r} \right| = r$ as vector equations of a circle in two dimensions with radius $r$ centred at the origin
-12.2.1.16 Recognise $\mathbf{r} = \left( r\cos(\theta) + x_{C} \right)\mathbf{i} + \left( r\sin{(\theta)} + y_{C} \right)\mathbf{j}\mathbf{\ }$and $\left| \mathbf{r} - \mathbf{c} \right| = r$ as vector equations of a circle in two dimensions with radius $r$ and centre $C$ with position vector $$\mathbf{c} = \begin{pmatrix} x_{C} \\ y_{C} \end{pmatrix}$$
-12.2.1.17 Recognise $\left| \mathbf{r} - \mathbf{c} \right| = r$ as the vector equation of a sphere in three dimensions with radius $r$ and centre $C$ with position vector $\mathbf{c}$
+12.2.1.15 Recognise r = rcos (θ)i + rsin (θ)j and |r| = r as vector equations of a circle in two dimensions with radius r centred at the origin
+12.2.1.16 Recognise r = (rcos(θ)+x_(C))i + (rsin(θ)+y_(C))j and |r−c| = r as vector equations of a circle in two dimensions with radius r and centre C with position vector $\mathbf{c} = \begin{pmatrix} x_{C} \\ y_{C} \end{pmatrix}$
+12.2.1.17 Recognise |r−c| = r as the vector equation of a sphere in three dimensions with radius r and centre C with position vector c
 12.2.1.18 Use the circle equations and sphere equations to solve problems
 12.2.1.19 Determine the Cartesian equation of a curve in two dimensions given its vector equation and graph the curve, where the curve is within the scope of this syllabus
 ### 12.2.2 Vectors and geometry
-12.2.2.1 Examine and use properties of the scalar (dot) product, including commutativity ($\mathbf{a} \cdot \mathbf{b} = \mathbf{b} \cdot \mathbf{a}$), distributivity $(\mathbf{a} \cdot \left( \mathbf{b} + \mathbf{c} \right) = \mathbf{a} \cdot \mathbf{b} + \mathbf{a} \cdot \mathbf{c}$) and scalar multiplication ($k\left( \mathbf{a} \cdot \mathbf{b} \right) = \left( k\mathbf{a} \right) \cdot \mathbf{b} = \mathbf{a} \cdot \left( k\mathbf{b} \right)$)
-12.2.2.2 Establish and use the results $\mathbf{i} \cdot \mathbf{i} = \mathbf{j} \cdot \mathbf{j} = \mathbf{k} \cdot \mathbf{k} = 1$ and $\mathbf{i} \cdot \mathbf{j} = \mathbf{j} \cdot \mathbf{k} = \mathbf{k} \cdot \mathbf{i} = 0$
-12.2.2.3 Prove and use the Cauchy–Schwarz inequality for vectors: $\left| \mathbf{a} \cdot \mathbf{b} \right| \leq \left| \mathbf{a} \right|\left| \mathbf{b} \right|$
+12.2.2.1 Examine and use properties of the scalar (dot) product, including commutativity (a ⋅ b = b ⋅ a), distributivity (a ⋅ (b+c) = a ⋅ b + a ⋅ c) and scalar multiplication (k(a⋅b) = (ka) ⋅ b = a ⋅ (kb))
+12.2.2.2 Establish and use the results i ⋅ i = j ⋅ j = k ⋅ k = 1 and i ⋅ j = j ⋅ k = k ⋅ i = 0
+12.2.2.3 Prove and use the Cauchy–Schwarz inequality for vectors: |a⋅b| ≤ |a||b|
 12.2.2.4 Define the medians, altitudes, perpendicular bisectors and angle bisectors of a triangle and recognise these definitions in vector proofs
 12.2.2.5 Solve problems and prove geometric results in two dimensions and three dimensions using vectors
 ## 12.3 Introduction to complex numbers
 ### 12.3.1 Arithmetic of complex numbers
-12.3.1.1 Define the number $i$ by $i^{2} = - 1$
-12.3.1.2 Use the number $i$ to solve quadratic equations of the form $x^{2} + k = 0$ where $k$ is a positive real number
-12.3.1.3 Define the complex numbers ($\mathbb{C}$) as the set of numbers of the form $a + ib$, where $a$ and $b$ are real numbers
-12.3.1.4 Use complex numbers to express the roots of quadratic equations of the form ${ax}^{2} + \ bx + \ c\ = 0$, where $a$, $b$ and $c$ are real numbers and the discriminant $\mathrm{\Delta}\ = b^{2}–4ac < 0
-12.3.1.5 Refer to $a$ as 'the real part of the complex number $z = a + ib$', denoted by $Re(z)$
-12.3.1.6 Refer to $b$ as 'the imaginary part of the complex number $z = a + ib$', denoted by $Im(z)$
-12.3.1.7 Classify numbers as belonging to the set of natural numbers $\mathbb{(}\mathbb{N}$), integers ($\mathbb{Z}$), rational numbers ($\mathbb{Q}$), real numbers ($\mathbb{R}$) or complex numbers ($\mathbb{C}$), each of which is an extension of the previous
-12.3.1.8 Identify and use the condition for two complex numbers $z_{1}$ and $z_{2}$ to be equal, that is $z_{1} = z_{2}$ if and only if $Re\left( z_{1} \right) = Re\left( z_{2} \right)$ and $Im\left( z_{1} \right) = Im\left( z_{2} \right)$
+12.3.1.1 Define the number i by i² = − 1
+12.3.1.2 Use the number i to solve quadratic equations of the form x² + k = 0 where k is a positive real number
+12.3.1.3 Define the complex numbers (ℂ) as the set of numbers of the form a + ib, where a and b are real numbers
+12.3.1.4 Use complex numbers to express the roots of quadratic equations of the form ax²+ bx+ c = 0, where a, b and c are real numbers and the discriminant Δ = b²–4ac < 0
+12.3.1.5 Refer to a as ‘the real part of the complex number z = a + ib ’, denoted by Re(z)
+12.3.1.6 Refer to b as ‘the imaginary part of the complex number z = a + ib ’, denoted by Im(z)
+12.3.1.7 Classify numbers as belonging to the set of natural numbers (ℕ), integers (ℤ), rational numbers (ℚ), real numbers (ℝ) or complex numbers (ℂ), each of which is an extension of the previous
+12.3.1.8 Identify and use the condition for two complex numbers z₁ and z₂ to be equal, that is z₁ = z₂ if and only if Re(z₁) = Re(z₂) and Im(z₁) = Im(z₂)
 12.3.1.9 Define and perform complex number addition, subtraction and multiplication, with and without digital tools
-12.3.1.10 Define the complex conjugate of a complex number $z = a + ib$ as $\overline{z} = a - ib$ and use it to solve problems
-12.3.1.11 Define and calculate the modulus of a complex number $z = a + ib$ as $|z| = \sqrt{z\overline{z}} = \sqrt{a^{2} + b^{2}}$
-12.3.1.12 Establish relationships $\text{Re}(z) = \frac{z + \overline{z}}{2}$ and $\text{Im}(z) = \frac{z - \overline{z}}{2i} and $\frac{1}{z} = \frac{\overline{z}}{|z|^{2}}$, $z \neq 0$, and use them to solve problems
-12.3.1.13 Divide one complex number by another non-zero complex number, with and without digital tools, and give the result in the form $a + ib$
-12.3.1.14 Find the two square roots of a complex number $z = a + ib$
+12.3.1.10 Define the complex conjugate of a complex number z = a + ib as $\overline{z} = a - ib$ and use it to solve problems
+12.3.1.11 Define and calculate the modulus of a complex number z = a + ib as $|z| = \sqrt{z\overline{z}} = \sqrt{a^{2} + b^{2}}$
+12.3.1.12 Establish relationships $\text{Re}(z) = \frac{z + \overline{z}}{2}$ and $\text{Im}(z) = \frac{z - \overline{z}}{2i}$ and $\frac{1}{z} = \frac{\overline{z}}{|z|^{2}}$, z ≠ 0, and use them to solve problems
+12.3.1.13 Divide one complex number by another non-zero complex number, with and without digital tools, and give the result in the form a + ib
+12.3.1.14 Find the two square roots of a complex number z = a + ib
 ### 12.3.2 Geometric representation of complex numbers
-12.3.2.1 Plot the complex number $z = a + ib$ as a point on the complex plane with and without graphing applications
-12.3.2.2 Define and calculate the argument of a non-zero complex number $z = a + ib$ as $\arg{(z)} = \theta$, where $\theta satisfies $\sin\theta = \frac{b}{|z|}$ and $\cos\theta = \frac{a}{|z|}$, noting that the argument has multiple values that differ by multiples of $2\pi$
-12.3.2.3 Define and use the principal argument $Arg(z)$ of a non-zero complex number $z$ as the unique value of the argument in the interval $( - \pi,\pi\rbrack$
-12.3.2.4 Define and use complex numbers in polar or modulus–argument form that expresses a complex number in terms of its modulus and argument, $z = r(\cos\theta + i\sin\theta)$, where $r$ is its modulus and $\theta$ is an argument of $z$, and represent complex numbers in this form on the complex plane
+12.3.2.1 Plot the complex number z = a + ib as a point on the complex plane with and without graphing applications
+12.3.2.2 Define and calculate the argument of a non-zero complex number z = a + ib as arg (z) = θ, where θ satisfies $\sin\theta = \frac{b}{|z|}$ and $\cos\theta = \frac{a}{|z|}$, noting that the argument has multiple values that differ by multiples of 2π
+12.3.2.3 Define and use the principal argument Arg(z) of a non-zero complex number z as the unique value of the argument in the interval (− π, π]
+12.3.2.4 Define and use complex numbers in polar or modulus–argument form that expresses a complex number in terms of its modulus and argument, z = r(cosθ+isinθ), where r is its modulus and θ is an argument of z, and represent complex numbers in this form on the complex plane
 12.3.2.5 Use multiplication, division and powers of complex numbers in polar form and interpret these geometrically
 12.3.2.6 Convert between complex numbers in Cartesian form and polar form and use complex numbers in Cartesian form and polar form to solve problems
-12.3.2.7 Prove and use identities involving the modulus of complex numbers: $\left| z_{1}z_{2} \right| = \left| z_{1} \right|\left| z_{2} \right|$, $\left| \frac{z_{1}}{z_{2}} \right| = \frac{\left| z_{1} \right|}{\left| z_{2} \right|}$ and $\left| z^{n} \right| = |z|^{n}$, where $n$ is an integer
-12.3.2.8 Prove and use identities involving the argument of complex numbers: $arg\left( z_{1}z_{2} \right) = arg\left( z_{1} \right) + arg\left( z_{2} \right)$, $arg\left( \frac{z_{1}}{z_{2}} \right) = arg\left( z_{1} \right) - arg\left( z_{2} \right)$ and $arg\left( z^{n} \right) = n\arg(z)$ where $n$ is an integer
-12.3.2.9 Prove and use identities involving the complex conjugate of complex numbers:\ $\overset{\_\_\_}{z_{1}} + \overset{\_\_\_}{z_{2}} = \overset{\_\_\_\_\_\_\_\_\_\_\_\_}{z_{1} + z_{2}}$, $\overset{\_\_\_}{z_{1}}\overset{\_\_\_}{z_{2}} = \overset{\_\_\_\_\_\_\_\_}{z_{1}z_{2}}$
-12.3.2.10 Prove and use the triangle inequality $\left| z_{1} + z_{2} \right| \leq \left| z_{1} \right| + \left| z_{2} \right|$ for complex numbers $z_{1}$ and $z_{2}$
+12.3.2.7 Prove and use identities involving the modulus of complex numbers: |z₁z₂| = |z₁||z₂|, $\left| \frac{z_{1}}{z_{2}} \right| = \frac{\left| z_{1} \right|}{\left| z_{2} \right|}$ and |z^(n)| = |z|^(n), where n is an integer
+12.3.2.8 Prove and use identities involving the argument of complex numbers: arg(z₁z₂) = arg(z₁) + arg(z₂), $arg\left(\frac{z_{1}}{z_{2}} \right) = arg\left(z_{1} \right) - arg\left(z_{2} \right)$ and arg(z^(n)) = narg (z) where n is an integer
+12.3.2.9 Prove and use identities involving the complex conjugate of complex numbers: $\overset{\_\_\_}{z_{1}} + \overset{\_\_\_}{z_{2}} = \overset{\_\_\_\_\_\_\_\_\_\_\_\_}{z_{1} + z_{2}}$, $\overset{\_\_\_}{z_{1}}\overset{\_\_\_}{z_{2}} = \overset{\_\_\_\_\_\_\_\_}{z_{1}z_{2}}$
+12.3.2.10 Prove and use the triangle inequality |z₁+z₂| ≤ |z₁| + |z₂| for complex numbers z₁ and z₂
 ### 12.3.3 Solving equations with complex numbers
-12.3.3.1 Solve quadratic equations of the form ${ax}^{2} + bx + c = 0$, where $a$, $b$ and $c$ are complex numbers
+12.3.3.1 Solve quadratic equations of the form ax² + bx + c = 0, where a, b and c are complex numbers
 12.3.3.2 Recognise that solutions to quadratic equations with real coefficients are complex conjugates of each other and use this to solve problems
-12.3.3.3 Prove the complex conjugate root theorem: if the complex number $z = a + ib$ is a root of the polynomial equation $P(x) = 0$ with real coefficients, then the complex conjugate $\overline{z} = a - ib$ is also a root of $P(x) = 0$
+12.3.3.3 Prove the complex conjugate root theorem: if the complex number z = a + ib is a root of the polynomial equation P(x) = 0 with real coefficients, then the complex conjugate $\overline{z} = a - ib$ is also a root of P(x) = 0
 12.3.3.4 Solve problems involving complex conjugate roots of polynomial equations with real coefficients
 ### 12.3.4 Powers and roots of complex numbers
-12.3.4.1 Using proof by mathematical induction prove de Moivre's theorem for positive integer powers: $\left( {\cos{\text{θ} + i\sin}}\text{θ} \right)^{n} = {\cos{n\text{θ} + i\sin}}{n\text{θ}}$
-12.3.4.2 Prove that $\left( {\cos{\text{θ} + i\sin}}\text{θ} \right)^{n} = {\cos{n\text{θ} + i\sin}}{n\text{θ}}$ for negative integers $n$
+12.3.4.1 Using proof by mathematical induction prove de Moivre’s theorem for positive integer powers: (cos θ + isin θ)^(n) = cos nθ + isin nθ
+12.3.4.2 Prove that (cos θ + isin θ)^(n) = cos nθ + isin nθ for negative integers n
 12.3.4.3 Use de Moivre's theorem to find any integer power of a given complex number
 12.3.4.4 Use de Moivre's theorem to derive trigonometric identities
-12.3.4.5 Determine the $n$th roots of $\pm 1$ in polar form and their location on the unit circle
-12.3.4.6 Illustrate the geometrical relationship connecting the $n$th roots of $\pm 1$
-12.3.4.7 Determine the $n$th roots of complex numbers and their location on the complex plane
+12.3.4.5 Determine the n ^(th) roots of ± 1 in polar form and their location on the unit circle
+12.3.4.6 Illustrate the geometrical relationship connecting the n ^(th) roots of ± 1
+12.3.4.7 Determine the n ^(th) roots of complex numbers and their location on the complex plane
 12.3.4.8 Recognise that a complex number can be represented as a vector, where the magnitude and direction of the vector are determined by the modulus and argument of the complex number respectively
 12.3.4.9 Examine and use addition and subtraction of complex numbers as vectors on the complex plane
 12.3.4.10 Examine and use the geometric interpretation of multiplying complex numbers, including rotation and dilation on the complex plane, with and without graphing applications
 12.3.4.11 Prove geometric results using complex numbers as vectors
-12.3.4.12 Solve problems and prove results using the $n$th roots of complex numbers
+12.3.4.12 Solve problems and prove results using the n ^(th) roots of complex numbers
 ### 12.3.5 Describing lines, curves and regions
-12.3.5.1 Graph vertical and horizontal lines of the form $Re(z) = c$ or $Im(z) = k$ where $c$ and $k$ are real constants
-12.3.5.2 Graph the line corresponding to the equation $\left| z - z_{1} \right| = \left| z - z_{2} \right|$, where $z_{1}$ and $z_{2}$ are complex numbers, and give a geometrical description of the line
-12.3.5.3 Graph the circles corresponding to the equations $|z| = r$ and $\left| z - z_{1} \right| = r$, where $z_{1}$ is a complex number and $r$ is a positive real number
-12.3.5.4 Graph rays corresponding to the equations $\arg{(z)} = \theta$ and $\arg{(z - z_{1})} = \theta$, where $z_{1}$ is a complex number
+12.3.5.1 Graph vertical and horizontal lines of the form Re(z) = c or Im(z) = k where c and k are real constants
+12.3.5.2 Graph the line corresponding to the equation |z−z₁| = |z−z₂|, where z₁ and z₂ are complex numbers, and give a geometrical description of the line
+12.3.5.3 Graph the circles corresponding to the equations |z| = r and |z−z₁| = r, where z₁ is a complex number and r is a positive real number
+12.3.5.4 Graph rays corresponding to the equations arg (z) = θ and arg (z−z₁) = θ, where z₁ is a complex number
 12.3.5.5 Graph regions associated with lines, rays and circles defined using complex numbers, giving a geometrical description of any such curves or regions, and using circle geometry theorems where necessary
 ## 12.4 Further integration
 ### 12.4.1 Further integration
 12.4.1.1 Derive the identities for trigonometric products as sums and differences for $\cos A\cos{B = \frac{1}{2}\left\lbrack \cos(A - B) + \cos(A + B) \right\rbrack}$, $\sin A\sin{B = \frac{1}{2}\left\lbrack \cos(A - B) - \cos(A + B) \right\rbrack}$, $\sin A\cos{B = \frac{1}{2}\left\lbrack {\sin{(A + B) + \sin}}(A - B) \right\rbrack}$ and $\cos A\sin{B = \frac{1}{2}\left\lbrack {\sin{(A + B) - \sin}}(A - B) \right\rbrack}$
 12.4.1.2 Use the identities for trigonometric products as sums and differences to solve problems and prove results
-12.4.1.3 Solve trigonometric equations by applying the formulas for trigonometric products as sums and differences for $\cos A\cos B$, ${\sin{A\sin}}B$ and $\sin A\cos B$ over restricted domains
-12.4.1.4 Use identities relating the trigonometric products as sums and differences to solve problems involving integrals of the form $\int\sin(mx)\cos{(nx)dx}$, $\int\sin(mx)\sin{(nx)dx}$ or $\int\cos{(mx)}\cos{(nx)dx}$
-12.4.1.5 Derive the expressions $\sin{A = \frac{2t}{1 + t^{2}}}$, $\cos{A = \frac{1 - t^{2}}{1 + t^{2}}}$ and $\tan{A = \frac{2t}{1 - t^{2}}}$ where $t = \tan\frac{A}{2}$ (the $t$-formulas) and use them to solve trigonometric equations over restricted domains
+12.4.1.3 Solve trigonometric equations by applying the formulas for trigonometric products as sums and differences for cos Acos B, sin Asin B and sin Acos B over restricted domains
+12.4.1.4 Use identities relating the trigonometric products as sums and differences to solve problems involving integrals of the form ∫sin (mx)cos (nx)dx, ∫sin (mx)sin (nx)dx or ∫cos (mx)cos (nx)dx
+12.4.1.5 Derive the expressions $\sin{A = \frac{2t}{1 + t^{2}}}$, $\cos{A = \frac{1 - t^{2}}{1 + t^{2}}}$ and $\tan{A = \frac{2t}{1 - t^{2}}}$ where $t = \tan\frac{A}{2}$ (the t -formulas) and use them to solve trigonometric equations over restricted domains
 12.4.1.6 Find indefinite integrals and evaluate definite integrals using the method of integration by substitution, where the substitution may or may not be given
 12.4.1.7 Decompose rational functions whose denominators can be expressed as a product of distinct linear factors, distinct irreducible quadratic factors and perfect square factors into partial fractions
 12.4.1.8 Integrate rational functions whose denominators can be expressed as a product of distinct linear factors, distinct irreducible quadratic factors and perfect square factors, using partial fraction decomposition
@@ -131,38 +131,38 @@
 12.4.1.16 Solve practical problems involving multiple techniques of integration
 ## 12.5 Applications of calculus to mechanics
 ### 12.5.1 Forces and further motion in a straight line
-12.5.1.1 Derive expressions for acceleration: $\frac{dv}{dt}$, where $v$ is a function of $t$, as well as $v\frac{dv}{dx}$ and $\frac{d}{dx}\left( \frac{1}{2}v^{2} \right)$, where $v$ is a function of $x$
+12.5.1.1 Derive expressions for acceleration: $\frac{dv}{dt}$, where v is a function of t, as well as $v\frac{dv}{dx}$ and $\frac{d}{dx}\left(\frac{1}{2}v^{2} \right)$, where v is a function of x
 12.5.1.2 Solve problems involving velocity and acceleration expressed in terms of displacement, and acceleration expressed in terms of velocity
 12.5.1.3 Examine Newton's three laws of motion, including force, acceleration, action and reaction under a constant and non-constant force
-12.5.1.4 Find acceleration, $\overset{¨}{x}$, using the formula $F = m\overset{¨}{x}$, where $F$ is the force acting on a mass, $m$
+12.5.1.4 Find acceleration, $\overset{¨}{x}$, using the formula $F = m\overset{¨}{x}$, where F is the force acting on a mass, m
 12.5.1.5 Recognise that forces are vector quantities, analyse concurrent forces on a body by resolving them into perpendicular components and use vector projections to determine how much of a given force acts in a given direction in both 2D and 3D contexts
 ### 12.5.2 Simple harmonic motion
-12.5.2.1 Define simple harmonic motion as motion in which acceleration is proportional to, and in the opposite direction to, displacement, that is $\overset{¨}{x} = - n^{2}(x - c)$, where $x - c$ is the displacement of a particle from the centre of motion at $c$ and $\overset{¨}{x}$ is the acceleration
-12.5.2.2 Recognise that the force $F(x)$ acting on a body of mass, $m$, executing simple harmonic motion according to the equation $\overset{¨}{x} = {- n}^{2}(x - c)$, is a restoring force which acts towards the centre of motion causing the body to oscillate around the centre of motion
-12.5.2.3 Verify that $x = A\sin(nt + \alpha) + c$ is a solution to the differential equation for simple harmonic motion, equivalently expressed as $x = A\cos{(nt + \beta) + c}$, or $x = C{\sin{(nt) + D\cos}}{(nt) + c}$
+12.5.2.1 Define simple harmonic motion as motion in which acceleration is proportional to, and in the opposite direction to, displacement, that is $\overset{¨}{x} = - n^{2}(x - c)$, where x − c is the displacement of a particle from the centre of motion at c and $\overset{¨}{x}$ is the acceleration
+12.5.2.2 Recognise that the force F(x) acting on a body of mass, m, executing simple harmonic motion according to the equation $\overset{¨}{x} = {- n}^{2}(x - c)$, is a restoring force which acts towards the centre of motion causing the body to oscillate around the centre of motion
+12.5.2.3 Verify that x = Asin (nt+α) + c is a solution to the differential equation for simple harmonic motion, equivalently expressed as x = Acos (nt+β) + c, or x = Csin (nt) + Dcos (nt) + c
 12.5.2.4 Describe simple harmonic motion using displacement, velocity, acceleration, force, amplitude and period
 12.5.2.5 Prove that motion is simple harmonic by obtaining an equation of the form $\overset{¨}{x} = - n^{2}(x - c)$, when given an equation for acceleration, velocity or displacement
-12.5.2.6 Graph $x$, $\ \overset{˙}{x}$ and $\overset{¨}{x}$ as functions of $t$ with and without graphing applications for a particle moving in simple harmonic motion where $x$ is of the form $x = A\cos{(nt + \alpha) + c}$ or $x = A\sin(nt + \alpha) + c$
+12.5.2.6 Graph x, $\ \overset{˙}{x}$ and $\overset{¨}{x}$ as functions of t with and without graphing applications for a particle moving in simple harmonic motion where x is of the form x = Acos (nt+α) + c or x = Asin (nt+α) + c
 12.5.2.7 Determine equations for simple harmonic motion when given graphs of acceleration, velocity or displacement in terms of time
-12.5.2.8 Derive $v^{2} = n^{2}\left\lbrack A^{2} - (x - c)^{2} \right\rbrack$ for a particle moving in simple harmonic motion according to $\overset{¨}{x} = {- n}^{2}(x - c)$, where $A$ is the amplitude
-12.5.2.9 Determine equations for the displacement, $x$, and velocity, $v$, in terms of time for an object executing simple harmonic motion according to a given equation $\overset{¨}{x} = {- n}^{2}(x - c)$ and satisfying given initial conditions
+12.5.2.8 Derive v² = n²[A²−(x−c)²] for a particle moving in simple harmonic motion according to $\overset{¨}{x} = {- n}^{2}(x - c)$, where A is the amplitude
+12.5.2.9 Determine equations for the displacement, x, and velocity, v, in terms of time for an object executing simple harmonic motion according to a given equation $\overset{¨}{x} = {- n}^{2}(x - c)$ and satisfying given initial conditions
 12.5.2.10 Model and solve problems involving simple harmonic motion using relevant formulas and graphs
 ### 12.5.3 Modelling motion without resistance
 12.5.3.1 Derive the equations of motion for a particle travelling, without resistance, in a straight line with constant and variable acceleration and use the equations of motion to solve problems
 12.5.3.2 Analyse and solve problems relating to motion on a smooth inclined plane by resolving forces into components
 12.5.3.3 Solve motion problems involving a single smooth pulley and a smooth inclined plane where a body hangs vertically or lies on a smooth horizontal or inclined plane
 ### 12.5.4 Rectilinear resisted motion
-12.5.4.1 Derive, from Newton's laws of motion, $\sum F = m\overset{¨}{x}$, the equation for acceleration of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed
+12.5.4.1 Derive, from Newton’s laws of motion, $\sum F = m\overset{¨}{x}$, the equation for acceleration of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed
 12.5.4.2 Derive an expression for velocity as a function of time of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed
 12.5.4.3 Derive an expression for velocity as a function of displacement of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed
 12.5.4.4 Derive an expression for displacement as a function of time of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed
 12.5.4.5 Solve problems, excluding those with pulley systems, involving a particle moving in a straight line subject to a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed
 ### 12.5.5 Vertical resisted motion
-12.5.5.1 Derive, from Newton's laws of motion, $\sum F = m\overset{¨}{x}$, the equation for acceleration of a particle moving vertically (upwards or downwards) in a resistive medium and under the influence of constant gravity, where the particle experiences a resistance, $R$, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed
-12.5.5.2 Derive expressions for velocity both as a function of time and of displacement for vertical resisted motion under the influence of constant gravity, with a resistance, $R$, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed
-12.5.5.3 Derive an expression for displacement as a function of time for vertical resisted motion under the influence of constant gravity, with a resistance, $R$, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed
+12.5.5.1 Derive, from Newton’s laws of motion, $\sum F = m\overset{¨}{x}$, the equation for acceleration of a particle moving vertically (upwards or downwards) in a resistive medium and under the influence of constant gravity, where the particle experiences a resistance, R, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed
+12.5.5.2 Derive expressions for velocity both as a function of time and of displacement for vertical resisted motion under the influence of constant gravity, with a resistance, R, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed
+12.5.5.3 Derive an expression for displacement as a function of time for vertical resisted motion under the influence of constant gravity, with a resistance, R, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed
 12.5.5.4 Define the terminal velocity of a particle falling through a medium as the constant velocity the particle reaches when the resistance of the medium prevents further acceleration
-12.5.5.5 Determine the terminal velocity of a falling particle from its equation of motion for vertical resisted motion under the influence of constant gravity, with a resistance, $R$, oppositely directed to the motion, and whose magnitude is proportional to the first or second power of the speed
+12.5.5.5 Determine the terminal velocity of a falling particle from its equation of motion for vertical resisted motion under the influence of constant gravity, with a resistance, R, oppositely directed to the motion, and whose magnitude is proportional to the first or second power of the speed
 12.5.5.6 Solve vertical resisted motion problems using the expressions derived for acceleration, velocity and displacement, including finding the maximum height reached by a particle projected vertically upwards and the time taken to reach this maximum height, and finding the time taken for a particle to return to the level from which it was projected and its terminal velocity
 ### 12.5.6 Projectiles and resisted motion
 12.5.6.1 Distinguish between the shape of the trajectory of a projectile moving under the influence of gravity and with negligible resistance and the shape of the trajectory of a projectile moving under the influence of gravity subject to resistance whose magnitude is proportional to the speed

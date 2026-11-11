@@ -34,6 +34,10 @@ and pick another: `python3 scripts/thsc.py mark <course> "<title>" skipped "<rea
 
 Look at every page image in `work/<paper-id>/` (p01.png …). `text.txt` is the text layer — useful for
 copying words, but the maths in it is usually garbled, so always check against the image.
+`python3 scripts/pages.py images work/<paper-id>.pdf` lists the bounding boxes (in %) of embedded pictures —
+usually the diagrams — which can be passed straight to `pages.py crop`.
+Handwritten/scanned solutions have no usable text layer: render them small and in pairs to read them
+(`pdftoppm -r 62 -gray …`, then paste two pages side by side).
 
 ## 3. Write `data/papers/<course>/<paper-id>.json`
 
@@ -46,10 +50,15 @@ Schema is documented at the top of `scripts/build.py`. Rules:
 - `ref` is the original reference exactly as in the paper (`Q3`, `Q12(c)(ii)`).
 - `marks` from the paper. `kind`: `mc` (with exactly 4 `options` and `correct`) or `written`.
 
+**Tip:** write the paper as a small Python script in `work/` (gitignored) that builds the JSON from raw strings
+(`r"""…"""`) — this avoids doubling every LaTeX backslash. See the shape used in `data/papers/*/*.json`.
+
 **Maths and text.**
 - Markdown with LaTeX: `$…$` inline, `$$…$$` display. Use `\dfrac` sparingly, `\mathbf{r}` / `\overrightarrow{AB}` for vectors,
   `\ddot{x}`, `\displaystyle\int`. Tables as Markdown tables.
-- Never put `$` for money inside maths text — write `\$` (e.g. `\$500`).
+- Money: write `\$` (e.g. `\$500`), both in text and inside maths.
+- MC options that are graphs: crop each option and use Markdown images as the option text,
+  e.g. `"![Graph A](assets/img/<id>/q2a.png)"`.
 - Diagrams/graphs: crop them from the PDF and reference in `images`:
   `python3 scripts/pages.py crop work/<id>.pdf <page> <x0> <y0> <x1> <y1> assets/img/<id>/<ref-slug>.png`
   (coordinates are percentages of the page, read off the grid in the rendered PNGs). Look at the crop to confirm it
@@ -62,14 +71,22 @@ Schema is documented at the top of `scripts/build.py`. Rules:
 solution yourself and check it against the paper's final answer. For MC give `correct` plus a one-to-three-line reason.
 
 **Syllabus tagging.** Use `data/syllabus/<course>.txt` (NESA 11–12 **2024** syllabus; ids like `12.3.4.2` = Year.Topic.Subtopic.Dotpoint).
-- `dotpoints`: 1–3 ids, most relevant first (the first decides where it is listed).
+- `dotpoints`: 1–3 ids, most relevant first (the first decides where it is listed). All ids must come from the
+  syllabus of the question's own `course` (build.py rejects cross-course ids).
 - Questions examining only content from a lower course (e.g. an Ext 2 paper question that is purely Ext 1 content)
   set `"course"` to that course and use its dot points; Advanced content in an Ext 1 paper → `"course": "advanced"`.
+- Content that the 2024 syllabus moved to a **higher** course goes on that course's page instead of being dropped
+  (set `"course"`). Seen so far: t-formulas and products-to-sums identities (Ext 1 → Ext 2 12.4.1),
+  3D trigonometry/bearings in 3D (Advanced → Ext 1 11.3.1).
 - **Out of syllabus → drop.** Past papers follow the 2017 syllabus. If a part needs content that is not in the 2024
   syllabus for any of the three courses, do not include it; add `{"ref": "...", "reason": "Not in 2024 syllabus: …"}` to `dropped`.
-  Known differences: Ext 2 has no exponential/Euler form ($re^{i\theta}$) — keep a question only if converting notation to
-  polar form leaves it unchanged in substance, otherwise drop. If a later part depends on a dropped part, either make it
-  self-contained (state the needed result) or drop it too.
+  Known removals (drop): Ext 2 exponential/Euler form ($re^{i\theta}$) — keep only if switching notation to polar form
+  leaves the question unchanged in substance; Ext 1 pigeonhole principle, graphs of $y^2 = f(x)$, normal approximation to
+  the binomial, sample proportions; Advanced bivariate data (scatter plots, correlation, regression), Pareto charts,
+  box plots/IQR/outliers, mean and standard deviation of datasets. Also drop parts that only ask to label or complete a
+  printed diagram. If a later part depends on a dropped part, make it self-contained (state the needed result) or drop it.
+- Check the paper's solutions: if one is wrong (it happens — e.g. sine-rule ambiguous case), give the correct working
+  and add a one-line note saying where the paper's answer differs.
 
 **Difficulty 1–5** (judge the thinking required, not just marks):
 1 = routine single step/recall · 2 = standard technique, few steps · 3 = multi-step standard problem ·

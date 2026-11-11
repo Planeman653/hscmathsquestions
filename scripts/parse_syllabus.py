@@ -15,6 +15,29 @@ def clean(s):
     s = re.sub(r"\^(\w+)\^", r"\1", s)                     # pandoc superscript ^th^
     return re.sub(r"\s+", " ", s).strip()
 
+def plain_items(docx):
+    """Bullet items from pandoc's plain-text output (simple maths as Unicode, complex maths as $$TeX$$)."""
+    txt = subprocess.run(["pandoc", docx, "-t", "plain", "--wrap=none"], capture_output=True, text=True).stdout
+    items, cur = [], None
+    for line in txt.splitlines():
+        if line.startswith("-   "):
+            cur = [line[4:]]
+            items.append(cur)
+        elif cur is not None and line.startswith("    "):
+            cur.append(line.strip())
+        elif cur is not None and not line.strip():
+            continue
+        else:
+            cur = None
+    out = []
+    for it in items:
+        t = re.sub(r"\s+", " ", " ".join(it))
+        t = re.sub(r"\$\$(.+?)\$\$", lambda m: "$" + m.group(1).strip().rstrip("\\").strip() + "$", t)
+        t = re.sub(r"\s+([,.;:)])", r"\1", t).replace("( ", "(")
+        out.append(t.strip())
+    return out
+
+
 def heading(line):
     m = re.match(r"^(#{2,5})\s+(.*)$", line)
     if not m: return None
@@ -23,8 +46,13 @@ def heading(line):
 def main(docx, cid, cname, out):
     md = subprocess.run(["pandoc", docx, "-t", "markdown", "--wrap=none"],
                         capture_output=True, text=True).stdout.splitlines()
+    plain = plain_items(docx)
     years, year, topic, sub, in_content = [], None, None, None, False
+    bullet = -1
+    use_plain = False
     for raw in md:
+        if raw.startswith("-   "):
+            bullet += 1
         h = heading(raw)
         if h:
             lvl, txt = h
@@ -44,8 +72,11 @@ def main(docx, cid, cname, out):
         if year and topic and in_content and raw.startswith("-   "):
             if sub is None:
                 sub = {"name": topic["name"], "dotpoints": []}; topic["subtopics"].append(sub)
-            sub["dotpoints"].append(clean(raw[4:]))
-        elif year and topic and in_content and raw.startswith("    ") and sub and sub["dotpoints"]:
+            md_text = clean(raw[4:])
+            p_text = plain[bullet] if bullet < len(plain) else md_text
+            use_plain = p_text[:25] == md_text[:25] or "$" in md_text
+            sub["dotpoints"].append(p_text if use_plain else md_text)
+        elif year and topic and in_content and raw.startswith("    ") and sub and sub["dotpoints"] and not use_plain:
             sub["dotpoints"][-1] += " " + clean(raw)   # wrapped/nested text
     # assign ids
     for y in years:

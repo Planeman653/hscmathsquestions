@@ -31,16 +31,17 @@
   /* ---------------- markdown + maths ---------------- */
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   function tex(src, display) {
+    src = src.replace(/\u0003/g, "\\$");
     try { return katex.renderToString(src, { displayMode: display, throwOnError: false, strict: "ignore" }); }
     catch (e) { return "<code>" + esc(src) + "</code>"; }
   }
   function md(text, inline) {
     if (!text) return "";
     const maths = [];
-    const t = String(text).replace(/\$\$([\s\S]+?)\$\$|\\\[([\s\S]+?)\\\]|\$((?:\\\$|[^$\n])+?)\$|\\\(([\s\S]+?)\\\)/g,
+    const t = String(text).replace(/\\\$/g, "\u0003").replace(/\$\$([\s\S]+?)\$\$|\\\[([\s\S]+?)\\\]|\$([^$]+?)\$|\\\(([\s\S]+?)\\\)/g,
       (m, a, b, c, d) => { maths.push([a ?? b ?? c ?? d, a != null || b != null]); return "\u0001" + (maths.length - 1) + "\u0002"; });
     let html = inline ? marked.parseInline(t) : marked.parse(t);
-    return html.replace(/\u0001(\d+)\u0002/g, (m, i) => tex(maths[+i][0], maths[+i][1]));
+    return html.replace(/\u0001(\d+)\u0002/g, (m, i) => tex(maths[+i][0], maths[+i][1])).replace(/\u0003/g, "$");
   }
 
   /* ---------------- data ---------------- */
@@ -162,7 +163,7 @@
   function qHtml(q, num) {
     const p = q._paper;
     const opts = q.kind === "mc" && q.options ? (() => {
-      const short = q.options.every((o) => o.replace(/\$[^$]*\$/g, "xxxx").length < 38);
+      const short = q.options.every((o) => o.includes("![") || o.replace(/\$[^$]*\$/g, "xxxx").length < 38);
       return `<div class="opts ${short ? "short" : ""}">${q.options.map((o, i) => {
         const L = "ABCD"[i];
         return `<div class="${(S.showAnswers || S.opened.has(q.id)) && q.correct === L ? "correct" : ""}"><b>(${L})</b><span>${md(o, true)}</span></div>`;
@@ -265,7 +266,7 @@
     const total = qs.reduce((a, q) => a + q.marks, 0);
     let h = `<h1>${esc(title)}</h1><div class="p-sub">${esc(COURSE_NAME)} · ${qs.length} questions · ${total} marks</div>`;
     qs.forEach((q, i) => {
-      const opts = q.kind === "mc" ? `<div class="opts ${q.options.every((o) => o.length < 38) ? "short" : ""}">${q.options.map((o, k) => `<div><b>(${"ABCD"[k]})</b><span>${md(o, true)}</span></div>`).join("")}</div>` : "";
+      const opts = q.kind === "mc" ? `<div class="opts ${q.options.every((o) => o.includes("![") || o.length < 38) ? "short" : ""}">${q.options.map((o, k) => `<div><b>(${"ABCD"[k]})</b><span>${md(o, true)}</span></div>`).join("")}</div>` : "";
       const imgs = (q.images || []).map((s) => `<img src="${esc(s)}">`).join("");
       const ans = `<div class="ans"><div class="ans-label">${q._paper.answers === "short" ? "Answer" : "Solution"}${q.kind === "mc" && q.correct ? " — " + q.correct : ""}</div><div class="ans-body">${md(q.answer)}${(q.answer_images || []).map((s) => `<img src="${esc(s)}">`).join("")}</div></div>`;
       h += `<div class="pq"><div class="pq-head">Question ${i + 1} <span>(${q.marks} mark${q.marks === 1 ? "" : "s"})</span></div><div class="q-body">${md(q.question)}${imgs}</div>${opts}`

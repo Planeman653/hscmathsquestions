@@ -14,7 +14,7 @@
        "dotpoints": [
         {
          "id": "12.1.1.1",
-         "text": "Use the formal language of proof, including the terms 'statement', 'proposition', 'implication', 'converse', 'negation', 'contradiction', 'counterexample', 'equivalence' and 'contrapositive'"
+         "text": "Use the formal language of proof, including the terms ‘statement’, ‘proposition’, ‘implication’, ‘converse’, ‘negation’, ‘contradiction’, ‘counterexample’, ‘equivalence’ and ‘contrapositive’"
         },
         {
          "id": "12.1.1.2",
@@ -22,27 +22,27 @@
         },
         {
          "id": "12.1.1.3",
-         "text": "Use the notation $P \\land Q$ to represent the statement '$P\\ \\text{and }Q$' and the notation $P \\vee Q$ to represent the statement '$P\\text{ or }Q$'"
+         "text": "Use the notation P ∧ Q to represent the statement ‘ P and Q ’ and the notation P ∨ Q to represent the statement ‘ P or Q ’"
         },
         {
          "id": "12.1.1.4",
-         "text": "Define and use the negation of $P$ as 'not $P$', denoted $\\neg P$ or $\\sim P$"
+         "text": "Define and use the negation of P as ‘not P ’, denoted ¬P or ∼ P"
         },
         {
          "id": "12.1.1.5",
-         "text": "Define an implication as an 'if–then' statement, where 'if $P$ then $Q$' is denoted $P \\Rightarrow Q$ or $P \\rightarrow Q$, read as '$P$ implies $Q$'"
+         "text": "Define an implication as an ‘if–then’ statement, where ‘if P then Q ’ is denoted P ⇒ Q or P → Q, read as ‘ P implies Q ’"
         },
         {
          "id": "12.1.1.6",
-         "text": "Use the quantifiers 'for all' $(\\forall)$, and 'there exists' $(\\exists)$ in formulating statements"
+         "text": "Use the quantifiers ‘for all’ (∀), and ‘there exists’ (∃) in formulating statements"
         },
         {
          "id": "12.1.1.7",
-         "text": "Negate statements including the negation of a negation $\\neg(\\neg P) = P$, the negation of an implication $\\neg(P \\Rightarrow Q) = \\left( P\\ \\text{and ¬}Q \\right) = \\left( P\\ \\land \\text{ ¬}Q \\right)$, the negation $\\neg(P\\ and\\ Q) = (\\neg P\\ or\\ \\neg Q)$, that is $\\neg(P\\ \\land \\ Q) = (\\neg P\\ \\vee \\ \\neg Q)$, and the negation $\\neg\\left( P\\ \\text{or} Q \\right) = (\\neg P\\ and\\ \\neg Q)$, that is $\\neg\\left( P\\ \\vee Q \\right) = (\\neg P\\ \\land \\ \\neg Q)$, noting that $P \\Rightarrow Q = \\neg\\left( P\\ \\text{and ¬}Q \\right) = (\\neg P\\ \\text{or }Q)$, that is $P \\Rightarrow Q = \\neg\\left( P\\ \\land \\text{ ¬}Q \\right) = (\\neg P\\ \\vee Q)$"
+         "text": "Negate statements including the negation of a negation ¬(¬P) = P, the negation of an implication ¬(P⇒Q) = (P and ¬Q) = (P ∧ ¬Q), the negation ¬(P and Q) = (¬P or ¬Q), that is ¬(P ∧ Q) = (¬P ∨ ¬Q), and the negation ¬(P or Q) = (¬P and ¬Q), that is ¬(P ∨ Q) = (¬P ∧ ¬Q), noting that P ⇒ Q = ¬(P and ¬Q) = (¬P or Q), that is P ⇒ Q = ¬(P ∧ ¬Q) = (¬P ∨ Q)"
         },
         {
          "id": "12.1.1.8",
-         "text": "Define and use the converse of 'if $P$ then $Q$' as 'if $Q$ then $P$', denoted $Q \\Rightarrow P$"
+         "text": "Define and use the converse of ‘if P then Q ’ as ‘if Q then P ’, denoted Q ⇒ P"
         },
         {
          "id": "12.1.1.9",
@@ -50,15 +50,15 @@
         },
         {
          "id": "12.1.1.10",
-         "text": "Define equivalence of $P$ and $Q$, as both $P \\Rightarrow Q$ and $Q \\Rightarrow P$, denoted $P \\Longleftrightarrow Q$ or $P \\leftrightarrow Q$, read as '$P$ if and only if $Q$', commonly abbreviated '$P$ iff $Q$'"
+         "text": "Define equivalence of P and Q, as both P ⇒ Q and Q ⇒ P, denoted P ⇔ Q or P ↔ Q, read as ‘ P if and only if Q ’, commonly abbreviated ‘ P iff Q ’"
         },
         {
          "id": "12.1.1.11",
-         "text": "Define the contrapositive of 'if $P$ then $Q$' as 'if not $Q$ then not $P$', denoted $\\neg Q \\Rightarrow \\neg P$"
+         "text": "Define the contrapositive of ‘if P then Q ’ as ‘if not Q then not P ’, denoted ¬Q ⇒ ¬P"
         },
         {
          "id": "12.1.1.12",
-         "text": "Recognise that an implication is equivalent to its contrapositive, that is $(P \\Rightarrow Q) \\Longleftrightarrow (\\neg Q \\Rightarrow \\neg P)$, and use this to prove results"
+         "text": "Recognise that an implication is equivalent to its contrapositive, that is (P⇒Q) ⇔ (¬Q⇒¬P), and use this to prove results"
         }
        ],
        "id": "12.1.1"
@@ -86,19 +86,19 @@
        "dotpoints": [
         {
          "id": "12.1.3.1",
-         "text": "Prove results involving inequalities using the definition of $a > b$ for real $a$ and $b$, that is $a > b$ if and only if $a\\ –\\ b > 0$"
+         "text": "Prove results involving inequalities using the definition of a > b for real a and b, that is a > b if and only if a – b > 0"
         },
         {
          "id": "12.1.3.2",
-         "text": "Prove results involving inequalities using the property that squares of real numbers are non-negative, in particular $(a \\pm b)^{2} \\geq 0$"
+         "text": "Prove results involving inequalities using the property that squares of real numbers are non-negative, in particular (a±b)² ≥ 0"
         },
         {
          "id": "12.1.3.3",
-         "text": "Prove and use results for numbers: if $a > b$ then $a \\pm c > b \\pm c$; if $a > b > 0$ then $\\frac{1}{b} > \\frac{1}{a} > 0 and vice versa; if $|a| > |b|$ then $a^{2} > b^{2}$ and vice versa; if $a > b$ and $b > c$ then $a > c$; if $a > b$ and $c > d$ then $a + c > b + d$; if $a > b$ and $c > 0$ then $ac > bc$; if $a > b$ and $c < 0$ then $ac < bc$"
+         "text": "Prove and use results for numbers: if a > b then a ± c > b ± c; if a > b > 0 then $\\frac{1}{b} > \\frac{1}{a} > 0$ and vice versa; if |a| > |b| then a² > b² and vice versa; if a > b and b > c then a > c; if a > b and c > d then a + c > b + d; if a > b and c > 0 then ac > bc; if a > b and c < 0 then ac < bc"
         },
         {
          "id": "12.1.3.4",
-         "text": "Prove and use the triangle inequality $|a + b| \\leq |a| + |b|$ and interpret the inequality geometrically"
+         "text": "Prove and use the triangle inequality |a+b| ≤ |a| + |b| and interpret the inequality geometrically"
         },
         {
          "id": "12.1.3.5",
@@ -114,7 +114,7 @@
         },
         {
          "id": "12.1.3.8",
-         "text": "Prove results using the squeeze theorem: if $f(x) \\leq g(x) \\leq h(x)$ for all $x$ that are near $k$, but not necessarily at $k$, and $\\lim_{x \\rightarrow k}{f(x)} = \\lim_{x \\rightarrow k}{h(x)} = L$, then $\\lim_{x \\rightarrow k}{g(x)} = L$"
+         "text": "Prove results using the squeeze theorem: if f(x) ≤ g(x) ≤ h(x) for all x that are near k, but not necessarily at k, and lim_(x → k)f(x) = lim_(x → k)h(x) = L, then lim_(x → k)g(x) = L"
         },
         {
          "id": "12.1.3.9",
@@ -164,23 +164,23 @@
        "dotpoints": [
         {
          "id": "12.2.1.1",
-         "text": "Define the direction vector of a straight line and identify that a straight line through two points $P$ and $Q$ has $\\overrightarrow{PQ}$ as a possible direction vector in both two dimensions and three dimensions"
+         "text": "Define the direction vector of a straight line and identify that a straight line through two points P and Q has $\\overrightarrow{PQ}$ as a possible direction vector in both two dimensions and three dimensions"
         },
         {
          "id": "12.2.1.2",
-         "text": "Establish the relationship between the gradient, $m$, of a straight line in two dimensions and its direction vector"
+         "text": "Establish the relationship between the gradient, m, of a straight line in two dimensions and its direction vector"
         },
         {
          "id": "12.2.1.3",
-         "text": "Examine and use $\\mathbf{r} = \\mathbf{a} + \\lambda\\mathbf{b}$ as the vector equation of a straight line in two dimensions and three dimensions to solve problems, where $\\mathbf{r}$ is the position vector of a point on the line, $\\mathbf{a}$ is the position vector of a particular point on the line, $\\mathbf{b}$ is a direction vector of the line and $\\lambda$ is a scalar parameter"
+         "text": "Examine and use r = a + λb as the vector equation of a straight line in two dimensions and three dimensions to solve problems, where r is the position vector of a point on the line, a is the position vector of a particular point on the line, b is a direction vector of the line and λ is a scalar parameter"
         },
         {
          "id": "12.2.1.4",
-         "text": "Identify $\\mathbf{r} = \\mathbf{p} + \\lambda\\left( \\mathbf{q} - \\mathbf{p} \\right)$ as one possible vector equation for the straight line through points $P$ and $Q$, where $\\mathbf{p}$ and $\\mathbf{q}$ are the position vectors of $P$ and $Q$ respectively, noting its equivalence with the form $\\mathbf{r} = \\lambda\\mathbf{q} + (1 - \\lambda)\\mathbf{p}$, and establish the correspondence between the value of $\\lambda$ and the position of the point specified by it along the line"
+         "text": "Identify r = p + λ(q−p) as one possible vector equation for the straight line through points P and Q, where p and q are the position vectors of P and Q respectively, noting its equivalence with the form r = λq + (1−λ)p, and establish the correspondence between the value of λ and the position of the point specified by it along the line"
         },
         {
          "id": "12.2.1.5",
-         "text": "Express a line in two dimensions given in gradient–intercept form ($y = mx + c$) as a vector equation, and vice versa"
+         "text": "Express a line in two dimensions given in gradient–intercept form (y = mx + c) as a vector equation, and vice versa"
         },
         {
          "id": "12.2.1.6",
@@ -200,7 +200,7 @@
         },
         {
          "id": "12.2.1.10",
-         "text": "Determine whether two distinct lines $\\mathbf{r}_{\\mathbf{1}} = \\mathbf{a}_{\\mathbf{1}} + \\lambda_{1}\\mathbf{b}_{\\mathbf{1}}$ and $\\mathbf{r}_{\\mathbf{2}} = \\mathbf{a}_{\\mathbf{2}} + \\lambda_{2}\\mathbf{b}_{\\mathbf{2}}$ in three dimensions intersect, and if so, find the unique value of either $\\lambda_{1}$ or $\\lambda_{2}$ corresponding to the point of intersection and determine its coordinates"
+         "text": "Determine whether two distinct lines r¹ = a¹ + λ₁b¹ and r² = a² + λ₂b² in three dimensions intersect, and if so, find the unique value of either λ₁ or λ₂ corresponding to the point of intersection and determine its coordinates"
         },
         {
          "id": "12.2.1.11",
@@ -208,7 +208,7 @@
         },
         {
          "id": "12.2.1.12",
-         "text": "Recognise that a parametrically defined curve in two dimensions or three dimensions can be expressed as a vector equation: $$\\mathbf{r}\\mathbf{=}\\begin{pmatrix} x(t) \\\\ y(t) \\end{pmatrix}$or$\\mathbf{r}\\mathbf{=}\\begin{pmatrix} x(t) \\\\ y(t) \\\\ z(t) \\end{pmatrix}$, where$t$$ is a parameter"
+         "text": "Recognise that a parametrically defined curve in two dimensions or three dimensions can be expressed as a vector equation: $\\mathbf{r}\\mathbf{=}\\begin{pmatrix} x(t) \\\\ y(t) \\end{pmatrix}$ or $\\mathbf{r}\\mathbf{=}\\begin{pmatrix} x(t) \\\\ y(t) \\\\ z(t) \\end{pmatrix}$, where t is a parameter"
         },
         {
          "id": "12.2.1.13",
@@ -220,15 +220,15 @@
         },
         {
          "id": "12.2.1.15",
-         "text": "Recognise $\\mathbf{r} = r\\cos(\\theta)\\mathbf{i} + r\\sin{(\\theta)}\\mathbf{j}$ and $\\left| \\mathbf{r} \\right| = r$ as vector equations of a circle in two dimensions with radius $r$ centred at the origin"
+         "text": "Recognise r = rcos (θ)i + rsin (θ)j and |r| = r as vector equations of a circle in two dimensions with radius r centred at the origin"
         },
         {
          "id": "12.2.1.16",
-         "text": "Recognise $\\mathbf{r} = \\left( r\\cos(\\theta) + x_{C} \\right)\\mathbf{i} + \\left( r\\sin{(\\theta)} + y_{C} \\right)\\mathbf{j}\\mathbf{\\ }$and $\\left| \\mathbf{r} - \\mathbf{c} \\right| = r$ as vector equations of a circle in two dimensions with radius $r$ and centre $C$ with position vector $$\\mathbf{c} = \\begin{pmatrix} x_{C} \\\\ y_{C} \\end{pmatrix}$$"
+         "text": "Recognise r = (rcos(θ)+x_(C))i + (rsin(θ)+y_(C))j and |r−c| = r as vector equations of a circle in two dimensions with radius r and centre C with position vector $\\mathbf{c} = \\begin{pmatrix} x_{C} \\\\ y_{C} \\end{pmatrix}$"
         },
         {
          "id": "12.2.1.17",
-         "text": "Recognise $\\left| \\mathbf{r} - \\mathbf{c} \\right| = r$ as the vector equation of a sphere in three dimensions with radius $r$ and centre $C$ with position vector $\\mathbf{c}$"
+         "text": "Recognise |r−c| = r as the vector equation of a sphere in three dimensions with radius r and centre C with position vector c"
         },
         {
          "id": "12.2.1.18",
@@ -246,15 +246,15 @@
        "dotpoints": [
         {
          "id": "12.2.2.1",
-         "text": "Examine and use properties of the scalar (dot) product, including commutativity ($\\mathbf{a} \\cdot \\mathbf{b} = \\mathbf{b} \\cdot \\mathbf{a}$), distributivity $(\\mathbf{a} \\cdot \\left( \\mathbf{b} + \\mathbf{c} \\right) = \\mathbf{a} \\cdot \\mathbf{b} + \\mathbf{a} \\cdot \\mathbf{c}$) and scalar multiplication ($k\\left( \\mathbf{a} \\cdot \\mathbf{b} \\right) = \\left( k\\mathbf{a} \\right) \\cdot \\mathbf{b} = \\mathbf{a} \\cdot \\left( k\\mathbf{b} \\right)$)"
+         "text": "Examine and use properties of the scalar (dot) product, including commutativity (a ⋅ b = b ⋅ a), distributivity (a ⋅ (b+c) = a ⋅ b + a ⋅ c) and scalar multiplication (k(a⋅b) = (ka) ⋅ b = a ⋅ (kb))"
         },
         {
          "id": "12.2.2.2",
-         "text": "Establish and use the results $\\mathbf{i} \\cdot \\mathbf{i} = \\mathbf{j} \\cdot \\mathbf{j} = \\mathbf{k} \\cdot \\mathbf{k} = 1$ and $\\mathbf{i} \\cdot \\mathbf{j} = \\mathbf{j} \\cdot \\mathbf{k} = \\mathbf{k} \\cdot \\mathbf{i} = 0$"
+         "text": "Establish and use the results i ⋅ i = j ⋅ j = k ⋅ k = 1 and i ⋅ j = j ⋅ k = k ⋅ i = 0"
         },
         {
          "id": "12.2.2.3",
-         "text": "Prove and use the Cauchy–Schwarz inequality for vectors: $\\left| \\mathbf{a} \\cdot \\mathbf{b} \\right| \\leq \\left| \\mathbf{a} \\right|\\left| \\mathbf{b} \\right|$"
+         "text": "Prove and use the Cauchy–Schwarz inequality for vectors: |a⋅b| ≤ |a||b|"
         },
         {
          "id": "12.2.2.4",
@@ -278,35 +278,35 @@
        "dotpoints": [
         {
          "id": "12.3.1.1",
-         "text": "Define the number $i$ by $i^{2} = - 1$"
+         "text": "Define the number i by i² = − 1"
         },
         {
          "id": "12.3.1.2",
-         "text": "Use the number $i$ to solve quadratic equations of the form $x^{2} + k = 0$ where $k$ is a positive real number"
+         "text": "Use the number i to solve quadratic equations of the form x² + k = 0 where k is a positive real number"
         },
         {
          "id": "12.3.1.3",
-         "text": "Define the complex numbers ($\\mathbb{C}$) as the set of numbers of the form $a + ib$, where $a$ and $b$ are real numbers"
+         "text": "Define the complex numbers (ℂ) as the set of numbers of the form a + ib, where a and b are real numbers"
         },
         {
          "id": "12.3.1.4",
-         "text": "Use complex numbers to express the roots of quadratic equations of the form ${ax}^{2} + \\ bx + \\ c\\ = 0$, where $a$, $b$ and $c$ are real numbers and the discriminant $\\mathrm{\\Delta}\\ = b^{2}–4ac < 0"
+         "text": "Use complex numbers to express the roots of quadratic equations of the form ax²+ bx+ c = 0, where a, b and c are real numbers and the discriminant Δ = b²–4ac < 0"
         },
         {
          "id": "12.3.1.5",
-         "text": "Refer to $a$ as 'the real part of the complex number $z = a + ib$', denoted by $Re(z)$"
+         "text": "Refer to a as ‘the real part of the complex number z = a + ib ’, denoted by Re(z)"
         },
         {
          "id": "12.3.1.6",
-         "text": "Refer to $b$ as 'the imaginary part of the complex number $z = a + ib$', denoted by $Im(z)$"
+         "text": "Refer to b as ‘the imaginary part of the complex number z = a + ib ’, denoted by Im(z)"
         },
         {
          "id": "12.3.1.7",
-         "text": "Classify numbers as belonging to the set of natural numbers $\\mathbb{(}\\mathbb{N}$), integers ($\\mathbb{Z}$), rational numbers ($\\mathbb{Q}$), real numbers ($\\mathbb{R}$) or complex numbers ($\\mathbb{C}$), each of which is an extension of the previous"
+         "text": "Classify numbers as belonging to the set of natural numbers (ℕ), integers (ℤ), rational numbers (ℚ), real numbers (ℝ) or complex numbers (ℂ), each of which is an extension of the previous"
         },
         {
          "id": "12.3.1.8",
-         "text": "Identify and use the condition for two complex numbers $z_{1}$ and $z_{2}$ to be equal, that is $z_{1} = z_{2}$ if and only if $Re\\left( z_{1} \\right) = Re\\left( z_{2} \\right)$ and $Im\\left( z_{1} \\right) = Im\\left( z_{2} \\right)$"
+         "text": "Identify and use the condition for two complex numbers z₁ and z₂ to be equal, that is z₁ = z₂ if and only if Re(z₁) = Re(z₂) and Im(z₁) = Im(z₂)"
         },
         {
          "id": "12.3.1.9",
@@ -314,23 +314,23 @@
         },
         {
          "id": "12.3.1.10",
-         "text": "Define the complex conjugate of a complex number $z = a + ib$ as $\\overline{z} = a - ib$ and use it to solve problems"
+         "text": "Define the complex conjugate of a complex number z = a + ib as $\\overline{z} = a - ib$ and use it to solve problems"
         },
         {
          "id": "12.3.1.11",
-         "text": "Define and calculate the modulus of a complex number $z = a + ib$ as $|z| = \\sqrt{z\\overline{z}} = \\sqrt{a^{2} + b^{2}}$"
+         "text": "Define and calculate the modulus of a complex number z = a + ib as $|z| = \\sqrt{z\\overline{z}} = \\sqrt{a^{2} + b^{2}}$"
         },
         {
          "id": "12.3.1.12",
-         "text": "Establish relationships $\\text{Re}(z) = \\frac{z + \\overline{z}}{2}$ and $\\text{Im}(z) = \\frac{z - \\overline{z}}{2i} and $\\frac{1}{z} = \\frac{\\overline{z}}{|z|^{2}}$, $z \\neq 0$, and use them to solve problems"
+         "text": "Establish relationships $\\text{Re}(z) = \\frac{z + \\overline{z}}{2}$ and $\\text{Im}(z) = \\frac{z - \\overline{z}}{2i}$ and $\\frac{1}{z} = \\frac{\\overline{z}}{|z|^{2}}$, z ≠ 0, and use them to solve problems"
         },
         {
          "id": "12.3.1.13",
-         "text": "Divide one complex number by another non-zero complex number, with and without digital tools, and give the result in the form $a + ib$"
+         "text": "Divide one complex number by another non-zero complex number, with and without digital tools, and give the result in the form a + ib"
         },
         {
          "id": "12.3.1.14",
-         "text": "Find the two square roots of a complex number $z = a + ib$"
+         "text": "Find the two square roots of a complex number z = a + ib"
         }
        ],
        "id": "12.3.1"
@@ -340,19 +340,19 @@
        "dotpoints": [
         {
          "id": "12.3.2.1",
-         "text": "Plot the complex number $z = a + ib$ as a point on the complex plane with and without graphing applications"
+         "text": "Plot the complex number z = a + ib as a point on the complex plane with and without graphing applications"
         },
         {
          "id": "12.3.2.2",
-         "text": "Define and calculate the argument of a non-zero complex number $z = a + ib$ as $\\arg{(z)} = \\theta$, where $\\theta satisfies $\\sin\\theta = \\frac{b}{|z|}$ and $\\cos\\theta = \\frac{a}{|z|}$, noting that the argument has multiple values that differ by multiples of $2\\pi$"
+         "text": "Define and calculate the argument of a non-zero complex number z = a + ib as arg (z) = θ, where θ satisfies $\\sin\\theta = \\frac{b}{|z|}$ and $\\cos\\theta = \\frac{a}{|z|}$, noting that the argument has multiple values that differ by multiples of 2π"
         },
         {
          "id": "12.3.2.3",
-         "text": "Define and use the principal argument $Arg(z)$ of a non-zero complex number $z$ as the unique value of the argument in the interval $( - \\pi,\\pi\\rbrack$"
+         "text": "Define and use the principal argument Arg(z) of a non-zero complex number z as the unique value of the argument in the interval (− π, π]"
         },
         {
          "id": "12.3.2.4",
-         "text": "Define and use complex numbers in polar or modulus–argument form that expresses a complex number in terms of its modulus and argument, $z = r(\\cos\\theta + i\\sin\\theta)$, where $r$ is its modulus and $\\theta$ is an argument of $z$, and represent complex numbers in this form on the complex plane"
+         "text": "Define and use complex numbers in polar or modulus–argument form that expresses a complex number in terms of its modulus and argument, z = r(cosθ+isinθ), where r is its modulus and θ is an argument of z, and represent complex numbers in this form on the complex plane"
         },
         {
          "id": "12.3.2.5",
@@ -364,19 +364,19 @@
         },
         {
          "id": "12.3.2.7",
-         "text": "Prove and use identities involving the modulus of complex numbers: $\\left| z_{1}z_{2} \\right| = \\left| z_{1} \\right|\\left| z_{2} \\right|$, $\\left| \\frac{z_{1}}{z_{2}} \\right| = \\frac{\\left| z_{1} \\right|}{\\left| z_{2} \\right|}$ and $\\left| z^{n} \\right| = |z|^{n}$, where $n$ is an integer"
+         "text": "Prove and use identities involving the modulus of complex numbers: |z₁z₂| = |z₁||z₂|, $\\left| \\frac{z_{1}}{z_{2}} \\right| = \\frac{\\left| z_{1} \\right|}{\\left| z_{2} \\right|}$ and |z^(n)| = |z|^(n), where n is an integer"
         },
         {
          "id": "12.3.2.8",
-         "text": "Prove and use identities involving the argument of complex numbers: $arg\\left( z_{1}z_{2} \\right) = arg\\left( z_{1} \\right) + arg\\left( z_{2} \\right)$, $arg\\left( \\frac{z_{1}}{z_{2}} \\right) = arg\\left( z_{1} \\right) - arg\\left( z_{2} \\right)$ and $arg\\left( z^{n} \\right) = n\\arg(z)$ where $n$ is an integer"
+         "text": "Prove and use identities involving the argument of complex numbers: arg(z₁z₂) = arg(z₁) + arg(z₂), $arg\\left(\\frac{z_{1}}{z_{2}} \\right) = arg\\left(z_{1} \\right) - arg\\left(z_{2} \\right)$ and arg(z^(n)) = narg (z) where n is an integer"
         },
         {
          "id": "12.3.2.9",
-         "text": "Prove and use identities involving the complex conjugate of complex numbers:\\ $\\overset{\\_\\_\\_}{z_{1}} + \\overset{\\_\\_\\_}{z_{2}} = \\overset{\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_}{z_{1} + z_{2}}$, $\\overset{\\_\\_\\_}{z_{1}}\\overset{\\_\\_\\_}{z_{2}} = \\overset{\\_\\_\\_\\_\\_\\_\\_\\_}{z_{1}z_{2}}$"
+         "text": "Prove and use identities involving the complex conjugate of complex numbers: $\\overset{\\_\\_\\_}{z_{1}} + \\overset{\\_\\_\\_}{z_{2}} = \\overset{\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_}{z_{1} + z_{2}}$, $\\overset{\\_\\_\\_}{z_{1}}\\overset{\\_\\_\\_}{z_{2}} = \\overset{\\_\\_\\_\\_\\_\\_\\_\\_}{z_{1}z_{2}}$"
         },
         {
          "id": "12.3.2.10",
-         "text": "Prove and use the triangle inequality $\\left| z_{1} + z_{2} \\right| \\leq \\left| z_{1} \\right| + \\left| z_{2} \\right|$ for complex numbers $z_{1}$ and $z_{2}$"
+         "text": "Prove and use the triangle inequality |z₁+z₂| ≤ |z₁| + |z₂| for complex numbers z₁ and z₂"
         }
        ],
        "id": "12.3.2"
@@ -386,7 +386,7 @@
        "dotpoints": [
         {
          "id": "12.3.3.1",
-         "text": "Solve quadratic equations of the form ${ax}^{2} + bx + c = 0$, where $a$, $b$ and $c$ are complex numbers"
+         "text": "Solve quadratic equations of the form ax² + bx + c = 0, where a, b and c are complex numbers"
         },
         {
          "id": "12.3.3.2",
@@ -394,7 +394,7 @@
         },
         {
          "id": "12.3.3.3",
-         "text": "Prove the complex conjugate root theorem: if the complex number $z = a + ib$ is a root of the polynomial equation $P(x) = 0$ with real coefficients, then the complex conjugate $\\overline{z} = a - ib$ is also a root of $P(x) = 0$"
+         "text": "Prove the complex conjugate root theorem: if the complex number z = a + ib is a root of the polynomial equation P(x) = 0 with real coefficients, then the complex conjugate $\\overline{z} = a - ib$ is also a root of P(x) = 0"
         },
         {
          "id": "12.3.3.4",
@@ -408,11 +408,11 @@
        "dotpoints": [
         {
          "id": "12.3.4.1",
-         "text": "Using proof by mathematical induction prove de Moivre's theorem for positive integer powers: $\\left( {\\cos{\\text{θ} + i\\sin}}\\text{θ} \\right)^{n} = {\\cos{n\\text{θ} + i\\sin}}{n\\text{θ}}$"
+         "text": "Using proof by mathematical induction prove de Moivre’s theorem for positive integer powers: (cos θ + isin θ)^(n) = cos nθ + isin nθ"
         },
         {
          "id": "12.3.4.2",
-         "text": "Prove that $\\left( {\\cos{\\text{θ} + i\\sin}}\\text{θ} \\right)^{n} = {\\cos{n\\text{θ} + i\\sin}}{n\\text{θ}}$ for negative integers $n$"
+         "text": "Prove that (cos θ + isin θ)^(n) = cos nθ + isin nθ for negative integers n"
         },
         {
          "id": "12.3.4.3",
@@ -424,15 +424,15 @@
         },
         {
          "id": "12.3.4.5",
-         "text": "Determine the $n$th roots of $\\pm 1$ in polar form and their location on the unit circle"
+         "text": "Determine the n ^(th) roots of ± 1 in polar form and their location on the unit circle"
         },
         {
          "id": "12.3.4.6",
-         "text": "Illustrate the geometrical relationship connecting the $n$th roots of $\\pm 1$"
+         "text": "Illustrate the geometrical relationship connecting the n ^(th) roots of ± 1"
         },
         {
          "id": "12.3.4.7",
-         "text": "Determine the $n$th roots of complex numbers and their location on the complex plane"
+         "text": "Determine the n ^(th) roots of complex numbers and their location on the complex plane"
         },
         {
          "id": "12.3.4.8",
@@ -452,7 +452,7 @@
         },
         {
          "id": "12.3.4.12",
-         "text": "Solve problems and prove results using the $n$th roots of complex numbers"
+         "text": "Solve problems and prove results using the n ^(th) roots of complex numbers"
         }
        ],
        "id": "12.3.4"
@@ -462,19 +462,19 @@
        "dotpoints": [
         {
          "id": "12.3.5.1",
-         "text": "Graph vertical and horizontal lines of the form $Re(z) = c$ or $Im(z) = k$ where $c$ and $k$ are real constants"
+         "text": "Graph vertical and horizontal lines of the form Re(z) = c or Im(z) = k where c and k are real constants"
         },
         {
          "id": "12.3.5.2",
-         "text": "Graph the line corresponding to the equation $\\left| z - z_{1} \\right| = \\left| z - z_{2} \\right|$, where $z_{1}$ and $z_{2}$ are complex numbers, and give a geometrical description of the line"
+         "text": "Graph the line corresponding to the equation |z−z₁| = |z−z₂|, where z₁ and z₂ are complex numbers, and give a geometrical description of the line"
         },
         {
          "id": "12.3.5.3",
-         "text": "Graph the circles corresponding to the equations $|z| = r$ and $\\left| z - z_{1} \\right| = r$, where $z_{1}$ is a complex number and $r$ is a positive real number"
+         "text": "Graph the circles corresponding to the equations |z| = r and |z−z₁| = r, where z₁ is a complex number and r is a positive real number"
         },
         {
          "id": "12.3.5.4",
-         "text": "Graph rays corresponding to the equations $\\arg{(z)} = \\theta$ and $\\arg{(z - z_{1})} = \\theta$, where $z_{1}$ is a complex number"
+         "text": "Graph rays corresponding to the equations arg (z) = θ and arg (z−z₁) = θ, where z₁ is a complex number"
         },
         {
          "id": "12.3.5.5",
@@ -502,15 +502,15 @@
         },
         {
          "id": "12.4.1.3",
-         "text": "Solve trigonometric equations by applying the formulas for trigonometric products as sums and differences for $\\cos A\\cos B$, ${\\sin{A\\sin}}B$ and $\\sin A\\cos B$ over restricted domains"
+         "text": "Solve trigonometric equations by applying the formulas for trigonometric products as sums and differences for cos Acos B, sin Asin B and sin Acos B over restricted domains"
         },
         {
          "id": "12.4.1.4",
-         "text": "Use identities relating the trigonometric products as sums and differences to solve problems involving integrals of the form $\\int\\sin(mx)\\cos{(nx)dx}$, $\\int\\sin(mx)\\sin{(nx)dx}$ or $\\int\\cos{(mx)}\\cos{(nx)dx}$"
+         "text": "Use identities relating the trigonometric products as sums and differences to solve problems involving integrals of the form ∫sin (mx)cos (nx)dx, ∫sin (mx)sin (nx)dx or ∫cos (mx)cos (nx)dx"
         },
         {
          "id": "12.4.1.5",
-         "text": "Derive the expressions $\\sin{A = \\frac{2t}{1 + t^{2}}}$, $\\cos{A = \\frac{1 - t^{2}}{1 + t^{2}}}$ and $\\tan{A = \\frac{2t}{1 - t^{2}}}$ where $t = \\tan\\frac{A}{2}$ (the $t$-formulas) and use them to solve trigonometric equations over restricted domains"
+         "text": "Derive the expressions $\\sin{A = \\frac{2t}{1 + t^{2}}}$, $\\cos{A = \\frac{1 - t^{2}}{1 + t^{2}}}$ and $\\tan{A = \\frac{2t}{1 - t^{2}}}$ where $t = \\tan\\frac{A}{2}$ (the t -formulas) and use them to solve trigonometric equations over restricted domains"
         },
         {
          "id": "12.4.1.6",
@@ -570,7 +570,7 @@
        "dotpoints": [
         {
          "id": "12.5.1.1",
-         "text": "Derive expressions for acceleration: $\\frac{dv}{dt}$, where $v$ is a function of $t$, as well as $v\\frac{dv}{dx}$ and $\\frac{d}{dx}\\left( \\frac{1}{2}v^{2} \\right)$, where $v$ is a function of $x$"
+         "text": "Derive expressions for acceleration: $\\frac{dv}{dt}$, where v is a function of t, as well as $v\\frac{dv}{dx}$ and $\\frac{d}{dx}\\left(\\frac{1}{2}v^{2} \\right)$, where v is a function of x"
         },
         {
          "id": "12.5.1.2",
@@ -582,7 +582,7 @@
         },
         {
          "id": "12.5.1.4",
-         "text": "Find acceleration, $\\overset{¨}{x}$, using the formula $F = m\\overset{¨}{x}$, where $F$ is the force acting on a mass, $m$"
+         "text": "Find acceleration, $\\overset{¨}{x}$, using the formula $F = m\\overset{¨}{x}$, where F is the force acting on a mass, m"
         },
         {
          "id": "12.5.1.5",
@@ -596,15 +596,15 @@
        "dotpoints": [
         {
          "id": "12.5.2.1",
-         "text": "Define simple harmonic motion as motion in which acceleration is proportional to, and in the opposite direction to, displacement, that is $\\overset{¨}{x} = - n^{2}(x - c)$, where $x - c$ is the displacement of a particle from the centre of motion at $c$ and $\\overset{¨}{x}$ is the acceleration"
+         "text": "Define simple harmonic motion as motion in which acceleration is proportional to, and in the opposite direction to, displacement, that is $\\overset{¨}{x} = - n^{2}(x - c)$, where x − c is the displacement of a particle from the centre of motion at c and $\\overset{¨}{x}$ is the acceleration"
         },
         {
          "id": "12.5.2.2",
-         "text": "Recognise that the force $F(x)$ acting on a body of mass, $m$, executing simple harmonic motion according to the equation $\\overset{¨}{x} = {- n}^{2}(x - c)$, is a restoring force which acts towards the centre of motion causing the body to oscillate around the centre of motion"
+         "text": "Recognise that the force F(x) acting on a body of mass, m, executing simple harmonic motion according to the equation $\\overset{¨}{x} = {- n}^{2}(x - c)$, is a restoring force which acts towards the centre of motion causing the body to oscillate around the centre of motion"
         },
         {
          "id": "12.5.2.3",
-         "text": "Verify that $x = A\\sin(nt + \\alpha) + c$ is a solution to the differential equation for simple harmonic motion, equivalently expressed as $x = A\\cos{(nt + \\beta) + c}$, or $x = C{\\sin{(nt) + D\\cos}}{(nt) + c}$"
+         "text": "Verify that x = Asin (nt+α) + c is a solution to the differential equation for simple harmonic motion, equivalently expressed as x = Acos (nt+β) + c, or x = Csin (nt) + Dcos (nt) + c"
         },
         {
          "id": "12.5.2.4",
@@ -616,7 +616,7 @@
         },
         {
          "id": "12.5.2.6",
-         "text": "Graph $x$, $\\ \\overset{˙}{x}$ and $\\overset{¨}{x}$ as functions of $t$ with and without graphing applications for a particle moving in simple harmonic motion where $x$ is of the form $x = A\\cos{(nt + \\alpha) + c}$ or $x = A\\sin(nt + \\alpha) + c$"
+         "text": "Graph x, $\\ \\overset{˙}{x}$ and $\\overset{¨}{x}$ as functions of t with and without graphing applications for a particle moving in simple harmonic motion where x is of the form x = Acos (nt+α) + c or x = Asin (nt+α) + c"
         },
         {
          "id": "12.5.2.7",
@@ -624,11 +624,11 @@
         },
         {
          "id": "12.5.2.8",
-         "text": "Derive $v^{2} = n^{2}\\left\\lbrack A^{2} - (x - c)^{2} \\right\\rbrack$ for a particle moving in simple harmonic motion according to $\\overset{¨}{x} = {- n}^{2}(x - c)$, where $A$ is the amplitude"
+         "text": "Derive v² = n²[A²−(x−c)²] for a particle moving in simple harmonic motion according to $\\overset{¨}{x} = {- n}^{2}(x - c)$, where A is the amplitude"
         },
         {
          "id": "12.5.2.9",
-         "text": "Determine equations for the displacement, $x$, and velocity, $v$, in terms of time for an object executing simple harmonic motion according to a given equation $\\overset{¨}{x} = {- n}^{2}(x - c)$ and satisfying given initial conditions"
+         "text": "Determine equations for the displacement, x, and velocity, v, in terms of time for an object executing simple harmonic motion according to a given equation $\\overset{¨}{x} = {- n}^{2}(x - c)$ and satisfying given initial conditions"
         },
         {
          "id": "12.5.2.10",
@@ -660,7 +660,7 @@
        "dotpoints": [
         {
          "id": "12.5.4.1",
-         "text": "Derive, from Newton's laws of motion, $\\sum F = m\\overset{¨}{x}$, the equation for acceleration of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed"
+         "text": "Derive, from Newton’s laws of motion, $\\sum F = m\\overset{¨}{x}$, the equation for acceleration of a particle moving in a straight line and in the absence of external forces, except for a resistance oppositely directed to the motion and with a magnitude proportional to a power of the speed"
         },
         {
          "id": "12.5.4.2",
@@ -686,15 +686,15 @@
        "dotpoints": [
         {
          "id": "12.5.5.1",
-         "text": "Derive, from Newton's laws of motion, $\\sum F = m\\overset{¨}{x}$, the equation for acceleration of a particle moving vertically (upwards or downwards) in a resistive medium and under the influence of constant gravity, where the particle experiences a resistance, $R$, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed"
+         "text": "Derive, from Newton’s laws of motion, $\\sum F = m\\overset{¨}{x}$, the equation for acceleration of a particle moving vertically (upwards or downwards) in a resistive medium and under the influence of constant gravity, where the particle experiences a resistance, R, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed"
         },
         {
          "id": "12.5.5.2",
-         "text": "Derive expressions for velocity both as a function of time and of displacement for vertical resisted motion under the influence of constant gravity, with a resistance, $R$, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed"
+         "text": "Derive expressions for velocity both as a function of time and of displacement for vertical resisted motion under the influence of constant gravity, with a resistance, R, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed"
         },
         {
          "id": "12.5.5.3",
-         "text": "Derive an expression for displacement as a function of time for vertical resisted motion under the influence of constant gravity, with a resistance, $R$, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed"
+         "text": "Derive an expression for displacement as a function of time for vertical resisted motion under the influence of constant gravity, with a resistance, R, oppositely directed to the motion, whose magnitude is proportional to the first or second power of the speed"
         },
         {
          "id": "12.5.5.4",
@@ -702,7 +702,7 @@
         },
         {
          "id": "12.5.5.5",
-         "text": "Determine the terminal velocity of a falling particle from its equation of motion for vertical resisted motion under the influence of constant gravity, with a resistance, $R$, oppositely directed to the motion, and whose magnitude is proportional to the first or second power of the speed"
+         "text": "Determine the terminal velocity of a falling particle from its equation of motion for vertical resisted motion under the influence of constant gravity, with a resistance, R, oppositely directed to the motion, and whose magnitude is proportional to the first or second power of the speed"
         },
         {
          "id": "12.5.5.6",

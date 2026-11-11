@@ -1,6 +1,46 @@
 {
  "papers": [
   {
+   "key": "advanced|Baulkham Hills 2026 w. sol",
+   "course": "advanced",
+   "title": "Baulkham Hills 2026 w. sol",
+   "status": "indexed",
+   "note": "adv-2026-baulkham-hills",
+   "date": "2026-11-11"
+  },
+  {
+   "key": "advanced|Blacktown Boys 2026 w. sol",
+   "course": "advanced",
+   "title": "Blacktown Boys 2026 w. sol",
+   "status": "indexed",
+   "note": "adv-2026-blacktown-boys",
+   "date": "2026-11-11"
+  },
+  {
+   "key": "extension1|Baulkham Hills 2026 w. sol",
+   "course": "extension1",
+   "title": "Baulkham Hills 2026 w. sol",
+   "status": "indexed",
+   "note": "ext1-2026-baulkham-hills",
+   "date": "2026-11-11"
+  },
+  {
+   "key": "extension1|Blacktown Boys 2026 w. sol",
+   "course": "extension1",
+   "title": "Blacktown Boys 2026 w. sol",
+   "status": "indexed",
+   "note": "ext1-2026-blacktown-boys",
+   "date": "2026-11-11"
+  },
+  {
+   "key": "extension2|Baulkham Hills 2026 w. sol",
+   "course": "extension2",
+   "title": "Baulkham Hills 2026 w. sol",
+   "status": "indexed",
+   "note": "ext2-2026-baulkham-hills",
+   "date": "2026-11-11"
+  },
+  {
    "key": "extension2|Blacktown Boys 2026 w. sol",
    "course": "extension2",
    "title": "Blacktown Boys 2026 w. sol",

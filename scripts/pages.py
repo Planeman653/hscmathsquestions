@@ -4,6 +4,8 @@
   python3 scripts/pages.py render <paper.pdf> <outdir> [--dpi 110]
       -> outdir/p01.png ... with a light 10% grid + labels (for reading and for choosing crop boxes),
          and outdir/text.txt (text layer per page, may be garbled for maths)
+  python3 scripts/pages.py images <paper.pdf>
+      -> bounding boxes (percent) of embedded raster images on every page — usually the diagrams
   python3 scripts/pages.py crop <paper.pdf> <page> <x0> <y0> <x1> <y1> <out.png> [--dpi 200]
       -> crops a region given in PERCENT of page width/height (0-100, from top-left) and trims white margins
 """
@@ -38,6 +40,7 @@ def render(pdf, outdir, dpi=110):
 
 
 def crop(pdf, page, x0, y0, x1, y1, out, dpi=200):
+    os.makedirs(os.path.dirname(out) or ".", exist_ok=True)
     tmp = out + ".tmp"
     subprocess.run(["pdftoppm", "-r", str(dpi), "-png", "-singlefile", "-f", str(page), "-l", str(page), pdf, tmp], check=True)
     im = Image.open(tmp + ".png").convert("RGB")
@@ -56,11 +59,24 @@ def crop(pdf, page, x0, y0, x1, y1, out, dpi=200):
     print(out, c.size)
 
 
+def images(pdf):
+    import pdfplumber
+    with pdfplumber.open(pdf) as doc:
+        for n, pg in enumerate(doc.pages, 1):
+            W, H = pg.width, pg.height
+            for im in pg.images:
+                box = [round(100 * v, 1) for v in (im["x0"] / W, im["top"] / H, im["x1"] / W, im["bottom"] / H)]
+                if (box[2] - box[0]) * (box[3] - box[1]) > 4 and min(box) >= -1 and max(box) <= 101:
+                    print(f"page {n}: {box[0]} {box[1]} {box[2]} {box[3]}")
+
+
 if __name__ == "__main__":
     a = sys.argv[1:]
     dpi = int(a[a.index("--dpi") + 1]) if "--dpi" in a else None
     if a and a[0] == "render":
         render(a[1], a[2], dpi or 110)
+    elif a and a[0] == "images":
+        images(a[1])
     elif a and a[0] == "crop":
         crop(a[1], int(a[2]), *map(float, a[3:7]), a[7], dpi or 200)
     else:

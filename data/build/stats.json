@@ -3,21 +3,101 @@
  "courses": {
   "advanced": {
    "name": "Mathematics Advanced",
-   "questions": 0,
-   "papers": 0
+   "questions": 102,
+   "papers": 2
   },
   "extension1": {
    "name": "Mathematics Extension 1",
-   "questions": 0,
-   "papers": 0
+   "questions": 62,
+   "papers": 5
   },
   "extension2": {
    "name": "Mathematics Extension 2",
-   "questions": 95,
-   "papers": 2
+   "questions": 149,
+   "papers": 5
   }
  },
  "papers": [
+  {
+   "id": "adv-2026-baulkham-hills",
+   "course": "advanced",
+   "school": "Baulkham Hills",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Baulkham Hills 2026 Trial",
+   "answers": "worked",
+   "thsc": {
+    "viewno": "5328",
+    "title": "Baulkham Hills 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 51,
+   "dropped": 5
+  },
+  {
+   "id": "adv-2026-blacktown-boys",
+   "course": "advanced",
+   "school": "Blacktown Boys",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Blacktown Boys 2026 Trial",
+   "answers": "worked",
+   "thsc": {
+    "viewno": "5328",
+    "title": "Blacktown Boys 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 53,
+   "dropped": 2
+  },
+  {
+   "id": "ext1-2026-baulkham-hills",
+   "course": "extension1",
+   "school": "Baulkham Hills",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Baulkham Hills 2026 Trial",
+   "answers": "worked",
+   "thsc": {
+    "viewno": "5338",
+    "title": "Baulkham Hills 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 31,
+   "dropped": 3
+  },
+  {
+   "id": "ext1-2026-blacktown-boys",
+   "course": "extension1",
+   "school": "Blacktown Boys",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Blacktown Boys 2026 Trial",
+   "answers": "worked",
+   "thsc": {
+    "viewno": "5338",
+    "title": "Blacktown Boys 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 32,
+   "dropped": 2
+  },
+  {
+   "id": "ext2-2026-baulkham-hills",
+   "course": "extension2",
+   "school": "Baulkham Hills",
+   "year": 2026,
+   "type": "Trial",
+   "label": "Baulkham Hills 2026 Trial",
+   "answers": "worked",
+   "thsc": {
+    "viewno": "5348",
+    "title": "Baulkham Hills 2026 w. sol"
+   },
+   "indexed": "2026-11-11",
+   "count": 51,
+   "dropped": 0
+  },
   {
    "id": "ext2-2026-blacktown-boys",
    "course": "extension2",

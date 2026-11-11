@@ -4,45 +4,45 @@
 11.1.1.2 Expand, factorise and simplify algebraic expressions
 11.1.1.3 Simplify expressions involving algebraic fractions
 11.1.1.4 Expand and simplify expressions involving surds
-11.1.1.5 Identify the conjugate of $\sqrt{a} \pm \sqrt{b}$, and rationalise the denominators of expressions of the form $\frac{a}{\sqrt{b} \pm \sqrt{c}}$ and $\frac{\sqrt{a} \pm \sqrt{d}}{\sqrt{b} \pm \sqrt{c}}$, where $a$, $b$, $c$ and $d$ are positive rational numbers
-11.1.1.6 Solve quadratic equations $ax^{2} + bx + c = 0$ by factorisation, completing the square and using the quadratic formula $x = \frac{- b \pm \sqrt{b^{2} - 4ac}}{2a}$ where $a$, $b$ and $c$ are real numbers and $a \neq 0$
-11.1.1.7 Define the discriminant as $\Delta = b^{2} - 4ac$ and use it to solve problems involving the number of real roots of a quadratic equation and determine the conditions for roots to be equal, distinct, real or rational
+11.1.1.5 Identify the conjugate of $\sqrt{a} \pm \sqrt{b}$, and rationalise the denominators of expressions of the form $\frac{a}{\sqrt{b} \pm \sqrt{c}}$ and $\frac{\sqrt{a} \pm \sqrt{d}}{\sqrt{b} \pm \sqrt{c}}$, where a, b, c and d are positive rational numbers
+11.1.1.6 Solve quadratic equations ax² + bx + c = 0 by factorisation, completing the square and using the quadratic formula $x = \frac{- b \pm \sqrt{b^{2} - 4ac}}{2a}$ where a, b and c are real numbers and a ≠ 0
+11.1.1.7 Define the discriminant as Δ = b² − 4ac and use it to solve problems involving the number of real roots of a quadratic equation and determine the conditions for roots to be equal, distinct, real or rational
 ### 11.1.2 Introduction to functions and relations
 11.1.2.1 Describe a relation between two sets as an association between the elements of one set and the elements of the other set
-11.1.2.2 Define a real function $f$ of a real variable $x$ as a relation where each element $x$ of a given set is associated with exactly one element $y$ of the second set
-11.1.2.3 Recognise that a relation is a rule which can be represented by an algebraic formula, a table of values, a set of ordered pairs $(x,y)$ or a graph
-11.1.2.4 Use the notation $f(x)$ to identify the unique value of $y$ associated with $x$ when working with functions, and refer to it as the value of $f$ at $x$
-11.1.2.5 Refer to $x$ in a function $y = f(x)$ as the independent variable of the function, and refer to $y$ as the dependent variable
+11.1.2.2 Define a real function f of a real variable x as a relation where each element x of a given set is associated with exactly one element y of the second set
+11.1.2.3 Recognise that a relation is a rule which can be represented by an algebraic formula, a table of values, a set of ordered pairs (x,y) or a graph
+11.1.2.4 Use the notation f(x) to identify the unique value of y associated with x when working with functions, and refer to it as the value of f at x
+11.1.2.5 Refer to x in a function y = f(x) as the independent variable of the function, and refer to y as the dependent variable
 11.1.2.6 Substitute numeric and algebraic expressions into the formulas of functions
 11.1.2.7 Apply the vertical line test on the graph of a relation to determine whether it represents a function
-11.1.2.8 Define the domain of a function $f$ as the set of real numbers on which $f$ is defined
-11.1.2.9 Define the range of a function $f$ as the set of values of $f(x)$ obtained as $x$ varies over the domain of $f$
+11.1.2.8 Define the domain of a function f as the set of real numbers on which f is defined
+11.1.2.9 Define the range of a function f as the set of values of f(x) obtained as x varies over the domain of f
 11.1.2.10 Refer to a value in the domain of a function at which the function is 0 as a zero of the function
-11.1.2.11 Recognise that the $x$-intercepts of the graph of $y = f(x)$ are its zeroes, the solutions of $f(x) = 0$, and that the $y$-intercept is $f(0)$
+11.1.2.11 Recognise that the x -intercepts of the graph of y = f(x) are its zeroes, the solutions of f(x) = 0, and that the y -intercept is f(0)
 ### 11.1.3 Linear functions
-11.1.3.1 Determine the equations of straight lines in gradient–intercept form $y = mx + c$ with gradient $m$ and $y$-intercept $c$
-11.1.3.2 Determine the equations of straight lines in general form $ax + by + c = 0$, where $a$, $b$ and $c$ are constants
-11.1.3.3 Determine the equation of a straight line passing through a point $\left( x_{1},y_{1} \right)$ with gradient $m$ using the point–gradient formula $y - y_{1} = m\left( x - x_{1} \right)$
-11.1.3.4 Determine the equation of a straight line passing through two points $\left( x_{1},y_{1} \right)$ and $\left( x_{2},y_{2} \right)$ by calculating its gradient $m$ using the formula $m = \frac{y_{2\ } - \ y_{1}}{x_{2\ } - \ x_{1}}$
-11.1.3.5 Determine the $x$-intercept and $y$-intercept of a straight line given its equation
+11.1.3.1 Determine the equations of straight lines in gradient–intercept form y = mx + c with gradient m and y -intercept c
+11.1.3.2 Determine the equations of straight lines in general form ax + by + c = 0, where a, b and c are constants
+11.1.3.3 Determine the equation of a straight line passing through a point (x₁,y₁) with gradient m using the point–gradient formula y − y₁ = m(x−x₁)
+11.1.3.4 Determine the equation of a straight line passing through two points (x₁,y₁) and (x₂,y₂) by calculating its gradient m using the formula $m = \frac{y_{2\ } - \ y_{1}}{x_{2\ } - \ x_{1}}$
+11.1.3.5 Determine the x -intercept and y -intercept of a straight line given its equation
 11.1.3.6 Choose and apply appropriate techniques to graph a straight line given its equation
 11.1.3.7 Find the equation of a line that is parallel or perpendicular to a given line
 11.1.3.8 Solve linear inequalities and graph the solution on a number line
 ### 11.1.4 Quadratic and cubic functions
-11.1.4.1 Identify the $x$-intercepts of a parabola whose quadratic function is expressed in factored form
-11.1.4.2 Use the discriminant to determine the number of $x$-intercepts on a parabola and justify its position in relation to the $x$-axis
-11.1.4.3 Show by completing the square on the general quadratic $y = ax^{2} + bx + c$ that the axis of symmetry is $x = - \frac{b}{2a}$ where $a$, $b$ and $c$ are constants
+11.1.4.1 Identify the x -intercepts of a parabola whose quadratic function is expressed in factored form
+11.1.4.2 Use the discriminant to determine the number of x -intercepts on a parabola and justify its position in relation to the x -axis
+11.1.4.3 Show by completing the square on the general quadratic y = ax² + bx + c that the axis of symmetry is $x = - \frac{b}{2a}$ where a, b and c are constants
 11.1.4.4 Identify the axis of symmetry and vertex of a parabola by completing the square on its quadratic function
-11.1.4.5 Choose and apply appropriate techniques to graph a parabola of the form $y = {ax}^{2} + bx + c$ by identifying its $x$-intercepts if they exist, its $y$-intercept, its axis of symmetry using $x = - \frac{b}{2a}$ and its vertex
+11.1.4.5 Choose and apply appropriate techniques to graph a parabola of the form y = ax² + bx + c by identifying its x -intercepts if they exist, its y -intercept, its axis of symmetry using $x = - \frac{b}{2a}$ and its vertex
 11.1.4.6 Find the equation of a parabola given sufficient graphical features
-11.1.4.7 Use the fact that two quadratic functions are equal for all values of $x$ if and only if the corresponding coefficients are equal to solve related problems
-11.1.4.8 Recognise that solving $f(x) = k$ for some constant $k$ corresponds to finding the $x$-coordinate(s) of the intersection of the graphs $y = f(x)$ and $y = k$
+11.1.4.7 Use the fact that two quadratic functions are equal for all values of x if and only if the corresponding coefficients are equal to solve related problems
+11.1.4.8 Recognise that solving f(x) = k for some constant k corresponds to finding the x -coordinate(s) of the intersection of the graphs y = f(x) and y = k
 11.1.4.9 Solve problems by finding the solution to simultaneous equations involving a linear and a quadratic function, or two quadratic functions, both algebraically and graphically
 11.1.4.10 Solve quadratic inequalities
-11.1.4.11 Recognise and graph cubic functions of the form $f(x) = kx^{3}$ and $f(x) = k(x - a)(x - b)(x - c)$, where $a$, $b$, $c$ and $k$ are constants and $k \neq 0$
+11.1.4.11 Recognise and graph cubic functions of the form f(x) = kx³ and f(x) = k(x−a)(x−b)(x−c), where a, b, c and k are constants and k ≠ 0
 ### 11.1.5 Reciprocal functions
-11.1.5.1 Graph functions of the form $f(x) = \frac{k}{x}$, where $k$ is a constant and $k \neq 0$, and identify their hyperbolic shape and their asymptotes
-11.1.5.2 Describe the behaviour of $f(x) = \frac{k}{x}$ as $x \rightarrow \infty$ and $x \rightarrow - \infty$
+11.1.5.1 Graph functions of the form $f(x) = \frac{k}{x}$, where k is a constant and k ≠ 0, and identify their hyperbolic shape and their asymptotes
+11.1.5.2 Describe the behaviour of $f(x) = \frac{k}{x}$ as x → ∞ and x → − ∞
 ### 11.1.6 Constructing and using functions
 11.1.6.1 Construct and use linear functions to model and solve problems in real-world situations, identifying the independent and dependent variables and any restrictions on these variables, and justify conclusions in the context of the problem
 11.1.6.2 Use linear inequalities to model and solve problems in real-world situations, and justify conclusions in the context of the problem
@@ -50,23 +50,23 @@
 11.1.6.4 Construct and use simultaneous equations to model and solve a problem where cost and revenue are represented by linear equations, identify and analyse the break-even point, and justify conclusions in the context of the problem
 11.1.6.5 Model and solve practical problems involving quadratic functions and justify conclusions in the context of the problem
 ### 11.1.7 Direct and inverse variation
-11.1.7.1 Develop models of the form $y = kx^{n}$, where $k$ is a non-zero constant, from descriptions of situations in which one quantity varies directly with another
-11.1.7.2 Develop the model $y = \frac{k}{x^{n}}$, where $k$ is a non-zero constant, from descriptions of situations in which one quantity varies inversely with another
-11.1.7.3 Evaluate $k$ in the equations $y = kx^{n}$ and $y = \frac{k}{x^{n}}$, given one pair of values for the variables, and use the resulting formula to find other values of the variables
+11.1.7.1 Develop models of the form y = kx^(n), where k is a non-zero constant, from descriptions of situations in which one quantity varies directly with another
+11.1.7.2 Develop the model $y = \frac{k}{x^{n}}$, where k is a non-zero constant, from descriptions of situations in which one quantity varies inversely with another
+11.1.7.3 Evaluate k in the equations y = kx^(n) and $y = \frac{k}{x^{n}}$, given one pair of values for the variables, and use the resulting formula to find other values of the variables
 11.1.7.4 Analyse and solve problems involving direct and inverse variation
 ### 11.1.8 Circles and semicircles
-11.1.8.1 Derive the equation of a circle of radius $r$ with centre at the origin by considering Pythagoras' theorem
-11.1.8.2 Graph circles of the form $x^{2} + y^{2} = r^{2}$ from their equations
-11.1.8.3 Determine the equation of a circle of the form $x^{2} + y^{2} = r^{2}$ given its graph
+11.1.8.1 Derive the equation of a circle of radius r with centre at the origin by considering Pythagoras’ theorem
+11.1.8.2 Graph circles of the form x² + y² = r² from their equations
+11.1.8.3 Determine the equation of a circle of the form x² + y² = r² given its graph
 11.1.8.4 Identify and graph the semicircles $y = \sqrt{r^{2} - x^{2}}$, $y = - \sqrt{r^{2} - x^{2}}$, $x = \sqrt{r^{2} - y^{2}}$ and $x = - \sqrt{r^{2} - y^{2}}$
 ### 11.1.9 Properties of functions, relations and graphs
 11.1.9.1 Extend the definitions of domain and range to relations
 11.1.9.2 Recognise domains and ranges of functions and relations given in interval notation, as inequalities and as worded descriptions
 11.1.9.3 Determine and describe the domain and range of functions and relations, using interval notation, inequalities or worded descriptions
-11.1.9.4 Define a function to be even if its graph is unchanged under reflection in the $y$-axis, and odd if its graph is unchanged under rotation of $180{^\circ}$ about the origin
-11.1.9.5 Develop and use the tests that a function $f(x)$ is odd if $f( - x) = - f(x)$ and a function $f(x)$ is even if $f( - x) = f(x)$
+11.1.9.4 Define a function to be even if its graph is unchanged under reflection in the y -axis, and odd if its graph is unchanged under rotation of 180^(∘) about the origin
+11.1.9.5 Develop and use the tests that a function f(x) is odd if f(−x) = − f(x) and a function f(x) is even if f(−x) = f(x)
 11.1.9.6 Solve problems involving even and odd functions
-11.1.9.7 Use the composite function $f\left( g(x) \right)$, where the output of $g(x)$ becomes the input of $f(x)$
+11.1.9.7 Use the composite function f(g(x)), where the output of g(x) becomes the input of f(x)
 11.1.9.8 Determine the equations of composite functions
 ### 11.1.10 Piecewise-defined functions
 11.1.10.1 Interpret piecewise-defined functions, where the function is defined differently in different parts of the domain
@@ -75,58 +75,58 @@
 11.1.10.4 Identify points where piecewise-defined functions and other functions are not continuous
 11.1.10.5 Define a discontinuity of a function informally as a point where the function is not continuous
 ### 11.1.11 Absolute value functions
-11.1.11.1 Define the absolute value $|x|$ of a number $x$, also known as the magnitude of $x$, to be the distance from the origin to $x$ on the number line
-11.1.11.2 Establish and use the piecewise definition $$|x| = \left\{ \begin{matrix} x,\ \text{for}\ x \geq 0, \\ - x,\ \text{for}\ x < 0 \end{matrix} \right.\ $$
+11.1.11.1 Define the absolute value |x| of a number x, also known as the magnitude of x, to be the distance from the origin to x on the number line
+11.1.11.2 Establish and use the piecewise definition $|x| = \left\{ \begin{matrix} x,\ \text{for}\ x \geq 0, \\ - x,\ \text{for}\ x < 0 \end{matrix} \right.$
 11.1.11.3 Show using numerical substitutions that $\sqrt{x^{2}} = |x|$ and use the result
-11.1.11.4 Graph the function $y = |x|$, describe its symmetry, and identify its domain and range
-11.1.11.5 Graph $y = |ax + b|$ with and without graphing applications, and identify its symmetry, domain and range
-11.1.11.6 Solve absolute value equations of the form $|ax + b| = k$ algebraically and graphically
+11.1.11.4 Graph the function y = |x|, describe its symmetry, and identify its domain and range
+11.1.11.5 Graph y = |ax+b| with and without graphing applications, and identify its symmetry, domain and range
+11.1.11.6 Solve absolute value equations of the form |ax+b| = k algebraically and graphically
 ## 11.2 Trigonometry and measure of angles
 ### 11.2.1 Trigonometry with acute angles
-11.2.1.1 Use Pythagoras' theorem to find the exact sine, cosine and tangent ratios for angles of $30{^\circ}$, $45{^\circ}$ and $60{^\circ}$
+11.2.1.1 Use Pythagoras’ theorem to find the exact sine, cosine and tangent ratios for angles of 30^(∘), 45^(∘) and 60^(∘)
 11.2.1.2 Apply trigonometry to solve problems involving right-angled triangles in two dimensions, true and compass bearings, and angles of elevation and depression
 ### 11.2.2 Trigonometry with angles of any magnitude
 11.2.2.1 Represent angles of any magnitude using rays from the origin in the Cartesian plane and describe how one ray represents infinitely many angles
-11.2.2.2 Develop the definitions $\cos\theta = \frac{x}{r}$, $\sin\theta = \frac{y}{r}$ and $\tan\theta = \frac{y}{x}$, where $(x,y)$ is a point on the circle of radius $r$, centred at the origin, and $\theta$ is the angle between the positive $x$-axis and the radius drawn to this point
-11.2.2.3 Use the definitions $\cos\theta = \frac{x}{r}$, $\sin\theta = \frac{y}{r}$ and $\tan\theta = \frac{y}{x}$ to evaluate $\sin\theta$, $\cos\theta$ and $\tan\theta$ where $\theta$ is a multiple of $90{^\circ}$, and identify the values of $\theta$ for which these ratios are undefined
+11.2.2.2 Develop the definitions $\cos\theta = \frac{x}{r}$, $\sin\theta = \frac{y}{r}$ and $\tan\theta = \frac{y}{x}$, where (x,y) is a point on the circle of radius r, centred at the origin, and θ is the angle between the positive x -axis and the radius drawn to this point
+11.2.2.3 Use the definitions $\cos\theta = \frac{x}{r}$, $\sin\theta = \frac{y}{r}$ and $\tan\theta = \frac{y}{x}$ to evaluate sin θ, cos θ and tan θ where θ is a multiple of 90^(∘), and identify the values of θ for which these ratios are undefined
 11.2.2.4 Extend and apply the definitions $\cos\theta = \frac{x}{r}$, $\sin\theta = \frac{y}{r}$ and $\tan\theta = \frac{y}{x}$ for angles of any magnitude
-11.2.2.5 Identify the related angle of an angle of any magnitude, excluding multiples of $90{^\circ}$, as the acute angle between the ray and the $x$-axis and obtain the values of the trigonometric functions of an angle of any magnitude from the trigonometric functions of the related angle
-11.2.2.6 Develop and use the trigonometric ratios for angles that can be written in the form $\theta = 180{^\circ} \pm A$, and $\theta = 360{^\circ} - A$, where $0{^\circ} < A < 90{^\circ}
-11.2.2.7 Establish and use the results $\cos{( - \theta)} = \cos\theta$, $\sin{( - \theta)} = - \sin\theta$ and $\tan{( - \theta)} = - \tan\theta$
-11.2.2.8 Examine the proof of the sine rule $\frac{a}{\sin A} = \frac{b}{\sin B\,} = \frac{c}{\sin C}$ , cosine rule $c^{2} = a^{2} + b^{2} - 2ab\cos C$ and the area of a triangle formula $A = \frac{1}{2}ab\sin C$ for a given triangle $ABC$
+11.2.2.5 Identify the related angle of an angle of any magnitude, excluding multiples of 90^(∘), as the acute angle between the ray and the x -axis and obtain the values of the trigonometric functions of an angle of any magnitude from the trigonometric functions of the related angle
+11.2.2.6 Develop and use the trigonometric ratios for angles that can be written in the form θ = 180^(∘) ± A, and θ = 360^(∘) − A, where 0^(∘) < A < 90^(∘)
+11.2.2.7 Establish and use the results cos (−θ) = cos θ, sin (−θ) = − sin θ and tan (−θ) = − tan θ
+11.2.2.8 Examine the proof of the sine rule $\frac{a}{\sin A} = \frac{b}{\sin B\,} = \frac{c}{\sin C}$, cosine rule c² = a² + b² − 2abcos C and the area of a triangle formula $A = \frac{1}{2}ab\sin C$ for a given triangle ABC
 11.2.2.9 Use graphing applications or geometric construction to examine the ambiguous case of the sine rule, in which there are two possible solutions for an angle, and the condition for it to arise
 11.2.2.10 Apply the sine rule, cosine rule and formula for the area of a triangle to solve problems where angles are measured in degrees, or degrees and minutes
 ### 11.2.3 Radians
-11.2.3.1 Recognise that both ratios $\frac{\text{arc length}}{\text{circumference}}$ and $\frac{\text{area of sector}}{\text{area of circle}}$ are equal to $\frac{\theta}{\text{one revolution}}$ where $\theta$ is the angle at the centre of a circle subtended by the arc
-11.2.3.2 Define the angle size of $\theta$ in radian measure as the ratio $\frac{\text{arc length}}{\text{radius of a circle}}$
-11.2.3.3 Explain why $360{^\circ} = 2\pi$ radians and $\text{1 radian} = \frac{180}{\pi}\text{ degrees}$
+11.2.3.1 Recognise that both ratios $\frac{\text{arc length}}{\text{circumference}}$ and $\frac{\text{area of sector}}{\text{area of circle}}$ are equal to $\frac{\theta}{\text{one revolution}}$ where θ is the angle at the centre of a circle subtended by the arc
+11.2.3.2 Define the angle size of θ in radian measure as the ratio $\frac{\text{arc length}}{\text{radius of a circle}}$
+11.2.3.3 Explain why 360^(∘) = 2π radians and $\text{1~radian} = \frac{180}{\pi}\text{~degrees}$
 11.2.3.4 Convert between degrees and radians and find the exact sine, cosine and tangent ratios for integer multiples of $\frac{\pi}{6}$ and $\frac{\pi}{4}$
-11.2.3.5 Graph $y = sin\ x$, $y = cos\ x$ and $y = tan\ x$ over domains given in degrees or radians, showing intercepts with the $x$-axis and $y$-axis and any asymptotes, determine their domains and ranges, and period and amplitude where appropriate, and whether each is even or odd or neither
-11.2.3.6 Establish and use the formula $l = r\theta$ for the length $l$ of arc subtending an angle $\theta$ in radians at the centre of a circle of radius $r$
-11.2.3.7 Prove and use the formula $A = \frac{1}{2}r^{2}\theta$ for the area of a sector with angle $\theta$ in radians at the centre of a circle of radius $r$
+11.2.3.5 Graph y = sin x, y = cos x and y = tan x over domains given in degrees or radians, showing intercepts with the x -axis and y -axis and any asymptotes, determine their domains and ranges, and period and amplitude where appropriate, and whether each is even or odd or neither
+11.2.3.6 Establish and use the formula l = rθ for the length l of arc subtending an angle θ in radians at the centre of a circle of radius r
+11.2.3.7 Prove and use the formula $A = \frac{1}{2}r^{2}\theta$ for the area of a sector with angle θ in radians at the centre of a circle of radius r
 11.2.3.8 Solve problems involving arc lengths and areas of major and minor sectors and segments
 ## 11.3 Trigonometric identities and equations
 ### 11.3.1 Trigonometric identities and equations
-11.3.1.1 Define the trigonometric functions $\sec\theta$, $cosec\theta$ and $\cot\theta$ for acute angles $\theta$ using ratios of sides in a right-angled triangle
-11.3.1.2 Find the exact secant, cosecant and cotangent ratios for angles of $30{^\circ}$, $45{^\circ}$ and $60{^\circ}$
-11.3.1.3 Justify the values of $\sec\theta$, $cosec\theta$ and $\cot\theta$ at $0{^\circ}$ and $90{^\circ}$ by examining the ratios of sides in a right-angled triangle as $\theta$ tends to $0{^\circ}$ and $90{^\circ}$
-11.3.1.4 Develop the definitions $\sec{\theta = \frac{r}{x}}$, $cosec\theta = \frac{r}{y}$ and $\cot\theta = \frac{x}{y}$ using a circle of radius $r$ centred at the origin
+11.3.1.1 Define the trigonometric functions sec θ, cosecθ and cot θ for acute angles θ using ratios of sides in a right-angled triangle
+11.3.1.2 Find the exact secant, cosecant and cotangent ratios for angles of 30^(∘), 45^(∘) and 60^(∘)
+11.3.1.3 Justify the values of sec θ, cosecθ and cot θ at 0^(∘) and 90^(∘) by examining the ratios of sides in a right-angled triangle as θ tends to 0^(∘) and 90^(∘)
+11.3.1.4 Develop the definitions $\sec{\theta = \frac{r}{x}}$, $cosec\theta = \frac{r}{y}$ and $\cot\theta = \frac{x}{y}$ using a circle of radius r centred at the origin
 11.3.1.5 Establish the reciprocal ratios $\sec A = \frac{1}{\cos A}$, ${cosec}A = \frac{1}{\sin A}$, and $\cot A = \frac{1}{\tan A}$, identifying the angles to be excluded in each identity
 11.3.1.6 Determine the exact value of the secant, cosecant and cotangent ratios for angles that are integer multiples of $\frac{\pi}{6}$ and $\frac{\pi}{4}$, if they exist
 11.3.1.7 Establish the identities $\tan\theta = \frac{\sin\theta}{\cos\theta}$ and $\cot\theta = \frac{\cos\theta}{\sin\theta}$, identifying the angles to be excluded in each identity
-11.3.1.8 Prove the complementary angle identities $\sin{(90{^\circ} -}\theta) = \cos\theta$, ${\cos{(90{^\circ} - \theta) = \sin}}\theta$, ${\tan{(90{^\circ} - \theta) = \cot}}\theta$, ${\cot{(90{^\circ} - \theta) = \tan}}\theta$, ${\sec{(90{^\circ} - \theta) = cosec}}\theta$ and ${{cosec}{(90{^\circ} - \theta) = \sec}}\theta$ identifying the angles to be excluded in each identity
+11.3.1.8 Prove the complementary angle identities sin (90^(∘)−θ) = cos θ, cos (90^(∘)−θ) = sin θ, tan (90^(∘)−θ) = cot θ, cot (90^(∘)−θ) = tan θ, sec (90^(∘)−θ) = cosecθ and cosec(90^(∘)−θ) = sec θ identifying the angles to be excluded in each identity
 11.3.1.9 Evaluate trigonometric expressions using angles of any magnitude and complementary angle identities
 11.3.1.10 Solve equations involving trigonometric ratios of angles, specified in degrees or radians, on a restricted domain
-11.3.1.11 Prove the Pythagorean identity $\cos^{2}x + \sin^{2}x = 1$, and the identities $1 + \tan^{2}x = \sec^{2}x$ and $1 + \cot^{2}x = {cosec}^{2}x$
-11.3.1.12 Apply trigonometric identities to solve problems, simplify expressions and prove further trigonometric identities using substitution and/or reduction to $\sin x$ and $\cos x$
+11.3.1.11 Prove the Pythagorean identity cos²x + sin²x = 1, and the identities 1 + tan²x = sec²x and 1 + cot²x = cosec²x
+11.3.1.12 Apply trigonometric identities to solve problems, simplify expressions and prove further trigonometric identities using substitution and/or reduction to sin x and cos x
 11.3.1.13 Solve problems involving trigonometric equations, including those that reduce to quadratic equations, on a restricted domain
 ## 11.4 Introduction to differentiation
 ### 11.4.1 Estimating change
-11.4.1.1 Define the average rate of change of $y$ with respect to $x$ for a function $y = f(x)$ over the domain $\lbrack a,b\rbrack$ as $\frac{\Delta y}{\Delta x} = \frac{\text{change in }y}{\text{change in }x}$, that is $\frac{\Delta y}{\Delta x} = \frac{f(b) - f(a)}{b - a}$, and recognise $\frac{f(b) - f(a)}{b - a}$ as the gradient of the secant through $\left( a,f(a) \right)$ and $\left( b,f(b) \right)$ on the graph of $y = f(x)$
+11.4.1.1 Define the average rate of change of y with respect to x for a function y = f(x) over the domain [a, b] as $\frac{\Delta y}{\Delta x} = \frac{\text{change~in~}y}{\text{change~in~}x}$, that is $\frac{\Delta y}{\Delta x} = \frac{f(b) - f(a)}{b - a}$, and recognise $\frac{f(b) - f(a)}{b - a}$ as the gradient of the secant through (a,f(a)) and (b,f(b)) on the graph of y = f(x)
 11.4.1.2 Recognise speed as a rate of change of distance with respect to time
 11.4.1.3 Use the definition for average rate of change to determine the average speed of an object from a given distance–time graph
 11.4.1.4 Describe the difference between the average speed of an object and its instantaneous speed
-11.4.1.5 Determine that the instantaneous speed of an object at time $t$ can be approximated by the average speed between its position at time $t$ and its position some time later, and explain how this approximation can be improved
+11.4.1.5 Determine that the instantaneous speed of an object at time t can be approximated by the average speed between its position at time t and its position some time later, and explain how this approximation can be improved
 11.4.1.6 Relate the instantaneous speed of an object to the gradient of the tangent at that point on its distance–time graph
 11.4.1.7 Estimate the instantaneous speed of an object from its distance–time graph
 11.4.1.8 Recognise when modelling with a linear function that its gradient is the rate of change and determine the rate of change for linear functions in practical situations
@@ -134,98 +134,98 @@
 11.4.1.10 Estimate the instantaneous rate of change of a non-linear function at a given point from a given graph of a practical situation
 ### 11.4.2 The derivative
 11.4.2.1 Examine the gradient of a curve at a point on the curve using graphing applications
-11.4.2.2 Approximate the gradient of a curve $f(x) = x^{n}$ at a point $P\left( c,f(c) \right)$ by considering the gradient of the secant through $P$ and $Q\left( c + h,f(c + h) \right)$ as the magnitude of $h$ approaches zero, using graphing applications or a spreadsheet
-11.4.2.3 Infer that $nx^{n - 1}$ is the gradient of $f(x) = x^{n}$ and verify the result using graphing applications
-11.4.2.4 Define $f'(x)$, for any function $f(x)$ and any value $x$, to be the gradient of the tangent to the curve $y = f(x)$ at the point $P\left( x,f(x) \right)$ if the tangent exists and is not vertical
-11.4.2.5 Refer to $f'(x)$ as the derivative of $f(x)$ or the gradient, or derived, function of $f(x)$
+11.4.2.2 Approximate the gradient of a curve f(x) = x^(n) at a point P(c,f(c)) by considering the gradient of the secant through P and Q(c+h,f(c+h)) as the magnitude of h approaches zero, using graphing applications or a spreadsheet
+11.4.2.3 Infer that nx^(n − 1) is the gradient of f(x) = x^(n) and verify the result using graphing applications
+11.4.2.4 Define f′(x), for any function f(x) and any value x, to be the gradient of the tangent to the curve y = f(x) at the point P(x,f(x)) if the tangent exists and is not vertical
+11.4.2.5 Refer to f′(x) as the derivative of f(x) or the gradient, or derived, function of f(x)
 11.4.2.6 Define differentiation as the process of finding the derivative of a function
 11.4.2.7 Find derivatives of constant and linear functions
-11.4.2.8 Define the derivative of the function $f(x)$ from first principles, as the limiting value of the gradient of the secant $\frac{f(x + h) - f(x)}{h}$ as $h$ approaches zero, when this limiting value exists, and use the notation $f'(x) = \underset{h \rightarrow 0}{lim}\frac{f(x + h) - f(x)}{h}$
+11.4.2.8 Define the derivative of the function f(x) from first principles, as the limiting value of the gradient of the secant $\frac{f(x + h) - f(x)}{h}$ as h approaches zero, when this limiting value exists, and use the notation $f'(x) = \underset{h \rightarrow 0}{lim}\frac{f(x + h) - f(x)}{h}$
 11.4.2.9 Use first principles to find the derivative of quadratic functions
 ### 11.4.3 Calculations with the derivative
-11.4.3.1 Use the notation $\frac{dy}{dx}$ and $y'$ for the derivative of $y$ when $y$ is a function of $x$
-11.4.3.2 Use the notation $\frac{d}{dx}\left( f(x) \right)$ and $f'(x)$ for the derivative of a function $f(x)$
-11.4.3.3 Use the formula $\frac{d}{dx}(x^{n}) = nx^{n - 1}$ for all real values of $n$
-11.4.3.4 Apply the fact that the derivative of a sum is the sum of the derivatives: $\frac{d}{dx}\left( f(x) + g(x) \right) = f'(x) + g'(x)$, and the derivative of a multiple of a function is the multiple of its derivative: $\frac{d}{dx}(k \cdot f(x)) = k \cdot f'(x)$
+11.4.3.1 Use the notation $\frac{dy}{dx}$ and y′ for the derivative of y when y is a function of x
+11.4.3.2 Use the notation $\frac{d}{dx}\left(f(x) \right)$ and f′(x) for the derivative of a function f(x)
+11.4.3.3 Use the formula $\frac{d}{dx}(x^{n}) = nx^{n - 1}$ for all real values of n
+11.4.3.4 Apply the fact that the derivative of a sum is the sum of the derivatives: $\frac{d}{dx}\left(f(x) + g(x) \right) = f'(x) + g'(x)$, and the derivative of a multiple of a function is the multiple of its derivative: $\frac{d}{dx}(k \cdot f(x)) = k \cdot f'(x)$
 11.4.3.5 Use the rules for differentiation to find equations of tangents and normals to a curve at points on the curve
 11.4.3.6 Find points on a curve where the tangent or normal has a given gradient
-11.4.3.7 Examine and use the relationship between the angle of inclination of a line or tangent to a curve, $\theta,$ with the positive $x$-axis, and the gradient, $m$, of that line or tangent, and establish that $\tan\theta = m$
-11.4.3.8 Apply the product rule: if $y = uv$, where $u$ and $v$ are both differentiable functions of $x$, then $\frac{dy}{dx} = u\frac{dv}{dx} + v\frac{du}{dx}$ or if $h(x) = f(x)g(x)$ for differentiable functions $f(x)$ and $g(x)$ then $h'(x) = f(x)g'(x) + f'(x)g(x)$
-11.4.3.9 Apply the quotient rule: if $y = \frac{u}{v}$, where $u$ and $v$ are both functions of $x,$ then $\frac{dy}{dx} = \frac{v\frac{du}{dx} - u\frac{dv}{dx}}{v^{2}}$ or if $h(x) = \frac{f(x)}{g(x)}$ then $h'(x) = \frac{g(x)f^{'}(x) - f(x)g^{'}(x)}{\lbrack{g(x)\rbrack}^{2}}$
-11.4.3.10 Apply the chain rule: if$\ y$ is a differentiable function of $u$, and $u$ is a differentiable function of $x$, then $\frac{dy}{dx}\ = \ \frac{dy}{du} \times \frac{du}{dx}$ or if $h(x) = f\left( g(x) \right)$ for differentiable functions $f(x)$ and $g(x)$ then $h'(x) = f'\left( g(x) \right)g'(x)$
+11.4.3.7 Examine and use the relationship between the angle of inclination of a line or tangent to a curve, θ, with the positive x -axis, and the gradient, m, of that line or tangent, and establish that tan θ = m
+11.4.3.8 Apply the product rule: if y = uv, where u and v are both differentiable functions of x, then $\frac{dy}{dx} = u\frac{dv}{dx} + v\frac{du}{dx}$ or if h(x) = f(x)g(x) for differentiable functions f(x) and g(x) then h′(x) = f(x)g′(x) + f′(x)g(x)
+11.4.3.9 Apply the quotient rule: if $y = \frac{u}{v}$, where u and v are both functions of x, then $\frac{dy}{dx} = \frac{v\frac{du}{dx} - u\frac{dv}{dx}}{v^{2}}$ or if $h(x) = \frac{f(x)}{g(x)}$ then $h'(x) = \frac{g(x)f^{'}(x) - f(x)g^{'}(x)}{\lbrack{g(x)\rbrack}^{2}}$
+11.4.3.10 Apply the chain rule: if y is a differentiable function of u, and u is a differentiable function of x, then $\frac{dy}{dx}\ = \ \frac{dy}{du} \times \frac{du}{dx}$ or if h(x) = f(g(x)) for differentiable functions f(x) and g(x) then h′(x) = f′(g(x))g′(x)
 11.4.3.11 Identify and apply the product, quotient or chain rule, or a combination of the rules, as appropriate to differentiate a given function
 ### 11.4.4 Graphical applications of the derivative
-11.4.4.1 Interpret $f(x)$ as increasing at $x = c$ when $f'(c) > 0$ and decreasing at $x = c$ when $f'(c) < 0$
-11.4.4.2 Describe the behaviour of a function at a point as stationary when the tangent at the point is parallel to the $x$-axis, and recognise that $f(x)$ is stationary at $x = c$ when $f'(c) = 0$
-11.4.4.3 Graph $y = f^{'}(x)$ for a given graph of a function $y = f(x)$
-11.4.4.4 Numerically estimate the value of the derivative at a point on the graph of a power of $x$, with and without the use of digital tools
-11.4.4.5 Identify stationary points on the graph of a cubic function, and the values of $x$ for which the function is increasing and/or decreasing, by first calculating the derivative, and justify conclusions
+11.4.4.1 Interpret f(x) as increasing at x = c when f′(c) > 0 and decreasing at x = c when f′(c) < 0
+11.4.4.2 Describe the behaviour of a function at a point as stationary when the tangent at the point is parallel to the x -axis, and recognise that f(x) is stationary at x = c when f′(c) = 0
+11.4.4.3 Graph y = f^(′)(x) for a given graph of a function y = f(x)
+11.4.4.4 Numerically estimate the value of the derivative at a point on the graph of a power of x, with and without the use of digital tools
+11.4.4.5 Identify stationary points on the graph of a cubic function, and the values of x for which the function is increasing and/or decreasing, by first calculating the derivative, and justify conclusions
 ### 11.4.5 The derivative as a rate of change
-11.4.5.1 Interpret $f'(c)$ as the instantaneous rate of change of the function $f(x)$ at $x = c$
+11.4.5.1 Interpret f′(c) as the instantaneous rate of change of the function f(x) at x = c
 11.4.5.2 Define and distinguish between displacement and distance and between velocity and speed
 11.4.5.3 Use graphs of functions and their derivatives, without the use of algebraic techniques, to describe and interpret physical phenomena
-11.4.5.4 Use the notation $\frac{dx}{dt}$ or $\dot{x}$ to represent the velocity of a particle with displacement $x$ from a point as a function of time $t$
+11.4.5.4 Use the notation $\frac{dx}{dt}$ or ẋ to represent the velocity of a particle with displacement x from a point as a function of time t
 11.4.5.5 Solve problems by determining the velocity of a particle moving in a straight line, given its displacement from a point as a function of time
 ## 11.5 Exponential and logarithmic functions
 ### 11.5.1 Exponential functions
-11.5.1.1 Graph the exponential functions $y = k\left( a^{x} \right)$ and $y = k\left( a^{- x} \right)$ for constants $a$ and $k$ where $a > 0$, $$$$a \neq 1$and$k \neq 0$, and identify its asymptote,$y$$-intercept, domain and range
-11.5.1.2 Describe the behaviour of $y = k\left( a^{x} \right)$ and $y = k\left( a^{- x} \right)$ as $x \rightarrow \infty$ and $x \rightarrow - \infty$
-11.5.1.3 Examine the gradient of the tangent to the curve $y = a^{x}$ at its $y$-intercept for varying values of $a$, and verify using graphing applications that there is a unique number $e \approx 2.71828182845$\..., such that the gradient of the tangent to $y = e^{x}$ at $x = 0$ is 1, and call this number $e$ Euler's number
-11.5.1.4 Examine the gradient function of $y = a^{x}$ with graphing applications and identify that the gradient function is $\frac{d}{dx}\left( a^{x} \right) = ka^{x}$, for some constant $k$ depending only on $a$
-11.5.1.5 Conclude that Euler's number, $e$, is a unique number such that $\frac{d}{dx}\left( e^{x} \right) = e^{x}$, that is, $e^{x}$ is its own derivative
+11.5.1.1 Graph the exponential functions y = k(a^(x)) and y = k(a^(−x)) for constants a and k where a > 0, a ≠ 1 and k ≠ 0, and identify its asymptote, y -intercept, domain and range
+11.5.1.2 Describe the behaviour of y = k(a^(x)) and y = k(a^(−x)) as x → ∞ and x → − ∞
+11.5.1.3 Examine the gradient of the tangent to the curve y = a^(x) at its y -intercept for varying values of a, and verify using graphing applications that there is a unique number e ≈ 2.71828182845..., such that the gradient of the tangent to y = e^(x) at x = 0 is 1, and call this number e Euler’s number
+11.5.1.4 Examine the gradient function of y = a^(x) with graphing applications and identify that the gradient function is $\frac{d}{dx}\left(a^{x} \right) = ka^{x}$, for some constant k depending only on a
+11.5.1.5 Conclude that Euler’s number, e, is a unique number such that $\frac{d}{dx}\left(e^{x} \right) = e^{x}$, that is, e^(x) is its own derivative
 ### 11.5.2 Logarithmic functions
-11.5.2.1 Define the logarithm of a number $y$, where $y > 0$, to any positive base $a$ as the index to which $a$ is raised to give $y$
-11.5.2.2 Use the notation $\log_{a}y$ for the logarithm of $y$ to the base $a$
-11.5.2.3 Define the natural logarithm $\ln a = \log_{e}a$
+11.5.2.1 Define the logarithm of a number y, where y > 0, to any positive base a as the index to which a is raised to give y
+11.5.2.2 Use the notation log_(a)y for the logarithm of y to the base a
+11.5.2.3 Define the natural logarithm ln a = log_(e)a
 11.5.2.4 Use digital tools to determine rational and irrational values of exponential and logarithmic expressions
-11.5.2.5 Explain that $y = a^{x}$ is equivalent to $x = \log_{a}y$ for $a > 0 and $a \neq 1$, and use the equivalence to solve equations of the form $a^{x} = b$, for $a > 0$
-11.5.2.6 Recognise and use the logarithmic properties: $\log_{a}a^{x} = x$ for all real $x$, $a^{\log_{a}x} = x$ where $x > 0$
-11.5.2.7 Derive the laws of logarithms from the laws of indices $\log_{a}m + \log_{a}n = \log_{a}(mn)$, $\log_{a}m - \log_{a}n = \log_{a}\left( \frac{m}{n} \right)$ and $\log_{a}\left( m^{n} \right) = n\log_{a}m$
-11.5.2.8 Justify the logarithmic results $\log_{a}a = 1$, $\log_{a}1 = 0$ and $\log_{a}\left( \frac{1}{x} \right) = - \log_{a}x$
+11.5.2.5 Explain that y = a^(x) is equivalent to x = log_(a)y for a > 0 and a ≠ 1, and use the equivalence to solve equations of the form a^(x) = b, for a > 0
+11.5.2.6 Recognise and use the logarithmic properties: log_(a)a^(x) = x for all real x, a^(log_(a)x) = x where x > 0
+11.5.2.7 Derive the laws of logarithms from the laws of indices log_(a)m + log_(a)n = log_(a)(mn), $\log_{a}m - \log_{a}n = \log_{a}\left(\frac{m}{n} \right)$ and log_(a)(m^(n)) = nlog_(a)m
+11.5.2.8 Justify the logarithmic results log_(a)a = 1, log_(a)1 = 0 and $\log_{a}\left(\frac{1}{x} \right) = - \log_{a}x$
 11.5.2.9 Apply the logarithmic laws and results to simplify expressions, solve equations and prove results, using digital tools where necessary
 11.5.2.10 Prove the change of base rule $\log_{a}x = \frac{\log_{b}x}{\log_{b}a}$ and use it to solve problems
-11.5.2.11 Graph the logarithmic function $y = \log_{a}x$ for $a > 0$ and $a \neq 1$
-11.5.2.12 Use graphing applications to identify the graphs of $y = a^{x}$ and $y = \log_{a}x$ as reflections of each other in the line $y = x$, in cases where $a > 1$ and $0 < a < 1$
+11.5.2.11 Graph the logarithmic function y = log_(a)x for a > 0 and a ≠ 1
+11.5.2.12 Use graphing applications to identify the graphs of y = a^(x) and y = log_(a)x as reflections of each other in the line y = x, in cases where a > 1 and 0 < a < 1
 ## 11.6 Graph transformations
 ### 11.6.1 Graph transformations
-11.6.1.1 Establish using graphing applications that replacing $x$ by $- x$ in the equation of a graph corresponds to the reflection of the graph in the $y$-axis, and that replacing $y$ by $- y$ corresponds to a reflection in the $x$-axis
-11.6.1.2 Establish using graphing applications that replacing $x$ by $x - a$ in the equation of a graph corresponds to a horizontal translation of a graph by $a$, that replacing $y$ by $y - b$ corresponds to a vertical translation by $b$, and recognise that the sign of $a$ and $b$ determines the direction of the translation
-11.6.1.3 Describe a horizontal dilation as a stretch from the $y$-axis and a vertical dilation as a stretch from the $x$-axis
-11.6.1.4 Establish using graphing applications that replacing $x$ by $\frac{x}{k}$ in the equation of a graph corresponds to a horizontal dilation of a graph by a factor of $k$, that replacing $y$ by $\frac{y}{l}$ corresponds to a vertical dilation by a factor of $l$, and determine the effects on the graph when the magnitude of the dilation factor lies between 0 and 1
-11.6.1.5 Establish, using graphing applications, replacing $x$ by $\frac{x}{k}$ and replacing $y$ by $\frac{y}{k}$ in the equation of a graph corresponds to a dilation by a factor of $k$, that is, an enlargement of the graph when $k > 1$ and a reduction of the graph when $0 < k < 1$
+11.6.1.1 Establish using graphing applications that replacing x by − x in the equation of a graph corresponds to the reflection of the graph in the y -axis, and that replacing y by − y corresponds to a reflection in the x -axis
+11.6.1.2 Establish using graphing applications that replacing x by x − a in the equation of a graph corresponds to a horizontal translation of a graph by a, that replacing y by y − b corresponds to a vertical translation by b, and recognise that the sign of a and b determines the direction of the translation
+11.6.1.3 Describe a horizontal dilation as a stretch from the y -axis and a vertical dilation as a stretch from the x -axis
+11.6.1.4 Establish using graphing applications that replacing x by $\frac{x}{k}$ in the equation of a graph corresponds to a horizontal dilation of a graph by a factor of k, that replacing y by $\frac{y}{l}$ corresponds to a vertical dilation by a factor of l, and determine the effects on the graph when the magnitude of the dilation factor lies between 0 and 1
+11.6.1.5 Establish, using graphing applications, replacing x by $\frac{x}{k}$ and replacing y by $\frac{y}{k}$ in the equation of a graph corresponds to a dilation by a factor of k, that is, an enlargement of the graph when k > 1 and a reduction of the graph when 0 < k < 1
 11.6.1.6 Apply reflections, translations and dilations to functions within the scope of the Mathematics Advanced course, excluding trigonometric functions, determine the function rule and the graph of the transformed function, the domain and range of the transformed graph, any intercepts, asymptotes and discontinuities where appropriate, and describe which transformations have been applied
-11.6.1.7 Use the principles of translations to identify the centre, radius, domain and range of graphs of circles in the form ${(x - a)}^{2} + {(y - b)}^{2} = r^{2}$, where $a$, $b$ and $r$ are constants
-11.6.1.8 Find the centre and radius of circles of the form $x^{2} + y^{2} + ax + by + c = 0$, where $a$, $b$ and $c$ are constants, by completing the squares
+11.6.1.7 Use the principles of translations to identify the centre, radius, domain and range of graphs of circles in the form (x−a)² + (y−b)² = r², where a, b and r are constants
+11.6.1.8 Find the centre and radius of circles of the form x² + y² + ax + by + c = 0, where a, b and c are constants, by completing the squares
 11.6.1.9 Graph circles given their equations and find the equation of a circle from its graph
 11.6.1.10 Recognise that the order in which individual transformations are applied to functions is important
 ## 11.7 Probability and data
 ### 11.7.1 Sets and set notation
-11.7.1.1 Define a set as a collection of objects, called the elements of the set, and represent a set using notation such as $\left\{ 2,3,5,7 \right\}$ and $\{ 0,2,4,6,\ldots\}$
-11.7.1.2 Use the notation $n(A)$ or $|A|$ to represent the number of elements in a finite set $A$
-11.7.1.3 Define the empty set as the set with no elements, denoted in set notation as $\varnothing$
-11.7.1.4 Use the notation $\overline{A}$, $A'$ or $A^{c}$ to represent the complement of a set $A$ with respect to some universal set $U$
-11.7.1.5 Define $A$ to be a subset of $B$ if all the elements of $A$ are elements of $B$
-11.7.1.6 Define the intersection $A \cap B$ of sets $A$ and $B$ to be the set of elements that are in $A$ and in $B$
-11.7.1.7 Define the union $A \cup B$ of sets $A$ and $B$ to be the set of elements that are in $A$ or in $B$
-11.7.1.8 Define sets $A$ and $B$ to be disjoint if $A \cap B = \varnothing$, that is, they have no elements in common
+11.7.1.1 Define a set as a collection of objects, called the elements of the set, and represent a set using notation such as {2,3,5,7} and {0, 2, 4, 6, …}
+11.7.1.2 Use the notation n(A) or |A| to represent the number of elements in a finite set A
+11.7.1.3 Define the empty set as the set with no elements, denoted in set notation as ⌀
+11.7.1.4 Use the notation $\overline{A}$, A′ or A^(c) to represent the complement of a set A with respect to some universal set U
+11.7.1.5 Define A to be a subset of B if all the elements of A are elements of B
+11.7.1.6 Define the intersection A ∩ B of sets A and B to be the set of elements that are in A and in B
+11.7.1.7 Define the union A ∪ B of sets A and B to be the set of elements that are in A or in B
+11.7.1.8 Define sets A and B to be disjoint if A ∩ B = ⌀, that is, they have no elements in common
 11.7.1.9 Use Venn diagrams in practical situations to represent and interpret sets that may intersect in various ways within a universal set
-11.7.1.10 Establish and use the rule $|A \cup B| = |A| + |B| - |A \cap B|$
+11.7.1.10 Establish and use the rule |A∪B| = |A| + |B| − |A∩B|
 ### 11.7.2 Probability
-11.7.2.1 Define an experiment or a trial to be any procedure that can be infinitely repeated and has a well-defined set of possible outcomes known as the sample space, denoted $S$
-11.7.2.2 Identify an event $A$ as a subset $A$ of the sample space $S$
-11.7.2.3 Define the probability of each outcome to be $\frac{1}{|S|}$ when all the outcomes are equally likely and the probability of the event $A$ to be $P(A) = \frac{|A|}{|S|}$
-11.7.2.4 Interpret the notation $\overline{A}$ to be the event '$A$ does not occur', interpret $A \cap B$ to be the event '$A$ and $B$ both occur', and interpret $A \cup B$ to be the event '$A$ or $B$ occurs'
+11.7.2.1 Define an experiment or a trial to be any procedure that can be infinitely repeated and has a well-defined set of possible outcomes known as the sample space, denoted S
+11.7.2.2 Identify an event A as a subset A of the sample space S
+11.7.2.3 Define the probability of each outcome to be $\frac{1}{|S|}$ when all the outcomes are equally likely and the probability of the event A to be $P(A) = \frac{|A|}{|S|}$
+11.7.2.4 Interpret the notation $\overline{A}$ to be the event ‘ A does not occur’, interpret A ∩ B to be the event ‘ A and B both occur’, and interpret A ∪ B to be the event ‘ A or B occurs’
 11.7.2.5 Use Venn diagrams to represent the relationship between events within the same sample space, including mutually exclusive events, that is, events that as subsets of the sample space are disjoint
-11.7.2.6 Establish and use the rules $P\left( \overline{A} \right) = 1 - P(A)$ and $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
+11.7.2.6 Establish and use the rules $P\left(\overline{A} \right) = 1 - P(A)$ and P(A∪B) = P(A) + P(B) − P(A∩B)
 11.7.2.7 Use arrays and tree diagrams to determine the outcomes and probabilities for multistage events
 ### 11.7.3 Conditional probability
-11.7.3.1 Define conditional probability as the probability that an event $A$ occurs given that another event $B$ has already occurred, and use the notation $P(A\left| B) \right.
+11.7.3.1 Define conditional probability as the probability that an event A occurs given that another event B has already occurred, and use the notation P(A|B)
 11.7.3.2 Examine conditional probability by restricting the sample space and event spaces in a Venn diagram, using a two-way table, a tree diagram and other arrays
-11.7.3.3 Establish that $P\left( A|B \right) = \frac{|A \cap B|}{|B|}$ when all outcomes are equally likely by restricting the sample space and event space, and hence $P\left( A|B \right) = \frac{P(A \cap B)}{P(B)}$, provided $|B| \neq 0$
-11.7.3.4 Use the formulas for $P(A|B)$ to solve practical problems involving conditional probability
+11.7.3.3 Establish that $P\left(A|B \right) = \frac{|A \cap B|}{|B|}$ when all outcomes are equally likely by restricting the sample space and event space, and hence $P\left(A|B \right) = \frac{P(A \cap B)}{P(B)}$, provided |B| ≠ 0
+11.7.3.4 Use the formulas for P(A|B) to solve practical problems involving conditional probability
 11.7.3.5 Define two events to be independent if the occurrence of one event does not affect the probability that the other event occurs
-11.7.3.6 Explain that two events $A$ and $B$ are independent means $P\left( A \middle| B \right) = P(A)$ and $P\left( B \middle| A \right) = P(B)$, and show algebraically that if one of these formulas is true, then the other is also true
-11.7.3.7 Use the formula $P\left( A|B \right) = \frac{P(A \cap B)}{P(B)}$, and the test $P\left( A \middle| B \right) = P(A)$ for independence to prove that if two events are independent, then $P(A \cap B) = P(A) \times P(B)$, and to prove conversely that if $P(A \cap B) = P(A) \times P(B)$, then $A$ and $B$ are independent
+11.7.3.6 Explain that two events A and B are independent means P(A|B) = P(A) and P(B|A) = P(B), and show algebraically that if one of these formulas is true, then the other is also true
+11.7.3.7 Use the formula $P\left(A|B \right) = \frac{P(A \cap B)}{P(B)}$, and the test P(A|B) = P(A) for independence to prove that if two events are independent, then P(A∩B) = P(A) × P(B), and to prove conversely that if P(A∩B) = P(A) × P(B), then A and B are independent
 11.7.3.8 Solve practical problems involving independent events
 ### 11.7.4 Data
 11.7.4.1 Define a random variable as a variable whose value is the outcome of a random experiment
@@ -235,184 +235,184 @@
 11.7.4.5 Use the relative frequency to estimate the probability of results in experiments
 ## 12.1 Further graph transformations and modelling
 ### 12.1.1 Transformations of trigonometric functions
-12.1.1.1 Use graphing applications to explore reflections, translations and dilations of, and confirm that the principles of transformations hold for, the trigonometric functions $f(x) = \sin x$, $f(x) = \cos x$ and $f(x) = \tan x$
-12.1.1.2 Apply the principles of transformations to graph transformations of the trigonometric functions $f(x) = \sin x$, $f(x) = \cos x$ and $f(x) = \tan x$, describe which transformations have been applied to $y = f(x)$ and determine the domain, range, horizontal translation, vertical translation, dilation factor, period and amplitude when applicable
-12.1.1.3 Solve equations and graphical problems involving transformations of the trigonometric functions $f(x) = \sin x$, $f(x) = \cos x$ or $f(x) = \tan x$, using graphing applications or otherwise, within a specified domain
+12.1.1.1 Use graphing applications to explore reflections, translations and dilations of, and confirm that the principles of transformations hold for, the trigonometric functions f(x) = sin x, f(x) = cos x and f(x) = tan x
+12.1.1.2 Apply the principles of transformations to graph transformations of the trigonometric functions f(x) = sin x, f(x) = cos x and f(x) = tan x, describe which transformations have been applied to y = f(x) and determine the domain, range, horizontal translation, vertical translation, dilation factor, period and amplitude when applicable
+12.1.1.3 Solve equations and graphical problems involving transformations of the trigonometric functions f(x) = sin x, f(x) = cos x or f(x) = tan x, using graphing applications or otherwise, within a specified domain
 ### 12.1.2 Modelling with functions
-12.1.2.1 Model and solve problems involving periodic phenomena using transformations of the trigonometric functions $f(x) = \sin x$, $f(x) = \cos x$ or $f(x) = \tan x$, without the use of calculus
+12.1.2.1 Model and solve problems involving periodic phenomena using transformations of the trigonometric functions f(x) = sin x, f(x) = cos x or f(x) = tan x, without the use of calculus
 12.1.2.2 Model and solve practical problems involving functions and their transformations, within the scope of the Mathematics Advanced course, using graphical and algebraic techniques
 12.1.2.3 Recognise that logarithmic scales are useful to represent a variable that ranges over a large set of values and explain when a logarithmic scale is suitable
 12.1.2.4 Use logarithmic scales to model and solve problems involving decibels (dB) in acoustics, seismic scales for earthquakes, magnitudes of stars and the pH scale in chemistry
 ## 12.2 Sequences and series
 ### 12.2.1 Sequences and series
 12.2.1.1 Define a sequence as an ordered list of objects
-12.2.1.2 Use the notation $a_{n}$, where $n$ is a positive integer, to represent the $n$th term of a sequence
-12.2.1.3 Distinguish between a finite sequence $a_{1},\ a_{2},\ldots,\ a_{m}$ that terminates at its $m$th term, for some whole number $m \geq 1$, and an infinite sequence $a_{1},\ a_{2},\ldots$ that never terminates
-12.2.1.4 Define the $n$th partial sum $S_{n}$ of a sequence $a_{1},\ a_{2},\ldots$ to be the sum of the first $n terms of the sequence: $S_{n} = a_{1} + a_{2} + \ldots + a_{n}$, for all whole numbers $n \geq 1$
-12.2.1.5 Define a series formally as the sum of the terms of an infinite sequence and use the notation $a_{1} + a_{2} + a_{3} + \ldots$ for the series corresponding to the sequence $a_{1},a_{2},a_{3}\ldots$
-12.2.1.6 Use summation notation to represent the sum of terms $a_{i}$ to $a_{j}$ of a sequence where $j > i$, $\sum_{k = i}^{j}a_{k} = a_{i} + a_{i + 1\ } + a_{i + 2} + \,\ldots\, + \, a_{j - 1} + a_{j}$
+12.2.1.2 Use the notation a_(n), where n is a positive integer, to represent the n th term of a sequence
+12.2.1.3 Distinguish between a finite sequence a₁, a₂, …, a_(m) that terminates at its m th term, for some whole number m ≥ 1, and an infinite sequence a₁, a₂, … that never terminates
+12.2.1.4 Define the n th partial sum S_(n) of a sequence a₁, a₂, … to be the sum of the first n terms of the sequence: S_(n) = a₁ + a₂ + … + a_(n), for all whole numbers n ≥ 1
+12.2.1.5 Define a series formally as the sum of the terms of an infinite sequence and use the notation a₁ + a₂ + a₃ + … for the series corresponding to the sequence a₁, a₂, a₃…
+12.2.1.6 Use summation notation to represent the sum of terms a_(i) to a_(j) of a sequence where j > i, $\sum_{k = i}^{j}a_{k} = a_{i} + a_{i + 1\ } + a_{i + 2} + \,\ldots\, + \, a_{j - 1} + a_{j}$
 ### 12.2.2 Arithmetic sequences and series
-12.2.2.1 Define a sequence $a_{n}$ to be an arithmetic sequence, or arithmetic progression (AP), if every difference $a_{n} - a_{n - 1}$ of successive terms is the same where $n \geq 2$, that is $a_{n} - a_{n - 1} = d$ for some constant $d$ called the common difference
-12.2.2.2 Develop the formula $a_{n} = a + (n - 1)d$ for the $n$th term of an AP, where $a$ is the first term and $n \geq 1$, and use it to solve problems
-12.2.2.3 Recognise that $a_{n}$ is a linear function of $n$ in an AP
-12.2.2.4 Develop the formula $S_{n} = \frac{n}{2}\left( a + a_{n} \right)$ for the $n$th partial sum of an AP, and use the formula to solve problems
-12.2.2.5 Develop the formula $S_{n} = \frac{n}{2}\left\lbrack 2a + (n - 1)d \right\rbrack$ for the $n$th partial sum of an AP, and use the formula to solve problems
+12.2.2.1 Define a sequence a_(n) to be an arithmetic sequence, or arithmetic progression (AP), if every difference a_(n) − a_(n − 1) of successive terms is the same where n ≥ 2, that is a_(n) − a_(n − 1) = d for some constant d called the common difference
+12.2.2.2 Develop the formula a_(n) = a + (n−1)d for the n th term of an AP, where a is the first term and n ≥ 1, and use it to solve problems
+12.2.2.3 Recognise that a_(n) is a linear function of n in an AP
+12.2.2.4 Develop the formula $S_{n} = \frac{n}{2}\left(a + a_{n} \right)$ for the n th partial sum of an AP, and use the formula to solve problems
+12.2.2.5 Develop the formula $S_{n} = \frac{n}{2}\left\lbrack 2a + (n - 1)d \right\rbrack$ for the n th partial sum of an AP, and use the formula to solve problems
 12.2.2.6 Apply the formulas for arithmetic sequences and their partial sums to model and solve growth and decay problems involving a quantity that is a linear function of time
 ### 12.2.3 Geometric sequences and series
-12.2.3.1 Define a sequence $a_{n}$ to be a geometric sequence, or geometric progression (GP), if every ratio $\frac{a_{n}}{a_{n - 1}}$ of successive terms is the same where $n \geq 2$, that is $a_{n} = ra_{n - 1}$ for some non-zero real number $r$ called the common ratio
-12.2.3.2 Develop the formula $a_{n} = ar^{n - 1}$ for the $n$th term of a GP, where $a$ is the first term and $n \geq 1$, and use it to solve problems
-12.2.3.3 Recognise that $a_{n}$ is an exponential function of $n$ in a GP
-12.2.3.4 Prove by expansion $(x - 1)\left( x^{n - 1} + x^{n - 2} + \ldots + x^{2} + x + 1 \right) = x^{n} - 1 for whole numbers $n \geq 1$
-12.2.3.5 Develop the formula $S_{n} = \frac{a(1 - r^{n})}{1 - r}$ for the sum of the first $n$ terms of a GP where $r \neq 1$, and use this formula to solve problems
-12.2.3.6 Examine the behaviour of $a_{n}$ and $S_{n}$ as $n \rightarrow \infty$ for a GP when $|r| < 1$
-12.2.3.7 Develop the formula $S_{\infty} = \frac{a}{1 - r}$ for the limiting sum of a geometric series with $|r| < 1$, and use this formula to solve problems
+12.2.3.1 Define a sequence a_(n) to be a geometric sequence, or geometric progression (GP), if every ratio $\frac{a_{n}}{a_{n - 1}}$ of successive terms is the same where n ≥ 2, that is a_(n) = ra_(n − 1) for some non-zero real number r called the common ratio
+12.2.3.2 Develop the formula a_(n) = ar^(n − 1) for the n th term of a GP, where a is the first term and n ≥ 1, and use it to solve problems
+12.2.3.3 Recognise that a_(n) is an exponential function of n in a GP
+12.2.3.4 Prove by expansion (x−1)(x^(n − 1)+x^(n − 2)+…+x²+x+1) = x^(n) − 1 for whole numbers n ≥ 1
+12.2.3.5 Develop the formula $S_{n} = \frac{a(1 - r^{n})}{1 - r}$ for the sum of the first n terms of a GP where r ≠ 1, and use this formula to solve problems
+12.2.3.6 Examine the behaviour of a_(n) and S_(n) as n → ∞ for a GP when |r| < 1
+12.2.3.7 Develop the formula $S_{\infty} = \frac{a}{1 - r}$ for the limiting sum of a geometric series with |r| < 1, and use this formula to solve problems
 12.2.3.8 Apply the formulas for geometric sequences and series to model and solve growth and decay problems where a quantity is an exponential function of time
 ## 12.3 Differential calculus
 ### 12.3.1 Differentiation with exponential functions
-12.3.1.1 Apply the rules of differentiation to find the derivative of $f(x) = ke^{ax}$, where $k$ and $a$ are constants
-12.3.1.2 Use the chain rule to prove $\frac{d}{dx}\left( e^{ax + b} \right) = ae^{ax + b}$, where $a$ and $b$ are constants and $a \neq 0$
-12.3.1.3 Prove and use the formula $\frac{d}{dx}\left( a^{x} \right) = (\ln a)a^{x}$, where $a$ is a constant and $a > 0$
-12.3.1.4 Use the chain rule to differentiate functions of the form $e^{f(x)}$
+12.3.1.1 Apply the rules of differentiation to find the derivative of f(x) = ke^(ax), where k and a are constants
+12.3.1.2 Use the chain rule to prove $\frac{d}{dx}\left(e^{ax + b} \right) = ae^{ax + b}$, where a and b are constants and a ≠ 0
+12.3.1.3 Prove and use the formula $\frac{d}{dx}\left(a^{x} \right) = (\ln a)a^{x}$, where a is a constant and a > 0
+12.3.1.4 Use the chain rule to differentiate functions of the form e^(f(x))
 ### 12.3.2 Differentiation with logarithmic functions
-12.3.2.1 Use chain rule on the identity $e^{\ln x} = x$ to prove the formula $\frac{d}{dx}\left( \ln x \right) = \frac{1}{x}$ for the derivative of the natural logarithm function where $x > 0$
-12.3.2.2 Prove and use the formula $\frac{d}{dx}\left( \log_{a}x \right) = \frac{1}{x\ln a}$, where $a$ is a constant and $a > 0$
-12.3.2.3 Use the chain rule to differentiate functions of the form $\ln{f(x)}$
+12.3.2.1 Use chain rule on the identity e^(ln x) = x to prove the formula $\frac{d}{dx}\left(\ln x \right) = \frac{1}{x}$ for the derivative of the natural logarithm function where x > 0
+12.3.2.2 Prove and use the formula $\frac{d}{dx}\left(\log_{a}x \right) = \frac{1}{x\ln a}$, where a is a constant and a > 0
+12.3.2.3 Use the chain rule to differentiate functions of the form ln f(x)
 ### 12.3.3 Differentiation with trigonometric functions
-12.3.3.1 Determine the formulas $\frac{d}{dx}\left( \sin x \right) = \cos x and $\frac{d}{dx}\left( \cos x \right) = - \sin x$ informally by using the graphs of $y = \sin x$ and $y = \cos x$ and verify with graphing applications
+12.3.3.1 Determine the formulas $\frac{d}{dx}\left(\sin x \right) = \cos x$ and $\frac{d}{dx}\left(\cos x \right) = - \sin x$ informally by using the graphs of y = sin x and y = cos x and verify with graphing applications
 12.3.3.2 Use the rules of differentiation to show that $\frac{d}{dx}({\tan{x) = \sec^{2}}}x$
-12.3.3.3 Use the rules of differentiation to find the derivatives of ${cosec}x$, $\sec x$ and $\cot x$
-12.3.3.4 Use the chain rule to differentiate functions of the form $\sin{f(x)}$, $\cos{f(x)}$ and $\tan{f(x)}$
+12.3.3.3 Use the rules of differentiation to find the derivatives of cosecx, sec x and cot x
+12.3.3.4 Use the chain rule to differentiate functions of the form sin f(x), cos f(x) and tan f(x)
 ### 12.3.4 Using derivatives
-12.3.4.1 Apply the product, quotient and chain rules to differentiate functions of the form\ $f(x)g(x)$, $\frac{f(x)}{g(x)}$ or $f(g(x))$, where $f(x)$ and $g(x)$ are any of the functions within the scope of the Mathematics Advanced course
+12.3.4.1 Apply the product, quotient and chain rules to differentiate functions of the form f(x)g(x), $\frac{f(x)}{g(x)}$ or f(g(x)), where f(x) and g(x) are any of the functions within the scope of the Mathematics Advanced course
 12.3.4.2 Solve problems involving equations of tangents and normals to curves involving any of the functions within the scope of the Mathematics Advanced course
 ## 12.4 Integral calculus
 ### 12.4.1 Primitive functions
-12.4.1.1 Define a primitive of a function $f(x)$ as a function $F(x)$ whose derivative $F'(x) = f(x)$ and recognise the process of finding the primitive as the reverse of differentiation
+12.4.1.1 Define a primitive of a function f(x) as a function F(x) whose derivative F′(x) = f(x) and recognise the process of finding the primitive as the reverse of differentiation
 12.4.1.2 Recognise that a function whose derivative is everywhere zero is a constant function
-12.4.1.3 Prove by differentiation that a primitive of $f(x) = x^{n}$ is $F(x) = \frac{x^{n + 1}}{n + 1}$, for all real $n \neq - 1$
-12.4.1.4 Prove by differentiation that if $F(x)$ and $G(x)$ are primitives of $f(x)$ and $g(x)$, and $k$ is a constant, then $F(x) + G(x)$ is a primitive of $f(x) + g(x)$, and $kF(x)$ is a primitive of $kf(x)$
-12.4.1.5 Recognise that primitives of a function $f(x)$ are not unique, and that any two primitives of $f(x)$ differ by a constant, so that if $F(x)$ is a primitive of $f(x)$, the general primitive of $f(x)$ is $F(x) + C$, for some constant $C$
-12.4.1.6 Determine the primitive of a given function $f(x)$, where $f(x)$ is a sum of functions of the form $kx^{n}$ for all real $n \neq - 1$
-12.4.1.7 Determine the primitive function for functions of the form $f(x) = (ax + b)^{n}$, for all real $n \neq - 1$, where $a$ and $b$ are constants
+12.4.1.3 Prove by differentiation that a primitive of f(x) = x^(n) is $F(x) = \frac{x^{n + 1}}{n + 1}$, for all real n ≠ − 1
+12.4.1.4 Prove by differentiation that if F(x) and G(x) are primitives of f(x) and g(x), and k is a constant, then F(x) + G(x) is a primitive of f(x) + g(x), and kF(x) is a primitive of kf(x)
+12.4.1.5 Recognise that primitives of a function f(x) are not unique, and that any two primitives of f(x) differ by a constant, so that if F(x) is a primitive of f(x), the general primitive of f(x) is F(x) + C, for some constant C
+12.4.1.6 Determine the primitive of a given function f(x), where f(x) is a sum of functions of the form kx^(n) for all real n ≠ − 1
+12.4.1.7 Determine the primitive function for functions of the form f(x) = (ax+b)^(n), for all real n ≠ − 1, where a and b are constants
 12.4.1.8 Use algebraic manipulation to express given functions in forms suitable for determining primitive functions
-12.4.1.9 Determine $f(x)$, given $f'(x)$ and an initial condition $f(a) = b$ where $a$ and $b$ are constants
+12.4.1.9 Determine f(x), given f′(x) and an initial condition f(a) = b where a and b are constants
 ### 12.4.2 The definite integral
-12.4.2.1 Examine for a function $f(x)$, which indicates the rate of change of a quantity, the meaning of $\sum_{a}^{b}{f(x)\Delta x}$, where the interval $a \leq x \leq b$ is divided into subintervals of length $\Delta x$, and describe $\sum_{a}^{b}{f(x)\Delta x}$ as an estimate of the total change in that quantity over the interval $a \leq x \leq b$
-12.4.2.2 Consider the definite integral as $\int_{a}^{b}{f(x)}dx = \lim_{\Delta x \rightarrow 0}{\sum_{a}^{b}{f(x)\Delta x}}$, noting that this implies that the result of a definite integral will be negative when $f(x) \leq 0$ throughout the interval $a \leq x \leq b$
-12.4.2.3 Define informally that a function is continuous on the interval $a \leq x \leq b$ if it can be drawn between the two endpoints of the interval without taking the pen off the paper
-12.4.2.4 Graph the region between the continuous function $y = f(x)$ and the $x$-axis, where $f(x) \geq 0$ on the interval $a \leq x \leq b$
-12.4.2.5 Use a graphing application to compare different methods of approximating the area, $A$, of the region between the continuous function $y = f(x)$ and the $x$-axis, where $f(x) \geq 0$ on the interval $a \leq x \leq b$, by summing the areas of trapezia or rectangles each of width $\Delta x = \frac{b\ - \ a}{n}$ and approximate height $f(x)$ for any $x$ lying in its base, and observe the effect on the precision of the approximation of $A$ as the number $n$ of subintervals of $a \leq x \leq b$ increases, that is as $\Delta x \rightarrow 0$
-12.4.2.6 Evaluate the definite integral $\int_{a}^{b}f(x)dx$ by calculating areas using geometrical formulas, where the shape of $f(x)$ allows such calculations, in cases where $f(x) \geq 0 throughout $a \leq x \leq b$, $f(x) \leq 0 throughout $a \leq x \leq b$ or where $f(x)$ changes sign in the interval $a \leq x \leq b$
+12.4.2.1 Examine for a function f(x), which indicates the rate of change of a quantity, the meaning of $\sum_{a}^{b}{f(x)\Delta x}$, where the interval a ≤ x ≤ b is divided into subintervals of length Δx, and describe $\sum_{a}^{b}{f(x)\Delta x}$ as an estimate of the total change in that quantity over the interval a ≤ x ≤ b
+12.4.2.2 Consider the definite integral as $\int_{a}^{b}{f(x)}dx = \lim_{\Delta x \rightarrow 0}{\sum_{a}^{b}{f(x)\Delta x}}$, noting that this implies that the result of a definite integral will be negative when f(x) ≤ 0 throughout the interval a ≤ x ≤ b
+12.4.2.3 Define informally that a function is continuous on the interval a ≤ x ≤ b if it can be drawn between the two endpoints of the interval without taking the pen off the paper
+12.4.2.4 Graph the region between the continuous function y = f(x) and the x -axis, where f(x) ≥ 0 on the interval a ≤ x ≤ b
+12.4.2.5 Use a graphing application to compare different methods of approximating the area, A, of the region between the continuous function y = f(x) and the x -axis, where f(x) ≥ 0 on the interval a ≤ x ≤ b, by summing the areas of trapezia or rectangles each of width $\Delta x = \frac{b\ - \ a}{n}$ and approximate height f(x) for any x lying in its base, and observe the effect on the precision of the approximation of A as the number n of subintervals of a ≤ x ≤ b increases, that is as Δx → 0
+12.4.2.6 Evaluate the definite integral ∫_(a)^(b)f(x)dx by calculating areas using geometrical formulas, where the shape of f(x) allows such calculations, in cases where f(x) ≥ 0 throughout a ≤ x ≤ b, f(x) ≤ 0 throughout a ≤ x ≤ b or where f(x) changes sign in the interval a ≤ x ≤ b
 ### 12.4.3 The Fundamental Theorem of Calculus
-12.4.3.1 Consider the function defined by $A(x) = \int_{a}^{x}{f(t)d}t$ and use a graphing application to recognise that $A(x)$ is a primitive of $f(x)$
-12.4.3.2 Recognise the Fundamental Theorem of Calculus as $\int_{a}^{b}f(x)dx = \left\lbrack F(x) \right\rbrack\binom{b}{a} = F(b) - F(a)$ for a continuous function $f$ on the interval $a \leq x \leq b$ where $F(x)$ is any primitive of $f(x)$
+12.4.3.1 Consider the function defined by A(x) = ∫_(a)^(x)f(t)dt and use a graphing application to recognise that A(x) is a primitive of f(x)
+12.4.3.2 Recognise the Fundamental Theorem of Calculus as $\int_{a}^{b}f(x)dx = \left\lbrack F(x) \right\rbrack\binom{b}{a} = F(b) - F(a)$ for a continuous function f on the interval a ≤ x ≤ b where F(x) is any primitive of f(x)
 ### 12.4.4 Indefinite integrals
-12.4.4.1 Use the notation $\int f(x)dx$ for the general primitive of $f(x),$ called the indefinite integral of $f(x)$, so that $\int f(x)dx = F(x) + C$, for some constant $C$, where $F(x)$ is any primitive of $f(x)$
+12.4.4.1 Use the notation ∫f(x)dx for the general primitive of f(x), called the indefinite integral of f(x), so that ∫f(x)dx = F(x) + C, for some constant C, where F(x) is any primitive of f(x)
 12.4.4.2 Recognise integration as the process of finding the indefinite integral of a function
-12.4.4.3 Use the formula $\int x^{n}dx = \frac{1}{n + 1}x^{n + 1} + C$ for real $n \neq - 1$
-12.4.4.4 Use the identities $\int\left( f(x) + g(x) \right)dx = \int f(x)dx + \int g(x)dx$ and $\int kf(x)dx = k\int f(x)dx$ for primitives
-12.4.4.5 Prove by differentiation, and apply $\int u^{n}\frac{du}{dx}dx = \frac{1}{n + 1}u^{n + 1} + C$, where $u$ is a function of $x$, or $\int f'(x)\left\lbrack f(x) \right\rbrack^{n}dx = \frac{1}{n + 1}\left\lbrack f(x) \right\rbrack^{n + 1} + C$, for real $n \neq - 1$
+12.4.4.3 Use the formula $\int x^{n}dx = \frac{1}{n + 1}x^{n + 1} + C$ for real n ≠ − 1
+12.4.4.4 Use the identities ∫(f(x)+g(x))dx = ∫f(x)dx + ∫g(x)dx and ∫kf(x)dx = k∫f(x)dx for primitives
+12.4.4.5 Prove by differentiation, and apply $\int u^{n}\frac{du}{dx}dx = \frac{1}{n + 1}u^{n + 1} + C$, where u is a function of x, or $\int f'(x)\left\lbrack f(x) \right\rbrack^{n}dx = \frac{1}{n + 1}\left\lbrack f(x) \right\rbrack^{n + 1} + C$, for real n ≠ − 1
 ### 12.4.5 Integration with exponential functions
-12.4.5.1 Establish and use the formula $\int e^{x}dx = e^{x} + C$
-12.4.5.2 Establish and use the formula $\int e^{ax + b}dx = \frac{1}{a}e^{ax + b} + C$, where $a$ and $b$ are constants and $a \neq 0$
-12.4.5.3 Establish and use the formula $\int a^{x}dx = \frac{a^{x}}{ln\ a} + C$, where $a$ is a constant and $a > 0$
-12.4.5.4 Establish and use $\int e^{u}\frac{du}{dx}dx = e^{u} + C$, where $u$ is a function of $x$, or $\int f^{'}(x)e^{f(x)}dx = e^{f(x)} + C$
+12.4.5.1 Establish and use the formula ∫e^(x)dx = e^(x) + C
+12.4.5.2 Establish and use the formula $\int e^{ax + b}dx = \frac{1}{a}e^{ax + b} + C$, where a and b are constants and a ≠ 0
+12.4.5.3 Establish and use the formula $\int a^{x}dx = \frac{a^{x}}{ln\ a} + C$, where a is a constant and a > 0
+12.4.5.4 Establish and use $\int e^{u}\frac{du}{dx}dx = e^{u} + C$, where u is a function of x, or ∫f^(′)(x)e^(f(x))dx = e^(f(x)) + C
 12.4.5.5 Find primitives of functions involving exponential functions
 ### 12.4.6 Integration with logarithmic functions
-12.4.6.1 Derive and use the formula $\int\frac{1}{x}dx = \ln{|x|} + C$ where $x \neq 0$
-12.4.6.2 Establish and use the formula $\int\frac{1}{ax + b}dx = \frac{1}{a}\ln|ax + b| + C$, where $a$ and $b$ are constants and $a \neq 0$
-12.4.6.3 Establish and use $\int\frac{u^{'}}{u}dx = \ln|u| + C$, where $u$ is a function of $x$, or $\int\frac{f^{'}(x)}{f(x)}dx = \ln{|f(x)|} + C$, on a domain where $f(x) \neq 0$
+12.4.6.1 Derive and use the formula $\int\frac{1}{x}dx = \ln{|x|} + C$ where x ≠ 0
+12.4.6.2 Establish and use the formula $\int\frac{1}{ax + b}dx = \frac{1}{a}\ln|ax + b| + C$, where a and b are constants and a ≠ 0
+12.4.6.3 Establish and use $\int\frac{u^{'}}{u}dx = \ln|u| + C$, where u is a function of x, or $\int\frac{f^{'}(x)}{f(x)}dx = \ln{|f(x)|} + C$, on a domain where f(x) ≠ 0
 ### 12.4.7 Integration with trigonometric functions
-12.4.7.1 Establish and use the formulas $\int\sin xdx = - \cos x + C$, $\int\cos xdx = \sin x + C$ and $\int\sec^{2}xdx = \tan x + C$
-12.4.7.2 Establish and use indefinite integrals of the form $\int f(ax + b)dx$, where $a$ and $b$ are constants and $a \neq 0$, and $f(x) = \sin x$, $f(x) = \cos x$ and $f(x) = \sec^{2}x$
-12.4.7.3 Determine indefinite integrals of the form $\int f'(x)\sin{f(x)}dx$, $\int f'(x)\cos{f(x)}dx$ and $\int f'(x)\sec^{2}{f(x)}dx$
+12.4.7.1 Establish and use the formulas ∫sin xdx = − cos x + C, ∫cos xdx = sin x + C and ∫sec²xdx = tan x + C
+12.4.7.2 Establish and use indefinite integrals of the form ∫f(ax+b)dx, where a and b are constants and a ≠ 0, and f(x) = sin x, f(x) = cos x and f(x) = sec²x
+12.4.7.3 Determine indefinite integrals of the form ∫f′(x)sin f(x)dx, ∫f′(x)cos f(x)dx and ∫f′(x)sec²f(x)dx
 ### 12.4.8 Areas and the definite integral
-12.4.8.1 Apply $\int_{a}^{b}{f(x)}dx = F(b) - F(a)$, where $F(x)$ is a primitive of $f(x)$, to calculate definite integrals and solve related theoretical problems involving functions within the scope of the Mathematics Advanced course
-12.4.8.2 Describe, in the case where $f(x) \geq 0$ for all values of $x$ in the interval $a \leq x \leq b$, the area bounded by the graph of the continuous function $y = f(x)$, the $x$-axis and the lines $x = a$ and $x = b$, as $\int_{a}^{b}{f(x)}dx$
-12.4.8.3 Recognise, in the case where $f(x) \leq 0$ for all values of $x$ in the interval $a \leq x \leq b$, the area bounded by the graph of the continuous function $y = f(x)$, the $x$-axis and the lines $x = a$ and $x = b$, as $\left| \int_{a}^{b}{f(x)}dx \right|$ or $- \int_{a}^{b}{f(x)}dx$
-12.4.8.4 Conclude, for a continuous function $y = f(x)$ on the interval $a \leq x \leq b$, that $\int_{a}^{b}{f(x)}dx =$ (area of regions between curve and $x$-axis lying above the $x$-axis) $-$ (area of regions between curve and the $x$-axis lying below the $x$-axis)
-12.4.8.5 Use definite integrals to solve problems involving the areas of regions bounded by the graph of the continuous function $y = f(x)$, the $x$-axis and the lines $x = a$ and $x = b$, in cases where $f(x) \geq 0 throughout $a \leq x \leq b$, $f(x) \leq 0 throughout $a \leq x \leq b$ or where $f(x)$ changes sign in the interval $a \leq x \leq b$, with or without the graph provided
-12.4.8.6 Use definite integrals to solve problems involving the areas of regions bounded by the graph of the continuous function $y = f(x)$, the $y$-axis and the lines $y = a$ and $y = b$, in cases where $x \geq 0 throughout $a \leq y \leq b$, $x \leq 0 throughout $a \leq y \leq b$ or where $x$ changes sign in the interval $a \leq y \leq b$ with or without the graph provided
-12.4.8.7 Use the fact that the graphs of $y = a^{x}$ and $y = \log_{a}x$ are reflections of each other in the line $y = x$ to solve problems involving areas between the $x$-axis or $y$-axis and a curve involving either an exponential or logarithmic function
-12.4.8.8 Recognise and use the result, where $f(x)$ is continuous on the interval $a \leq x \leq c$, $\int_{a}^{b}{f(x)dx} + \int_{b}^{c}{f(x)dx} = \int_{a}^{c}{f(x)dx}$ for all $c$ such that $a \leq b \leq c$
-12.4.8.9 Define and use the result $\int_{a}^{b}{f(x)dx} = - \int_{b}^{a}{f(x)dx}$, where $f(x)$ is continuous on the interval $a \leq x \leq b$
+12.4.8.1 Apply ∫_(a)^(b)f(x)dx = F(b) − F(a), where F(x) is a primitive of f(x), to calculate definite integrals and solve related theoretical problems involving functions within the scope of the Mathematics Advanced course
+12.4.8.2 Describe, in the case where f(x) ≥ 0 for all values of x in the interval a ≤ x ≤ b, the area bounded by the graph of the continuous function y = f(x), the x -axis and the lines x = a and x = b, as ∫_(a)^(b)f(x)dx
+12.4.8.3 Recognise, in the case where f(x) ≤ 0 for all values of x in the interval a ≤ x ≤ b, the area bounded by the graph of the continuous function y = f(x), the x -axis and the lines x = a and x = b, as |∫_(a)^(b)f(x)dx| or − ∫_(a)^(b)f(x)dx
+12.4.8.4 Conclude, for a continuous function y = f(x) on the interval a ≤ x ≤ b, that ∫_(a)^(b)f(x)dx= (area of regions between curve and x -axis lying above the x -axis) − (area of regions between curve and the x -axis lying below the x -axis)
+12.4.8.5 Use definite integrals to solve problems involving the areas of regions bounded by the graph of the continuous function y = f(x), the x -axis and the lines x = a and x = b, in cases where f(x) ≥ 0 throughout a ≤ x ≤ b, f(x) ≤ 0 throughout a ≤ x ≤ b or where f(x) changes sign in the interval a ≤ x ≤ b, with or without the graph provided
+12.4.8.6 Use definite integrals to solve problems involving the areas of regions bounded by the graph of the continuous function y = f(x), the y -axis and the lines y = a and y = b, in cases where x ≥ 0 throughout a ≤ y ≤ b, x ≤ 0 throughout a ≤ y ≤ b or where x changes sign in the interval a ≤ y ≤ b with or without the graph provided
+12.4.8.7 Use the fact that the graphs of y = a^(x) and y = log_(a)x are reflections of each other in the line y = x to solve problems involving areas between the x -axis or y -axis and a curve involving either an exponential or logarithmic function
+12.4.8.8 Recognise and use the result, where f(x) is continuous on the interval a ≤ x ≤ c, ∫_(a)^(b)f(x)dx + ∫_(b)^(c)f(x)dx = ∫_(a)^(c)f(x)dx for all c such that a ≤ b ≤ c
+12.4.8.9 Define and use the result ∫_(a)^(b)f(x)dx = − ∫_(b)^(a)f(x)dx, where f(x) is continuous on the interval a ≤ x ≤ b
 12.4.8.10 Recognise and use symmetry, particularly odd and even functions, to simplify and solve integration problems
 12.4.8.11 Use the Trapezoidal rule to approximate integrals
 12.4.8.12 Use an online computational application to evaluate definite and indefinite integrals involving functions within and beyond the scope of the Mathematics Advanced course
-12.4.8.13 Model and solve practical problems involving integrals and areas of regions bounded by a curve and the $x$-axis, or by a curve and the $y$-axis, involving functions within the scope of the Mathematics Advanced course
+12.4.8.13 Model and solve practical problems involving integrals and areas of regions bounded by a curve and the x -axis, or by a curve and the y -axis, involving functions within the scope of the Mathematics Advanced course
 ## 12.5 Applications of calculus
 ### 12.5.1 Turning points, inflections and curve-sketching
-12.5.1.1 Define a function $f(x)$to be differentiable at $x = a$ if $\lim_{h \rightarrow 0}\frac{f(a + h) - f(a)}{h}$ exists, that is if there is a non-vertical tangent to the curve at the point $P\left( a,f(a) \right)$ and recognise that if $f(x)$ is differentiable at $x = a$ then it is continuous at $x = a$
-12.5.1.2 Identify any values of $x$ where a function is continuous, but not differentiable, given either the equation of the function or its graph
-12.5.1.3 Use repeated differentiation to find second derivatives of a function $y = f(x)$, denoting them by $f''(x)$ or $\frac{d^{2}y}{dx^{2}}$ or $y''$
-12.5.1.4 Analyse the stationary points of a function by testing values for $f'(x)$, then classify the stationary points as local minima or local maxima where gradients change around the point, or horizontal points of inflection where gradients have the same sign on both sides of the point
-12.5.1.5 Interpret the second derivative $y''$ as the gradient function of the first derivative $y'$, and deduce that if $y'' > 0$ the curve is concave up and if $y'' < 0$ the curve is concave down
+12.5.1.1 Define a function f(x) to be differentiable at x = a if $\lim_{h \rightarrow 0}\frac{f(a + h) - f(a)}{h}$ exists, that is if there is a non-vertical tangent to the curve at the point P(a,f(a)) and recognise that if f(x) is differentiable at x = a then it is continuous at x = a
+12.5.1.2 Identify any values of x where a function is continuous, but not differentiable, given either the equation of the function or its graph
+12.5.1.3 Use repeated differentiation to find second derivatives of a function y = f(x), denoting them by f″(x) or $\frac{d^{2}y}{dx^{2}}$ or y″
+12.5.1.4 Analyse the stationary points of a function by testing values for f′(x), then classify the stationary points as local minima or local maxima where gradients change around the point, or horizontal points of inflection where gradients have the same sign on both sides of the point
+12.5.1.5 Interpret the second derivative y″ as the gradient function of the first derivative y′, and deduce that if y″ > 0 the curve is concave up and if y″ < 0 the curve is concave down
 12.5.1.6 Define a point of inflection on a curve as a point where the concavity changes
-12.5.1.7 Analyse the value of $f''(x)$ either side of the roots of $f''(x) = 0$, and use the resulting concavities to identify which zeroes of $f''(x)$ are points of inflection
+12.5.1.7 Analyse the value of f″(x) either side of the roots of f″(x) = 0, and use the resulting concavities to identify which zeroes of f″(x) are points of inflection
 12.5.1.8 Use the second derivative to classify a stationary point as a local maximum, local minimum or a horizontal point of inflection
-12.5.1.9 Graph a function by determining local maxima and minima and points of inflection, horizontal and non-horizontal, considering any even or odd symmetry, the domain, any vertical asymptotes or other discontinuities, and where applicable, the behaviour of a function as $x \rightarrow \pm \infty$
-12.5.1.10 Graph $y = f'(x)$ and $y = f''(x)$ for a function $y = f(x)$, given only a graph of $y = f(x)$
+12.5.1.9 Graph a function by determining local maxima and minima and points of inflection, horizontal and non-horizontal, considering any even or odd symmetry, the domain, any vertical asymptotes or other discontinuities, and where applicable, the behaviour of a function as x → ± ∞
+12.5.1.10 Graph y = f′(x) and y = f″(x) for a function y = f(x), given only a graph of y = f(x)
 ### 12.5.2 Optimisation
-12.5.2.1 Define a global maximum of a function $f(x)$ to be a point $P\left( a,f(a) \right)$ on the graph where $f(x) \leq f(a)$, for all $x$ in the domain, and define a global minimum similarly
-12.5.2.2 Examine whether any discontinuities or endpoints of the domain on which $f(x)$ is being considered are points of maxima or minima
+12.5.2.1 Define a global maximum of a function f(x) to be a point P(a,f(a)) on the graph where f(x) ≤ f(a), for all x in the domain, and define a global minimum similarly
+12.5.2.2 Examine whether any discontinuities or endpoints of the domain on which f(x) is being considered are points of maxima or minima
 12.5.2.3 Model optimisation problems in a variety of contexts by defining variables, noting domain restrictions if necessary, and establishing functions to represent the relationship between variables
-12.5.2.4 Solve optimisation problems by using calculus to find local and global maxima and minima of differentiable functions, checking discontinuities of $f'(x)$ and endpoints of the domain if applicable
+12.5.2.4 Solve optimisation problems by using calculus to find local and global maxima and minima of differentiable functions, checking discontinuities of f′(x) and endpoints of the domain if applicable
 12.5.2.5 Formulate conclusions to optimisation problems by evaluating solutions given the constraints of the domain
 ### 12.5.3 Rates of change
-12.5.3.1 Use differentiation to find and interpret the first and second derivatives, $\frac{dQ}{dt}$ and $\frac{d^{2}Q}{dt^{2}}$, in practical problems where a quantity $Q$ is a function of time $t$
-12.5.3.2 Use integration to solve practical problems on the rate of change of a quantity $Q,$ where $\frac{dQ}{dt}$ or $\frac{d^{2}Q}{dt^{2}}$ is given as a function of time $t$, together with sufficient initial conditions
+12.5.3.1 Use differentiation to find and interpret the first and second derivatives, $\frac{dQ}{dt}$ and $\frac{d^{2}Q}{dt^{2}}$, in practical problems where a quantity Q is a function of time t
+12.5.3.2 Use integration to solve practical problems on the rate of change of a quantity Q, where $\frac{dQ}{dt}$ or $\frac{d^{2}Q}{dt^{2}}$ is given as a function of time t, together with sufficient initial conditions
 12.5.3.3 Describe and examine the graphs of practical situations where the rate of change of a quantity is proportional to the quantity
-12.5.3.4 Explain that if the rate of change of a positive quantity $Q$ over time $t$ is proportional to the size of $Q$, then this may be represented by $\frac{dQ}{dt} = kQ$ where $k$ is the constant of proportionality, and if $k > 0$ the quantity $Q$ is increasing at a rate proportional to the value of $Q$ at time $t$, while if $k < 0$ the quantity $Q$ is decreasing at a rate proportional to the value of $Q$ at time $t$
-12.5.3.5 Verify by substitution that the function $Q = Ae^{kt}$ satisfies the relationship $\frac{dQ}{dt} = kQ$ with $A$ being the initial value of $Q$
-12.5.3.6 Recognise that the equation $\frac{dQ}{dt} = kQ$ where $Q > 0$, and its solution $Q = Ae^{kt}$ represent exponential growth when $k > 0$ and exponential decay when $k < 0$
-12.5.3.7 Graph the function $Q = Ae^{kt}$, where $k > 0$ and $k < 0$ and $A > 0$ and $A < 0$, with and without graphing applications, and identify any asymptotes
-12.5.3.8 Model and solve growth and decay problems in various contexts using $\frac{dQ}{dt} = kQ$, $Q = Ae^{kt}$ and the graph of $Q = Ae^{kt}$ for $t \geq 0$, and justify conclusions in the context of the problem
+12.5.3.4 Explain that if the rate of change of a positive quantity Q over time t is proportional to the size of Q, then this may be represented by $\frac{dQ}{dt} = kQ$ where k is the constant of proportionality, and if k > 0 the quantity Q is increasing at a rate proportional to the value of Q at time t, while if k < 0 the quantity Q is decreasing at a rate proportional to the value of Q at time t
+12.5.3.5 Verify by substitution that the function Q = Ae^(kt) satisfies the relationship $\frac{dQ}{dt} = kQ$ with A being the initial value of Q
+12.5.3.6 Recognise that the equation $\frac{dQ}{dt} = kQ$ where Q > 0, and its solution Q = Ae^(kt) represent exponential growth when k > 0 and exponential decay when k < 0
+12.5.3.7 Graph the function Q = Ae^(kt), where k > 0 and k < 0 and A > 0 and A < 0, with and without graphing applications, and identify any asymptotes
+12.5.3.8 Model and solve growth and decay problems in various contexts using $\frac{dQ}{dt} = kQ$, Q = Ae^(kt) and the graph of Q = Ae^(kt) for t ≥ 0, and justify conclusions in the context of the problem
 12.5.3.9 Determine the velocity and acceleration of a particle moving in a straight line given its displacement from a point as a function of time, and use the notation $\frac{d^{2}x}{dt^{2}}$ or $\overset{¨}{x}$ to represent acceleration
 12.5.3.10 Solve problems relating to the motion of a particle moving in a straight line, using both differentiation and integration to connect the concepts of displacement, velocity and acceleration
 ## 12.6 Random variables
 ### 12.6.1 Discrete random variables
-12.6.1.1 Use the relative frequencies of discrete random variable datasets to estimate the probabilities that the random variable $X$ takes each of its values, and explain why these estimated probabilities add to 1
-12.6.1.2 Denote the probability that the discrete random variable $X$ takes the value $x$ by $P(X = x)$, or by $P(x)$ if the discrete random variable $X$ is understood
-12.6.1.3 Define a discrete probability distribution to be the set of values $x$ taken by a discrete random variable $X$, together with the probabilities $P(x)$ that $x$ is the outcome of the experiment
+12.6.1.1 Use the relative frequencies of discrete random variable datasets to estimate the probabilities that the random variable X takes each of its values, and explain why these estimated probabilities add to 1
+12.6.1.2 Denote the probability that the discrete random variable X takes the value x by P(X=x), or by P(x) if the discrete random variable X is understood
+12.6.1.3 Define a discrete probability distribution to be the set of values x taken by a discrete random variable X, together with the probabilities P(x) that x is the outcome of the experiment
 12.6.1.4 Define a discrete random variable to be uniformly distributed if it has finitely many values, all with the same probability, and use it to model random phenomena with equally likely outcomes
-12.6.1.5 Recognise the mean, or expected value, $\mu$ or $\text{E}(X)$, of a discrete random variable $X$ as a measure of centre for its distribution
-12.6.1.6 Generate and use the formulas $\text{E}(X) = \mu = \Sigma xP(x)$ and $Var(X) = \sigma^{2} = \Sigma(x - \mu)^{2}P(x) = \Sigma x^{2}P(x) - \mu^{2}$ for the random variable $X$, where $Var(X)$ is the variance and $\sigma$ is the standard deviation of the distribution
-12.6.1.7 Recognise that the variance is an expected value because $\text{Var}(X) = \text{E}\left( (X - \mu)^{2} \right)$
+12.6.1.5 Recognise the mean, or expected value, μ or E(X), of a discrete random variable X as a measure of centre for its distribution
+12.6.1.6 Generate and use the formulas E(X) = μ = ΣxP(x) and Var(X) = σ² = Σ(x−μ)²P(x) = Σx²P(x) − μ² for the random variable X, where Var(X) is the variance and σ is the standard deviation of the distribution
+12.6.1.7 Recognise that the variance is an expected value because Var(X) = E((X−μ)²)
 12.6.1.8 Generate a probability distribution for a given discrete random variable and represent the probability distribution in graphical and tabular form
 12.6.1.9 Solve problems involving probabilities, expectation and variance of discrete random variables
 ### 12.6.2 Continuous random variables
 12.6.2.1 Estimate the probability that a continuous random variable falls in some interval using relative frequencies and histograms obtained from data
-12.6.2.2 Recognise that the probability of a particular value for a continuous random variable is 0 and hence that $P(a < X < b) = P(a \leq X < b) = P(a < X \leq b) = P(a \leq X \leq b)$ since $P(X = a) = P(X = b) = 0$ when $X$ is a continuous random variable
-12.6.2.3 Define the cumulative distribution function (CDF), $F(x)$, as the probability of a random variable, $X$, having values less than or equal to $x$, so $F(x) = P(X \leq x)$ and $P(a \leq x \leq b) = F(b) - F(a)$
-12.6.2.4 Recognise that the cumulative distribution function, $F(x)$, is non-decreasing for all $x$ in its domain, and graph cumulative distribution functions, given a formula for $F(x)$, with and without graphing applications
-12.6.2.5 Define a probability density function (PDF), $f(x)$, for a random variable $X$ with cumulative distribution function $F(x)$ as $f(x) = F'(x)$ and recognise that $P(a < X < b) = \int_{a}^{b}{f(x)}dx$
-12.6.2.6 Recognise the properties of a probability density function: $f(x) \geq 0$ for all $x$ in the domain of $f(x),$ and $\int_{a}^{b}{f{(x})dx} = 1$ if the domain of $f(x)$ is $\lbrack a,b\rbrack$, or $\int_{- \infty}^{\infty}{f{(x})dx} = 1$ if the domain of $f(x)$ is all real $x$
+12.6.2.2 Recognise that the probability of a particular value for a continuous random variable is 0 and hence that P(a<X<b) = P(a≤X<b) = P(a<X≤b) = P(a≤X≤b) since P(X=a) = P(X=b) = 0 when X is a continuous random variable
+12.6.2.3 Define the cumulative distribution function (CDF), F(x), as the probability of a random variable, X, having values less than or equal to x, so F(x) = P(X≤x) and P(a≤x≤b) = F(b) − F(a)
+12.6.2.4 Recognise that the cumulative distribution function, F(x), is non-decreasing for all x in its domain, and graph cumulative distribution functions, given a formula for F(x), with and without graphing applications
+12.6.2.5 Define a probability density function (PDF), f(x), for a random variable X with cumulative distribution function F(x) as f(x) = F′(x) and recognise that P(a<X<b) = ∫_(a)^(b)f(x)dx
+12.6.2.6 Recognise the properties of a probability density function: f(x) ≥ 0 for all x in the domain of f(x), and ∫_(a)^(b)f(x)dx = 1 if the domain of f(x) is [a, b], or ∫_(−∞)^(∞)f(x)dx = 1 if the domain of f(x) is all real x
 12.6.2.7 Apply the properties of a probability density function to solve problems and justify conclusions
 12.6.2.8 Find the mode from a given probability density function
-12.6.2.9 Obtain the cumulative distribution function using the formula $F(x) = \int_{a}^{x}{f(t)dt}$ where $f(x)$ is a given probability density function defined on the interval $\lbrack a,b\rbrack$
-12.6.2.10 Determine and use the probability density function $f(x) = \frac{1}{b - a}$ for a continuous uniform distribution for a random variable $X$ taking values in the interval $\lbrack a,b\rbrack$
+12.6.2.9 Obtain the cumulative distribution function using the formula F(x) = ∫_(a)^(x)f(t)dt where f(x) is a given probability density function defined on the interval [a, b]
+12.6.2.10 Determine and use the probability density function $f(x) = \frac{1}{b - a}$ for a continuous uniform distribution for a random variable X taking values in the interval [a, b]
 12.6.2.11 Use a cumulative distribution function to calculate the median and quartiles for a continuous random variable
 12.6.2.12 Find the probability density function from a given cumulative distribution function
-12.6.2.13 Generate the expression for the expected value of a continuous random variable, $E(X) = \mu = \int_{a}^{b}{xf(x)dx}$, where the probability density function $f(x)$ is defined on the interval $\lbrack a,b\rbrack$
-12.6.2.14 Generate the expression for the variance of a continuous random variable, $\text{Var}(X) = E\left( X^{2} \right) - \mu^{2} = \int_{a}^{b}{x^{2}f(x)dx} - \mu^{2}$, where the probability density function $f(x)$ is defined on the interval $\lbrack a,b\rbrack$
-12.6.2.15 Evaluate the expected value and the variance of a continuous random variable, where the probability density function $f(x)$ is defined on the interval $\lbrack a,b\rbrack$, that involve integration of functions within the scope of the Mathematics Advanced course
-12.6.2.16 Evaluate the expected value and the variance of a continuous random variable, where the probability density function $f(x)$ is defined on the interval $\lbrack a,b\rbrack$, that involve integration of functions beyond the scope of the Mathematics Advanced course using an online computational application
+12.6.2.13 Generate the expression for the expected value of a continuous random variable, E(X) = μ = ∫_(a)^(b)xf(x)dx, where the probability density function f(x) is defined on the interval [a, b]
+12.6.2.14 Generate the expression for the variance of a continuous random variable, Var(X) = E(X²) − μ² = ∫_(a)^(b)x²f(x)dx − μ², where the probability density function f(x) is defined on the interval [a, b]
+12.6.2.15 Evaluate the expected value and the variance of a continuous random variable, where the probability density function f(x) is defined on the interval [a, b], that involve integration of functions within the scope of the Mathematics Advanced course
+12.6.2.16 Evaluate the expected value and the variance of a continuous random variable, where the probability density function f(x) is defined on the interval [a, b], that involve integration of functions beyond the scope of the Mathematics Advanced course using an online computational application
 ### 12.6.3 The normal distribution
 12.6.3.1 Identify the normal distribution as a continuous probability distribution that is used to model many naturally occurring phenomena
-12.6.3.2 Identify the graph of the probability density function of a normal distribution, the normal curve, as an 'ideal' bell-shaped curve, symmetrical about its mean which is equal to its mode and median, and as having most values concentrated about the mean
+12.6.3.2 Identify the graph of the probability density function of a normal distribution, the normal curve, as an ‘ideal’ bell-shaped curve, symmetrical about its mean which is equal to its mode and median, and as having most values concentrated about the mean
 12.6.3.3 Identify contexts that can be approximately modelled by a normal random variable
-12.6.3.4 Use the notation $X \sim N\left( \mu,\sigma^{2} \right)$ to represent a normally distributed random variable that has mean $\mu$ and standard deviation $\sigma$
-12.6.3.5 Represent probabilities associated with the normal distribution by areas of shaded regions under the normal curve, which may extend to $\pm \infty$
+12.6.3.4 Use the notation X ∼ N(μ,σ²) to represent a normally distributed random variable that has mean μ and standard deviation σ
+12.6.3.5 Represent probabilities associated with the normal distribution by areas of shaded regions under the normal curve, which may extend to ± ∞
 12.6.3.6 Apply the empirical rule to make judgements and solve problems involving probabilities of normally distributed data: that for normal distributions, approximately 68% of data lie within one standard deviation of the mean, approximately 95% within two standard deviations of the mean and approximately 99.7% within three standard deviations of the mean
 12.6.3.7 Use graphing applications to explore the normal distribution, graph the probability density function $f(x) = \frac{1}{\sigma\sqrt{2\pi}}e^{- \frac{({x - \mu)}^{2}}{2\sigma^{2}}}$, verify the empirical rule and graph the cumulative distribution function
 12.6.3.8 Recognise features of the normal curve, and identify the global maximum and points of inflection
-12.6.3.9 Distinguish between a standard normal distribution with mean 0 and standard deviation 1, and the non-standard normal distribution with mean $\mu$ and standard deviation $\sigma$
-12.6.3.10 Define the $z$-score, or standardised score, by the formula $z = \frac{x - \mu}{\sigma}$, where $\mu$ is the mean and $\sigma$ is the standard deviation, and $x$ is an observed value of a random variable
-12.6.3.11 Interpret the $z$-score as the number of standard deviations a score lies above or below the mean
-12.6.3.12 Use $z$-scores to compare scores from different sets of data and justify conclusions
-12.6.3.13 Use $z$-scores to identify probabilities of events less or more extreme than a given outcome and solve problems using tables for the standard normal distribution
+12.6.3.9 Distinguish between a standard normal distribution with mean 0 and standard deviation 1, and the non-standard normal distribution with mean μ and standard deviation σ
+12.6.3.10 Define the z -score, or standardised score, by the formula $z = \frac{x - \mu}{\sigma}$, where μ is the mean and σ is the standard deviation, and x is an observed value of a random variable
+12.6.3.11 Interpret the z -score as the number of standard deviations a score lies above or below the mean
+12.6.3.12 Use z -scores to compare scores from different sets of data and justify conclusions
+12.6.3.13 Use z -scores to identify probabilities of events less or more extreme than a given outcome and solve problems using tables for the standard normal distribution
 12.6.3.14 Solve problems involving finding the mean or standard deviation of a normal random variable given the probability of an event less or more extreme than a given outcome
-12.6.3.15 Use $z$-scores to make judgements related to probabilities of certain events or given sets of data assuming an underlying normal distribution
+12.6.3.15 Use z -scores to make judgements related to probabilities of certain events or given sets of data assuming an underlying normal distribution
 ## 12.7 Financial mathematics
 ### 12.7.1 Reducing balance loans
 12.7.1.1 Recognise a reducing balance loan algebraically as a compound interest loan with periodic repayments
@@ -422,4 +422,4 @@
 12.7.2.1 Identify an annuity as either an investment account with regular, equal contributions and interest compounding at the end of each period, or as a single sum investment from which regular equal withdrawals are made
 12.7.2.2 Define and model the future value of an annuity as the sum of all the payments, together with the interest they have earned
 12.7.2.3 Examine the effect of varying the amount initially invested, the value of the periodic payment, the interest rate and the duration of the annuity on the total value of the investment, using digital tools
-12.7.2.4 Solve problems involving annuities in which payments are made at the end of each time period and the future value of an annuity is calculated at the end of one of these periods using the formula for the sum of the first $n$ terms of a geometric sequence
+12.7.2.4 Solve problems involving annuities in which payments are made at the end of each time period and the future value of an annuity is calculated at the end of one of these periods using the formula for the sum of the first n terms of a geometric sequence

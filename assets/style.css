@@ -111,6 +111,7 @@ button{cursor:pointer}
 .opts.short{grid-template-columns:repeat(2,minmax(0,1fr))}
 .opts div{display:flex;gap:8px}
 .opts b{font-weight:600}
+.opts img{max-width:min(100%,300px);height:auto;display:block;background:#fff;border-radius:4px}
 .opts .correct{background:var(--mark);border-radius:4px}
 .src{font-size:13px;color:var(--muted);margin-top:8px}
 .src .dps{color:var(--faint)}

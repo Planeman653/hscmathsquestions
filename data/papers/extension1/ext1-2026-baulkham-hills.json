@@ -1,0 +1,466 @@
+{
+ "id": "ext1-2026-baulkham-hills",
+ "course": "extension1",
+ "school": "Baulkham Hills",
+ "year": 2026,
+ "type": "Trial",
+ "thsc": {
+  "viewno": "5338",
+  "title": "Baulkham Hills 2026 w. sol"
+ },
+ "indexed": "2026-11-11",
+ "answers": "worked",
+ "dropped": [
+  {
+   "ref": "Q2",
+   "reason": "Not in 2024 syllabus: pigeonhole principle"
+  },
+  {
+   "ref": "Q4",
+   "reason": "Not in 2024 syllabus: graphing y² = f(x)"
+  },
+  {
+   "ref": "Q14(c)(ii)",
+   "reason": "Not in 2024 syllabus: normal approximation to the binomial distribution (explicitly excluded)"
+  }
+ ],
+ "questions": [
+  {
+   "ref": "Q1",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.4.9",
+    "12.5.4.4"
+   ],
+   "question": "Consider the slope field shown. Which of the following differential equations best describes the given slope field?",
+   "answer": "Along the line $y = x$ the slopes are all zero (horizontal segments). Only option B gives $\\dfrac{dy}{dx} = x - x = 0$ when $y = x$. Checking further: at $(0, 2)$ the slope is negative ($0 - 2 < 0$), matching the field.",
+   "options": [
+    "$\\dfrac{dy}{dx} = x + y$",
+    "$\\dfrac{dy}{dx} = x - y$",
+    "$\\dfrac{dy}{dx} = xy$",
+    "$\\dfrac{dy}{dx} = -xy$"
+   ],
+   "correct": "B",
+   "images": [
+    "assets/img/ext1-2026-baulkham-hills/q1.png"
+   ]
+  },
+  {
+   "ref": "Q3",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.4.10",
+    "12.2.3.8"
+   ],
+   "question": "The vector $\\mathbf{a} = 4\\mathbf{i} + 3\\mathbf{j}$ is projected onto $\\mathbf{b} = \\mathbf{i} - \\mathbf{j}$. Let $\\hat{\\mathbf{u}}$ be the unit vector in the direction of this projection. Which of the following represents $\\hat{\\mathbf{u}}$?",
+   "answer": "$\\mathbf{a}\\cdot\\mathbf{b} = 4(1) + 3(-1) = 1$ and $|\\mathbf{b}|^2 = 2$, so\n$$\\text{proj}_{\\mathbf{b}}\\mathbf{a} = \\frac{\\mathbf{a}\\cdot\\mathbf{b}}{|\\mathbf{b}|^2}\\,\\mathbf{b} = \\frac{1}{2}(\\mathbf{i} - \\mathbf{j}).$$\nThis points in the direction of $\\mathbf{i} - \\mathbf{j}$, which has magnitude $\\sqrt{2}$, so $\\hat{\\mathbf{u}} = \\dfrac{1}{\\sqrt{2}}\\mathbf{i} - \\dfrac{1}{\\sqrt{2}}\\mathbf{j}$.",
+   "options": [
+    "$\\dfrac{1}{\\sqrt{2}}\\mathbf{i} - \\dfrac{1}{\\sqrt{2}}\\mathbf{j}$",
+    "$-\\dfrac{1}{\\sqrt{2}}\\mathbf{i} + \\dfrac{1}{\\sqrt{2}}\\mathbf{j}$",
+    "$\\dfrac{1}{\\sqrt{2}}\\mathbf{i} + \\dfrac{1}{\\sqrt{2}}\\mathbf{j}$",
+    "$-\\dfrac{1}{\\sqrt{2}}\\mathbf{i} - \\dfrac{1}{\\sqrt{2}}\\mathbf{j}$"
+   ],
+   "correct": "A"
+  },
+  {
+   "ref": "Q5",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.4.5",
+    "12.2.4.2"
+   ],
+   "question": "Let $\\mathbf{a}$ and $\\mathbf{b}$ be two unit vectors such that $|\\mathbf{a} - \\mathbf{b}|^2 = 8$. What is the value of $\\mathbf{a}\\cdot\\mathbf{b}$?",
+   "answer": "$$|\\mathbf{a} - \\mathbf{b}|^2 = |\\mathbf{a}|^2 + |\\mathbf{b}|^2 - 2\\,\\mathbf{a}\\cdot\\mathbf{b} = 1 + 1 - 2\\,\\mathbf{a}\\cdot\\mathbf{b} = 8 \\;\\Rightarrow\\; \\mathbf{a}\\cdot\\mathbf{b} = -3.$$\n(Note: for genuine unit vectors $|\\mathbf{a}\\cdot\\mathbf{b}| \\le 1$, so this situation cannot actually occur; the intended answer is A.)",
+   "options": [
+    "$-3$",
+    "$3$",
+    "$-4$",
+    "$4$"
+   ],
+   "correct": "A"
+  },
+  {
+   "ref": "Q6",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.6.2.9",
+    "12.6.2.6"
+   ],
+   "question": "A factory produces components with a 2% defect rate. A quality inspector randomly samples components independently and tests them one at a time. What is the minimum number of components that must be sampled so that the probability of finding at least one defective component exceeds $0.5$?",
+   "answer": "Let $X \\sim \\text{Bin}(n, 0.02)$. Then $P(X \\ge 1) = 1 - 0.98^n > 0.5$, so $0.98^n < 0.5$ and\n$$n > \\frac{\\ln 0.5}{\\ln 0.98} \\approx 34.31.$$\nHence $n = 35$.",
+   "options": [
+    "$17$",
+    "$34$",
+    "$35$",
+    "$50$"
+   ],
+   "correct": "C"
+  },
+  {
+   "ref": "Q7",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.1.5"
+   ],
+   "question": "If $t = \\tan\\dfrac{x}{2}$ and it is known that $\\sin x = \\dfrac{24}{25}$ with $x$ in the first quadrant, what is the value of $t$?",
+   "answer": "Since $x$ is in the first quadrant, $\\cos x = \\dfrac{7}{25}$. Using $\\cos x = \\dfrac{1 - t^2}{1 + t^2}$:\n$$25 - 25t^2 = 7 + 7t^2 \\;\\Rightarrow\\; t^2 = \\frac{9}{16} \\;\\Rightarrow\\; t = \\pm\\frac{3}{4}.$$\nAs $0 < x < \\dfrac{\\pi}{2}$, $0 < \\dfrac{x}{2} < \\dfrac{\\pi}{4}$, so $0 < t < 1$. Hence $t = \\dfrac{3}{4}$.",
+   "options": [
+    "$\\dfrac{4}{3}$",
+    "$\\dfrac{24}{25}$",
+    "$\\dfrac{12}{25}$",
+    "$\\dfrac{3}{4}$"
+   ],
+   "correct": "D",
+   "course": "extension2"
+  },
+  {
+   "ref": "Q8",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "11.4.1.9",
+    "11.4.1.18"
+   ],
+   "question": "Eight students are to be seated in a row. Ekun and Inupa refuse to sit next to each other. Kaedon, Ronak and Gurjivan must sit together. How many seating arrangements are possible?",
+   "answer": "Treat Kaedon, Ronak and Gurjivan as one block: $3!$ internal arrangements. Arrange this block with the other 3 students (not Ekun or Inupa) in $4!$ ways. This creates 5 gaps; Ekun can take any of the 5 gaps and Inupa any of the remaining 4 gaps (so they are not adjacent).\n$$3! \\times 4! \\times 5 \\times 4 = 2880.$$",
+   "options": [
+    "$1440$",
+    "$2160$",
+    "$2880$",
+    "$3600$"
+   ],
+   "correct": "C"
+  },
+  {
+   "ref": "Q9",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.3.1.3",
+    "11.1.4.2"
+   ],
+   "question": "Which of the following represents the domain of $f(x) = \\sin^{-1}\\left(\\dfrac{x^2 - 3x + 2}{x^2 + 2x + 7}\\right)$?",
+   "answer": "We need $-1 \\le \\dfrac{x^2 - 3x + 2}{x^2 + 2x + 7} \\le 1$. The denominator $x^2 + 2x + 7 = (x+1)^2 + 6$ is always positive, so we can multiply through.\n\nUpper bound: $x^2 - 3x + 2 \\le x^2 + 2x + 7 \\Rightarrow -5x \\le 5 \\Rightarrow x \\ge -1$.\n\nLower bound: $x^2 - 3x + 2 \\ge -x^2 - 2x - 7 \\Rightarrow 2x^2 - x + 9 \\ge 0$, which is true for all real $x$ (discriminant $1 - 72 < 0$).\n\nDomain: $[-1, \\infty)$.",
+   "options": [
+    "$[1, \\infty)$",
+    "$[-1, 2]$",
+    "$[-1, \\infty)$",
+    "$(-\\infty, 2]$"
+   ],
+   "correct": "C"
+  },
+  {
+   "ref": "Q10",
+   "kind": "mc",
+   "marks": 1,
+   "difficulty": 4,
+   "dotpoints": [
+    "11.5.1.9",
+    "11.4.1.13"
+   ],
+   "question": "Which of the following represents the value of\n$$\\frac{1}{0!\\,51!} + \\frac{1}{1!\\,50!} + \\frac{1}{2!\\,49!} + \\cdots + \\frac{1}{50!\\,1!} + \\frac{1}{51!\\,0!}\\,?$$",
+   "answer": "Multiply and divide by $51!$:\n$$S = \\frac{1}{51!}\\left(\\frac{51!}{0!\\,51!} + \\frac{51!}{1!\\,50!} + \\cdots + \\frac{51!}{51!\\,0!}\\right) = \\frac{1}{51!}\\left(\\binom{51}{0} + \\binom{51}{1} + \\cdots + \\binom{51}{51}\\right) = \\frac{2^{51}}{51!}.$$",
+   "options": [
+    "$\\dfrac{2^{51}}{50!}$",
+    "$\\dfrac{2^{51}}{51!}$",
+    "$\\dfrac{2^{50}}{50!}$",
+    "$\\dfrac{2^{50}}{51!}$"
+   ],
+   "correct": "B"
+  },
+  {
+   "ref": "Q11(a)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "11.1.3.3",
+    "11.3.2.4"
+   ],
+   "question": "A curve is given by the parametric equations\n$$x = \\cos 2t, \\qquad y = \\cos t.$$\nFind the Cartesian equation of this curve.",
+   "answer": "$x = \\cos 2t = 2\\cos^2 t - 1$ and $y^2 = \\cos^2 t$, so\n$$x = 2y^2 - 1 \\quad\\text{or}\\quad y^2 = \\frac{x + 1}{2},$$\nwith $-1 \\le x \\le 1$ (and $-1 \\le y \\le 1$)."
+  },
+  {
+   "ref": "Q11(b)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "11.5.1.7"
+   ],
+   "question": "Find the coefficient of $x^4$ in the expansion of $(1 + 2x)(1 - x)^8$.",
+   "answer": "The general term of $(1 - x)^8$ is $\\binom{8}{r}(-1)^r x^r$.\n\n- $1 \\times$ the $x^4$ term: $\\binom{8}{4}(-1)^4 = 70$.\n- $2x \\times$ the $x^3$ term: $2 \\times \\binom{8}{3}(-1)^3 = 2 \\times (-56) = -112$.\n\nCoefficient of $x^4$: $70 - 112 = -42$."
+  },
+  {
+   "ref": "Q11(c)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.4.2.1"
+   ],
+   "question": "Find $\\displaystyle\\int \\frac{2}{\\sqrt{4 - 25x^2}}\\,dx$.",
+   "answer": "$$\\int \\frac{2}{\\sqrt{4 - 25x^2}}\\,dx = \\frac{2}{5}\\int \\frac{1}{\\sqrt{\\frac{4}{25} - x^2}}\\,dx = \\frac{2}{5}\\sin^{-1}\\left(\\frac{5x}{2}\\right) + C.$$"
+  },
+  {
+   "ref": "Q11(d)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 2,
+   "dotpoints": [
+    "11.1.4.2"
+   ],
+   "question": "Find the values of $x$ for which $\\dfrac{x + 4}{x - 1} \\le 6$.",
+   "answer": "Note $x \\ne 1$.\n$$\\frac{x + 4}{x - 1} - 6 \\le 0 \\;\\Rightarrow\\; \\frac{x + 4 - 6x + 6}{x - 1} \\le 0 \\;\\Rightarrow\\; \\frac{-5(x - 2)}{x - 1} \\le 0 \\;\\Rightarrow\\; \\frac{x - 2}{x - 1} \\ge 0.$$\nCritical points $x = 1$ (excluded) and $x = 2$. Testing intervals: the expression is non-negative for $x < 1$ or $x \\ge 2$.\n\n$$x < 1 \\quad\\text{or}\\quad x \\ge 2.$$"
+  },
+  {
+   "ref": "Q11(e)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.2.3.4",
+    "12.2.3.6"
+   ],
+   "question": "The position vectors of three points $A$, $B$ and $C$ relative to an origin $O$ are\n$$\\overrightarrow{OA} = \\mathbf{a}, \\quad \\overrightarrow{OB} = \\mathbf{b}, \\quad \\overrightarrow{OC} = 4\\mathbf{b} - 3\\mathbf{a}.$$\nThe point $M$ lies on the line segment $AB$ such that $AM = \\dfrac{3}{4}AB$.\n\nProve that the points $A$, $M$ and $C$ lie on a straight line.",
+   "answer": "$\\overrightarrow{AB} = \\mathbf{b} - \\mathbf{a}$, so $\\overrightarrow{AM} = \\dfrac{3}{4}(\\mathbf{b} - \\mathbf{a})$ and\n$$\\overrightarrow{OM} = \\mathbf{a} + \\frac{3}{4}(\\mathbf{b} - \\mathbf{a}) = \\frac{1}{4}\\mathbf{a} + \\frac{3}{4}\\mathbf{b}.$$\n$$\\overrightarrow{MC} = \\overrightarrow{OC} - \\overrightarrow{OM} = (4\\mathbf{b} - 3\\mathbf{a}) - \\left(\\frac{1}{4}\\mathbf{a} + \\frac{3}{4}\\mathbf{b}\\right) = \\frac{13}{4}(\\mathbf{b} - \\mathbf{a}).$$\nSo $\\overrightarrow{AM} = \\dfrac{3}{13}\\overrightarrow{MC}$, i.e. $\\overrightarrow{AM} \\parallel \\overrightarrow{MC}$. Since they share the point $M$, the points $A$, $M$ and $C$ are collinear."
+  },
+  {
+   "ref": "Q11(e)(ii)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.2.3.4"
+   ],
+   "question": "The position vectors of points $A$, $B$, $C$ relative to $O$ are $\\overrightarrow{OA} = \\mathbf{a}$, $\\overrightarrow{OB} = \\mathbf{b}$ and $\\overrightarrow{OC} = 4\\mathbf{b} - 3\\mathbf{a}$. The point $M$ lies on $AB$ with $AM = \\dfrac{3}{4}AB$, and $A$, $M$, $C$ are collinear with $\\overrightarrow{AM} = \\dfrac{3}{13}\\overrightarrow{MC}$.\n\nState the exact ratio of the lengths $AM : MC$.",
+   "answer": "Since $\\overrightarrow{AM} = \\dfrac{3}{13}\\overrightarrow{MC}$, $\\dfrac{AM}{MC} = \\dfrac{3}{13}$, so $AM : MC = 3 : 13$."
+  },
+  {
+   "ref": "Q11(f)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.1.1.3"
+   ],
+   "question": "Prove by mathematical induction that $2^n + 6^n$ is divisible by 8 for all positive integers $n$.",
+   "answer": "**Base case** $n = 1$: $2 + 6 = 8$, divisible by 8.\n\n**Assume** true for $n = k$: $2^k + 6^k = 8M$ for some integer $M$, so $2^k = 8M - 6^k$.\n\n**Prove** for $n = k + 1$:\n$$\\begin{aligned}\n2^{k+1} + 6^{k+1} &= 2 \\cdot 2^k + 6^{k+1} = 2(8M - 6^k) + 6 \\cdot 6^k \\\\\n&= 16M + 4 \\cdot 6^k = 16M + 4 \\cdot 2^k \\cdot 3^k \\\\\n&= 16M + 8 \\cdot 2^{k-1} \\cdot 3^k = 8\\left(2M + 2^{k-1}3^k\\right),\n\\end{aligned}$$\nwhich is divisible by 8 since $k \\ge 1$ makes $2^{k-1}3^k$ an integer.\n\nHence, by mathematical induction, $2^n + 6^n$ is divisible by 8 for all positive integers $n$."
+  },
+  {
+   "ref": "Q12(a)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "11.1.1.3",
+    "11.1.1.6"
+   ],
+   "question": "The graph of $y = f(x)$ for $-3 \\le x \\le 3$ is shown. Solve the equation $|f(x)| = x$.",
+   "answer": "Sketch $y = |f(x)|$ (reflect the parts below the $x$-axis upwards) together with the line $y = x$. The graphs coincide along the segment from $(0, 0)$ (open point, since $f(0) = 2$) to $(2, 2)$, where $f(x) = -x$.\n\n$$0 < x \\le 2.$$",
+   "images": [
+    "assets/img/ext1-2026-baulkham-hills/q12a.png"
+   ],
+   "answer_images": [
+    "assets/img/ext1-2026-baulkham-hills/q12ai-sol.png"
+   ]
+  },
+  {
+   "ref": "Q12(a)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 3,
+   "dotpoints": [
+    "11.1.1.1"
+   ],
+   "question": "The graph of $y = f(x)$ for $-3 \\le x \\le 3$ is shown. Sketch the graph of $y = \\dfrac{1}{f(x)}$.",
+   "answer": "Vertical asymptotes where $f(x) = 0$: $x = -3$, $x = -1$ and $x = 0$ (approached from the right, since $f(0^+) \\to 0^-$). Points where $f(x) = \\pm 1$ stay fixed; $f(x) = -2$ at $x = -2$ and $x = 2$ gives local maxima of $-\\tfrac{1}{2}$; $f(0) = 2$ gives the closed point $(0, \\tfrac{1}{2})$; $f(3) = -1$ gives the endpoint $(3, -1)$.",
+   "images": [
+    "assets/img/ext1-2026-baulkham-hills/q12a.png"
+   ],
+   "answer_images": [
+    "assets/img/ext1-2026-baulkham-hills/q12aii-sol.png"
+   ]
+  },
+  {
+   "ref": "Q12(b)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.4.2.2"
+   ],
+   "question": "By using the substitution $u = 1 + \\tan^2 x$, evaluate\n$$\\int_0^{\\frac{\\pi}{4}} \\frac{\\tan x\\sec^2 x}{(1 + \\tan^2 x)^2}\\,dx.$$",
+   "answer": "$u = 1 + \\tan^2 x = \\sec^2 x$, so $du = 2\\sec^2 x\\tan x\\,dx$. When $x = 0$, $u = 1$; when $x = \\dfrac{\\pi}{4}$, $u = 2$.\n$$\\int_0^{\\frac{\\pi}{4}} \\frac{\\tan x\\sec^2 x}{(1 + \\tan^2 x)^2}\\,dx = \\frac{1}{2}\\int_1^2 \\frac{du}{u^2} = \\frac{1}{2}\\left[-\\frac{1}{u}\\right]_1^2 = \\frac{1}{2}\\left(-\\frac{1}{2} + 1\\right) = \\frac{1}{4}.$$"
+  },
+  {
+   "ref": "Q12(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.1.1"
+   ],
+   "question": "The polynomial $P(x) = x^3 - 5x^2 + 8x + k$ has a root of multiplicity 2 at $x = \\alpha$, where $k$ is an integer constant and $\\alpha$ is a real constant. Find the two possible values of $\\alpha$.",
+   "answer": "A double root of $P$ is also a root of $P'$.\n$$P'(x) = 3x^2 - 10x + 8 = (x - 2)(3x - 4) = 0 \\;\\Rightarrow\\; \\alpha = 2 \\text{ or } \\alpha = \\frac{4}{3}.$$"
+  },
+  {
+   "ref": "Q12(c)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.1.1",
+    "11.2.2.6"
+   ],
+   "question": "The polynomial $P(x) = x^3 - 5x^2 + 8x + k$ has a root of multiplicity 2 at $x = \\alpha$, where $k$ is an integer constant. The possible values of $\\alpha$ are $2$ and $\\dfrac{4}{3}$. Determine the value of $k$.",
+   "answer": "Since $\\alpha$ is a root, $P(\\alpha) = 0$.\n\n$\\alpha = 2$: $8 - 20 + 16 + k = 0 \\Rightarrow k = -4$.\n\n$\\alpha = \\tfrac{4}{3}$: $\\tfrac{64}{27} - \\tfrac{80}{9} + \\tfrac{32}{3} + k = 0 \\Rightarrow k = -\\tfrac{112}{27}$, which is not an integer.\n\nHence $k = -4$."
+  },
+  {
+   "ref": "Q12(d)(i)",
+   "kind": "written",
+   "marks": 1,
+   "difficulty": 1,
+   "dotpoints": [
+    "12.4.1.1"
+   ],
+   "question": "Show the identity $\\cos 3x\\cos x \\equiv \\dfrac{1}{2}\\left(\\cos 2x + \\cos 4x\\right)$.",
+   "answer": "Using $\\cos A\\cos B = \\tfrac{1}{2}\\left[\\cos(A - B) + \\cos(A + B)\\right]$:\n$$\\text{LHS} = \\cos 3x\\cos x = \\frac{1}{2}\\left[\\cos(3x - x) + \\cos(3x + x)\\right] = \\frac{1}{2}(\\cos 2x + \\cos 4x) = \\text{RHS}.$$",
+   "course": "extension2"
+  },
+  {
+   "ref": "Q12(d)(ii)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.3"
+   ],
+   "question": "Using the identity $\\cos 3x\\cos x \\equiv \\dfrac{1}{2}\\left(\\cos 2x + \\cos 4x\\right)$, or otherwise, solve\n$$4\\cos x\\cos 2x\\cos 3x = 1 \\quad\\text{for } 0 \\le x \\le \\pi.$$",
+   "answer": "$$4\\cos 2x \\cdot \\tfrac{1}{2}(\\cos 2x + \\cos 4x) = 1 \\;\\Rightarrow\\; 2\\cos 2x\\left(2\\cos^2 2x + \\cos 2x - 1\\right) = 1$$\n(using $\\cos 4x = 2\\cos^2 2x - 1$), so\n$$4\\cos^3 2x + 2\\cos^2 2x - 2\\cos 2x - 1 = 0 \\;\\Rightarrow\\; (2\\cos^2 2x - 1)(2\\cos 2x + 1) = 0.$$\nFor $0 \\le 2x \\le 2\\pi$:\n\n- $\\cos 2x = \\pm\\dfrac{1}{\\sqrt{2}}$: $2x = \\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}, \\dfrac{5\\pi}{4}, \\dfrac{7\\pi}{4}$, so $x = \\dfrac{\\pi}{8}, \\dfrac{3\\pi}{8}, \\dfrac{5\\pi}{8}, \\dfrac{7\\pi}{8}$.\n- $\\cos 2x = -\\dfrac{1}{2}$: $2x = \\dfrac{2\\pi}{3}, \\dfrac{4\\pi}{3}$, so $x = \\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}$.\n\n$$x = \\frac{\\pi}{8}, \\frac{\\pi}{3}, \\frac{3\\pi}{8}, \\frac{5\\pi}{8}, \\frac{2\\pi}{3}, \\frac{7\\pi}{8}.$$",
+   "course": "extension2"
+  },
+  {
+   "ref": "Q13(a)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.4.1.6",
+    "12.3.1.6"
+   ],
+   "question": "Given $\\sin y = \\dfrac{x}{1 + x^2}$ for the interval $\\dfrac{\\pi}{2} < y < \\pi$, show that\n$$\\frac{dy}{dx} = \\frac{x^2 - 1}{(1 + x^2)\\sqrt{1 + x^2 + x^4}}.$$",
+   "answer": "$\\sin^{-1}$ returns values in $\\left[-\\tfrac{\\pi}{2}, \\tfrac{\\pi}{2}\\right]$, so use $\\sin(\\pi - y) = \\sin y$ with $0 < \\pi - y < \\tfrac{\\pi}{2}$:\n$$\\pi - y = \\sin^{-1}\\frac{x}{1 + x^2} \\;\\Rightarrow\\; y = \\pi - \\sin^{-1}\\frac{x}{1 + x^2}.$$\nLet $f(x) = \\dfrac{x}{1 + x^2}$, so $f'(x) = \\dfrac{1 + x^2 - 2x^2}{(1 + x^2)^2} = \\dfrac{1 - x^2}{(1 + x^2)^2}$. Then\n$$\\frac{dy}{dx} = -\\frac{f'(x)}{\\sqrt{1 - f(x)^2}} = -\\frac{1 - x^2}{(1 + x^2)^2} \\div \\frac{\\sqrt{(1 + x^2)^2 - x^2}}{1 + x^2} = \\frac{x^2 - 1}{(1 + x^2)\\sqrt{1 + x^2 + x^4}}.$$"
+  },
+  {
+   "ref": "Q13(b)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.3.3",
+    "12.4.2.3"
+   ],
+   "question": "The diagram shows the curve $y = \\sqrt{\\sin 2x + \\sin^2 2x}$ for $0 \\le x \\le \\dfrac{\\pi}{6}$. The shaded region is bounded by the curve, the line $x = \\dfrac{\\pi}{6}$ and the $x$-axis.\n\nFind the exact volume of the solid produced when the shaded region is rotated about the $x$-axis.",
+   "answer": "$$V = \\pi\\int_0^{\\frac{\\pi}{6}} \\left(\\sin 2x + \\sin^2 2x\\right)dx = \\pi\\int_0^{\\frac{\\pi}{6}} \\left(\\sin 2x + \\frac{1}{2} - \\frac{1}{2}\\cos 4x\\right)dx$$\n$$= \\pi\\left[-\\frac{1}{2}\\cos 2x + \\frac{x}{2} - \\frac{1}{8}\\sin 4x\\right]_0^{\\frac{\\pi}{6}} = \\pi\\left[\\left(-\\frac{1}{4} + \\frac{\\pi}{12} - \\frac{\\sqrt{3}}{16}\\right) - \\left(-\\frac{1}{2}\\right)\\right]$$\n$$= \\pi\\left(\\frac{1}{4} + \\frac{\\pi}{12} - \\frac{\\sqrt{3}}{16}\\right) = \\frac{\\pi(12 + 4\\pi - 3\\sqrt{3})}{48} \\text{ units}^3.$$",
+   "images": [
+    "assets/img/ext1-2026-baulkham-hills/q13b.png"
+   ]
+  },
+  {
+   "ref": "Q13(c)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.2.4.6",
+    "12.2.4.7"
+   ],
+   "question": "Consider the vectors $\\mathbf{u} = \\mathbf{a} + 3\\mathbf{b}$, $\\mathbf{v} = 7\\mathbf{a} - 5\\mathbf{b}$, $\\mathbf{w} = 7\\mathbf{a} - 2\\mathbf{b}$ and $\\mathbf{z} = \\mathbf{a} - 4\\mathbf{b}$, where $\\mathbf{a}$ and $\\mathbf{b}$ are non-zero.\n\nIf $\\mathbf{u} \\perp \\mathbf{v}$ and $\\mathbf{z} \\perp \\mathbf{w}$, find the size of the angle between $\\mathbf{a}$ and $\\mathbf{b}$.",
+   "answer": "$\\mathbf{u}\\cdot\\mathbf{v} = 0$: $\\;7|\\mathbf{a}|^2 - 15|\\mathbf{b}|^2 + 16\\,\\mathbf{a}\\cdot\\mathbf{b} = 0 \\quad (1)$\n\n$\\mathbf{z}\\cdot\\mathbf{w} = 0$: $\\;7|\\mathbf{a}|^2 + 8|\\mathbf{b}|^2 - 30\\,\\mathbf{a}\\cdot\\mathbf{b} = 0 \\quad (2)$\n\n$30\\times(1) + 16\\times(2)$ eliminates $\\mathbf{a}\\cdot\\mathbf{b}$:\n$$322|\\mathbf{a}|^2 - 322|\\mathbf{b}|^2 = 0 \\;\\Rightarrow\\; |\\mathbf{a}| = |\\mathbf{b}|.$$\nSubstituting into (2): $15|\\mathbf{a}|^2 = 30\\,\\mathbf{a}\\cdot\\mathbf{b} = 30|\\mathbf{a}|^2\\cos\\theta$, so $\\cos\\theta = \\dfrac{1}{2}$ and\n$$\\theta = 60^\\circ \\;\\left(\\tfrac{\\pi}{3}\\right).$$"
+  },
+  {
+   "ref": "Q13(d)(i)",
+   "kind": "written",
+   "marks": 3,
+   "difficulty": 3,
+   "dotpoints": [
+    "12.5.4.15"
+   ],
+   "question": "A conservation organisation releases 100 animals of an endangered species into a protected game preserve, which has a maximum carrying capacity of 1000 animals. The herd size $H$ after $t$ years is modelled by\n$$\\frac{dH}{dt} = kH\\left(1 - \\frac{H}{1000}\\right),$$\nwhere $k$ is a growth constant. Use the fact that\n$$\\frac{1000}{H(1000 - H)} = \\frac{1}{H} + \\frac{1}{1000 - H}$$\nto show that $H = \\dfrac{1000}{1 + 9e^{-kt}}$.",
+   "answer": "$\\dfrac{dH}{dt} = \\dfrac{kH(1000 - H)}{1000}$, so separating variables:\n$$\\int_{100}^{H}\\left(\\frac{1}{H} + \\frac{1}{1000 - H}\\right)dH = \\int_0^t k\\,dt.$$\nFor $100 \\le H < 1000$:\n$$\\left[\\ln\\frac{H}{1000 - H}\\right]_{100}^{H} = kt \\;\\Rightarrow\\; \\ln\\frac{H}{1000 - H} - \\ln\\frac{100}{900} = kt \\;\\Rightarrow\\; \\ln\\frac{9H}{1000 - H} = kt.$$\n$$9H = e^{kt}(1000 - H) \\;\\Rightarrow\\; H(9 + e^{kt}) = 1000e^{kt} \\;\\Rightarrow\\; H = \\frac{1000e^{kt}}{9 + e^{kt}} = \\frac{1000}{1 + 9e^{-kt}}.$$"
+  },
+  {
+   "ref": "Q13(d)(ii)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.4.16"
+   ],
+   "question": "The size $H$ of a herd after $t$ years is modelled by $H = \\dfrac{1000}{1 + 9e^{-kt}}$. Biologists record that the population has grown to 134 animals at the end of year 2. Determine the value of $k$, correct to four decimal places.",
+   "answer": "$$134 = \\frac{1000}{1 + 9e^{-2k}} \\;\\Rightarrow\\; 1 + 9e^{-2k} = \\frac{1000}{134} \\;\\Rightarrow\\; e^{-2k} = \\frac{433}{603}.$$\n$$k = -\\frac{1}{2}\\ln\\frac{433}{603} \\approx 0.1656.$$"
+  },
+  {
+   "ref": "Q14(a)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.5.2.2"
+   ],
+   "question": "Fuel leaks onto a flat section of road at a steady rate of $0.0008\\ \\text{m}^3/\\text{s}$, forming a circular spill. Assuming the spill forms a cylinder of constant thickness 3 mm, find the exact rate at which the radius of the spill is increasing when the radius is 3 m.",
+   "answer": "$V = \\pi r^2 h = 0.003\\pi r^2$, so $\\dfrac{dV}{dr} = 0.006\\pi r$.\n$$\\frac{dr}{dt} = \\frac{dr}{dV}\\cdot\\frac{dV}{dt} = \\frac{0.0008}{0.006\\pi r} = \\frac{2}{15\\pi r}.$$\nWhen $r = 3$: $\\dfrac{dr}{dt} = \\dfrac{2}{45\\pi}\\ \\text{m/s}$."
+  },
+  {
+   "ref": "Q14(b)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 4,
+   "dotpoints": [
+    "12.5.4.13"
+   ],
+   "question": "The variables $x$ and $t$ satisfy the differential equation\n$$x\\ln x + t\\frac{dx}{dt} = 0.$$\nBy considering the derivative of $\\ln(\\ln x)$, solve the differential equation given $x = e$ when $t = 2$. Express your answer for $x$ in terms of $t$.",
+   "answer": "$\\dfrac{dx}{dt} = -\\dfrac{x\\ln x}{t}$, so separating variables:\n$$\\int \\frac{1}{x\\ln x}\\,dx = -\\int \\frac{1}{t}\\,dt.$$\nSince $\\dfrac{d}{dx}\\ln(\\ln x) = \\dfrac{1}{x\\ln x}$:\n$$\\ln(\\ln x) = -\\ln|t| + c.$$\nWhen $x = e$, $t = 2$: $\\ln 1 = 0 = -\\ln 2 + c$, so $c = \\ln 2$. Then (with $t > 0$)\n$$\\ln(\\ln x) = \\ln\\frac{2}{t} \\;\\Rightarrow\\; \\ln x = \\frac{2}{t} \\;\\Rightarrow\\; x = e^{\\frac{2}{t}}.$$"
+  },
+  {
+   "ref": "Q14(c)(i)",
+   "kind": "written",
+   "marks": 2,
+   "difficulty": 2,
+   "dotpoints": [
+    "12.6.2.9",
+    "12.6.2.6"
+   ],
+   "question": "In a large school, 28% of students do not play any musical instrument, 52% play exactly one musical instrument and the remainder play two or more. A random sample of 12 students is chosen. Find the probability that more than 9 of these students play at least one musical instrument.",
+   "answer": "$P(\\text{at least one instrument}) = 1 - 0.28 = 0.72$, so $M \\sim \\text{Bin}(12, 0.72)$.\n$$P(M > 9) = \\binom{12}{10}0.72^{10}0.28^2 + \\binom{12}{11}0.72^{11}0.28 + 0.72^{12} \\approx 0.304.$$"
+  },
+  {
+   "ref": "Q14(d)",
+   "kind": "written",
+   "marks": 4,
+   "difficulty": 5,
+   "dotpoints": [
+    "12.2.6.8",
+    "12.2.6.7"
+   ],
+   "question": "A motorcyclist attempts a gorge jump by launching from a ramp with initial speed $V$ m/s at an angle of elevation of $30^\\circ$. From the point of launch, the position $(x, y)$ of the motorcyclist $t$ seconds after launch is given by\n$$x = \\frac{\\sqrt{3}Vt}{2}, \\qquad y = -5t^2 + \\frac{Vt}{2}.$$\n(You are not required to prove this.)\n\nThe motorcyclist aims to land on a receiving ramp at point $A$, which is 10 metres vertically below the level of launch. The receiving ramp slopes downwards at $45^\\circ$ to the horizontal. For a \"perfectly smooth\" landing at $A$, the direction of motion at the moment of impact must be parallel to the downward slope of the ramp.\n\nNeglecting air resistance, find the exact value of the launch speed $V$ required.",
+   "answer": "$\\dot{x} = \\dfrac{\\sqrt{3}V}{2}$, $\\dot{y} = -10t + \\dfrac{V}{2}$, so $\\dfrac{dy}{dx} = \\dfrac{\\dot y}{\\dot x} = \\dfrac{-20t + V}{\\sqrt{3}V}$.\n\nSmooth landing requires $\\dfrac{dy}{dx} = -1$ at impact:\n$$-\\sqrt{3}V = -20t + V \\;\\Rightarrow\\; t = \\frac{(\\sqrt{3} + 1)V}{20}.$$\nImpact is when $y = -10$: $-5t^2 + \\dfrac{Vt}{2} = -10 \\Rightarrow V = 10t - \\dfrac{20}{t}$. Substituting $t$:\n$$V = \\frac{(\\sqrt{3} + 1)V}{2} - \\frac{400}{(\\sqrt{3} + 1)V} \\;\\Rightarrow\\; \\frac{(\\sqrt{3} - 1)V}{2} = \\frac{400}{(\\sqrt{3} + 1)V}$$\n$$V^2 = \\frac{800}{(\\sqrt{3} + 1)(\\sqrt{3} - 1)} = 400 \\;\\Rightarrow\\; V = 20 \\text{ m/s} \\quad (V > 0).$$",
+   "images": [
+    "assets/img/ext1-2026-baulkham-hills/q14d.png"
+   ]
+  }
+ ]
+}
